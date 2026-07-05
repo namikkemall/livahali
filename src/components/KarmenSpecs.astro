@@ -1,0 +1,97 @@
+---
+/**
+ * KarmenSpecs.astro
+ * Premium specifications and description card for Karmen Halı collections.
+ * Displays extracted description, highlights, technical features, and care instructions.
+ */
+import karmenDetails from "../data/karmen-details.json";
+
+interface Props {
+  productId: string;
+}
+
+const { productId } = Astro.props;
+
+// Look up details in the scraped database
+const details = karmenDetails[productId as keyof typeof karmenDetails];
+
+if (!details) return null;
+
+const hasSpecs = details.specs && Object.keys(details.specs).length > 0;
+const hasHighlights = details.highlights && details.highlights.length > 0;
+---
+
+<div class="w-full rounded-2xl border border-outline bg-surface/50 p-6 md:p-8 backdrop-blur-sm shadow-sm transition-all duration-300 hover:shadow-md hover:border-outline-hover mb-10 text-left">
+  
+  {details.description && !details.description.includes('premium carpet model') && (
+    <div class="mb-8">
+      <h3 class="text-xs font-bold uppercase tracking-widest text-accent mb-3">ÜRÜN AÇIKLAMASI</h3>
+      <p class="text-on-surface-muted leading-relaxed text-sm md:text-base">
+        {details.description}
+      </p>
+    </div>
+  )}
+
+  <div class="grid gap-8 md:grid-cols-2">
+    <!-- Left: Specs Table -->
+    {hasSpecs && (
+      <div>
+        <h3 class="text-xs font-bold uppercase tracking-widest text-on-surface-muted mb-4">
+          TEKNİK ÖZELLİKLER
+        </h3>
+        <div class="divide-y divide-outline border-y border-outline">
+          {Object.entries(details.specs).map(([key, val]) => (
+            <div class="flex py-3 text-xs md:text-sm">
+              <span class="w-1/3 font-semibold text-on-surface-muted">{key}</span>
+              <span class="w-2/3 text-on-surface font-medium">{val}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Right: Highlights -->
+    {hasHighlights && (
+      <div class="flex flex-col">
+        <h3 class="text-xs font-bold uppercase tracking-widest text-on-surface-muted mb-4">
+          ÖNE ÇIKAN ÖZELLİKLER
+        </h3>
+        <ul class="space-y-3 flex-1">
+          {details.highlights.map((highlight) => {
+            const parts = highlight.split(':');
+            const hasTitle = parts.length > 1;
+            return (
+              <li class="flex items-start gap-2.5 text-xs md:text-sm text-on-surface-muted">
+                <span class="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-accent" />
+                <span>
+                  {hasTitle ? (
+                    <>
+                      <strong class="text-on-surface font-semibold">{parts[0]}:</strong>
+                      {parts.slice(1).join(':')}
+                    </>
+                  ) : (
+                    highlight
+                  )}
+                </span>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    )}
+  </div>
+
+  {details.notes && (
+    <div class="mt-8 pt-6 border-t border-outline">
+      <h3 class="text-xs font-bold uppercase tracking-widest text-accent/80 mb-2.5 flex items-center gap-2">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 shrink-0 text-accent" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"/>
+        </svg>
+        DİKKAT EDİLMESİ GEREKENLER
+      </h3>
+      <p class="text-xs text-on-surface-muted leading-relaxed italic">
+        {details.notes}
+      </p>
+    </div>
+  )}
+</div>

@@ -1,0 +1,130 @@
+---
+/**
+ * Footer.astro — Site-wide footer
+ * Contains store hours, address, and brand info.
+ * Update the text blocks below with your real business details.
+ */
+---
+
+<footer id="iletisim" class="border-t border-white/10 bg-[#161412] text-stone-300">
+  <div
+    class="mx-auto grid max-w-7xl gap-8 px-4 py-12 sm:px-6 md:grid-cols-3 lg:px-8"
+  >
+    <!-- ── Brand column ── -->
+    <div>
+      <img
+        src="/images/logo/footer-logo.png"
+        alt="Liva Halı Logo"
+        class="h-22 w-auto object-contain mb-4"
+      />
+      <p class="text-sm leading-relaxed text-stone-400 mb-4">
+        Premium halı koleksiyonları ile yaşam alanlarınızı dönüştürün. Kalite ve
+        estetiğin buluştuğu adres.
+      </p>
+      
+      <!-- Quality certification -->
+      <div class="flex items-center gap-3">
+        <img
+          src="/images/logos/oeko-kucuk.png"
+          alt="Oeko-Tex Certified"
+          class="h-10 w-auto object-contain bg-white rounded p-1"
+        />
+        <div class="text-[11px] leading-tight text-stone-500 font-medium">
+          <p class="text-stone-300 font-semibold">OEKO-TEX®</p>
+          <p>Standard 100 Sertifikalı</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Store hours & Contact ── -->
+    <div>
+      <h3 class="mb-3 text-lg font-bold text-white">Çalışma Saatleri</h3>
+      <ul class="space-y-1.5 text-sm text-stone-400 mb-6">
+        <li>
+          <span class="font-medium text-stone-200">Pazartesi – Cumartesi:</span
+          > 09:00 – 20:30
+        </li>
+        <li>
+          <span class="font-medium text-stone-200">Pazar:</span> 10:00 – 17:00
+        </li>
+      </ul>
+
+      <h3 class="mb-3 text-lg font-bold text-white">İletişim</h3>
+      <ul class="space-y-3">
+        <li>
+          <a
+            href="tel:+905359453011"
+            class="inline-flex items-center gap-2.5 rounded-lg bg-white/5 border border-white/10 px-4 py-2.5 text-sm font-semibold text-white transition-all hover:bg-white/10 hover:border-white/20"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-[#E4CD8C]" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/>
+            </svg>
+            +90 535 945 30 11
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.instagram.com/liva_hali_/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-2.5 rounded-lg bg-white/5 border border-white/10 px-4 py-2.5 text-sm font-semibold text-white transition-all hover:bg-white/10 hover:border-white/20"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-[#E4CD8C]" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845a1.44 1.44 0 100-2.881 1.44 1.44 0 000 2.881z"/>
+            </svg>
+            @liva_hali_
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.facebook.com/p/Liva-Hal%C4%B1-61558528872155/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-2.5 rounded-lg bg-white/5 border border-white/10 px-4 py-2.5 text-sm font-semibold text-white transition-all hover:bg-white/10 hover:border-white/20"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-[#E4CD8C]" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M22.675 0h-21.35c-.732 0-1.325.593-1.325 1.325v21.351c0 .731.593 1.324 1.325 1.324h11.495v-9.294h-3.128v-3.622h3.128v-2.671c0-3.1 1.893-4.788 4.659-4.788 1.325 0 2.463.099 2.795.143v3.24l-1.918.001c-1.504 0-1.795.715-1.795 1.763v2.313h3.587l-.467 3.622h-3.12v9.293h6.116c.73 0 1.323-.593 1.323-1.325v-21.35c0-.732-.593-1.325-1.325-1.325z"/>
+            </svg>
+            Liva Halı
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <!-- ── Location ── -->
+    <div>
+      <h3 class="mb-3 text-lg font-bold text-white">Mağaza Konumu</h3>
+      <!-- Store Location Card -->
+      <div class="overflow-hidden rounded-lg border border-white/10 bg-white/5 p-5 text-center">
+        <div class="mb-3 flex justify-center">
+          <div class="rounded-full bg-[#E4CD8C]/10 p-3">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-[#E4CD8C]" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.242-4.243a8 8 0 1111.314 0z" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+            </svg>
+          </div>
+        </div>
+        <p class="mb-4 text-sm text-stone-300">
+          Ömer Nasuhi Bilmen Mah.<br/>
+          Kombina Cd. No:31/A<br/>
+          Yakutiye / Erzurum
+        </p>
+        <a
+          href="https://www.google.com/maps/place/Liva+Hal%C4%B1/@39.8715677,41.2370148,17z/data=!4m6!3m5!1s0x406e5f97b355617d:0xe5376cb77c511fdf!8m2!3d39.8715677!4d41.2370148!16s%2Fg%2F11vxwb10g8?entry=ttu"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex w-full items-center justify-center gap-2 rounded bg-[#1C1A17] py-2.5 text-xs font-semibold text-[#E4CD8C] transition-colors hover:bg-black hover:text-[#f3e1b3]"
+        >
+          Google Haritalar'da Aç →
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Bottom bar ── -->
+  <div class="border-t border-white/5 py-6">
+    <p class="text-center text-xs text-stone-500">
+      © {new Date().getFullYear()} Liva Halı. Tüm hakları saklıdır.
+    </p>
+  </div>
+</footer>

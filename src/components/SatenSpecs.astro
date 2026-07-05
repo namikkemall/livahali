@@ -1,0 +1,139 @@
+---
+/**
+ * SatenSpecs.astro
+ * Premium specifications card for Saten Tekstil collections.
+ * Renders sizes, feature badges, finish icons, and Rulo Kesim status.
+ */
+interface Props {
+  description: string;
+  tags: string[];
+}
+
+const { description, tags } = Astro.props;
+
+const ALL_FEATURES = [
+  "Anti Alerjik",
+  "Tozu Yok",
+  "Tozu Az",
+  "Triko Akrilik",
+  "Pamuk Taban",
+  "Yıkanabilir",
+  "Özel İplik",
+  "Tarak"
+];
+
+const ALL_FINISHES = [
+  "Daire",
+  "Oval",
+  "Spor Saçak",
+  "Overlok",
+  "Katlama"
+];
+
+const iconMap: Record<string, { icon: string; label: string; isGreen?: boolean }> = {
+  "Anti Alerjik": { icon: "/images/icons/anti-alerjik.png", label: "ANTİALERJİK", isGreen: true },
+  "Tozu Yok": { icon: "/images/icons/tozu-yok.png", label: "TOZUYOK", isGreen: true },
+  "Tozu Az": { icon: "/images/icons/tozu-az.png", label: "TOZU AZ", isGreen: true },
+  "Triko Akrilik": { icon: "/images/icons/triko-akrilik.png", label: "TRİKO AKRİLİK", isGreen: true },
+  "Pamuk Taban": { icon: "/images/icons/pamuk-taban.png", label: "PAMUK TABAN", isGreen: true },
+  "Yıkanabilir": { icon: "/images/icons/yikanabilir.png", label: "YIKANABİLİR", isGreen: true },
+  "Özel İplik": { icon: "/images/icons/ozel-iplik.png", label: "ÖZEL İPLİK", isGreen: true },
+  "Tarak": { icon: "/images/icons/tarak.png", label: "TARAK", isGreen: true },
+  "Daire": { icon: "/images/icons/daire.png", label: "Daire" },
+  "Oval": { icon: "/images/icons/oval.png", label: "Oval" },
+  "Spor Saçak": { icon: "/images/icons/spor-sacak.png", label: "Spor Saçak" },
+  "Overlok": { icon: "/images/icons/overlok.png", label: "Overlok" },
+  "Katlama": { icon: "/images/icons/katlama.png", label: "Katlama" },
+};
+
+const features = tags.filter(tag => ALL_FEATURES.includes(tag));
+const finishes = tags.filter(tag => ALL_FINISHES.includes(tag));
+const hasRulo = tags.includes("Rulo Kesim");
+---
+
+<div class="w-full lg:max-w-none lg:w-[calc(100%+4rem)] lg:-mx-8 xl:w-[calc(100%+6rem)] xl:-mx-12 rounded-2xl border border-outline bg-surface/50 p-6 md:py-8 md:px-4 backdrop-blur-sm shadow-sm transition-all duration-300 hover:shadow-md hover:border-outline-hover mb-10">
+  <!-- Top part: Size and Rulo note -->
+  <div class="flex flex-col items-center text-center pb-6 border-b border-outline mb-6">
+    <h3 class="text-xs font-bold uppercase tracking-widest text-accent mb-2">EBATLAR</h3>
+    <div class="text-lg font-semibold text-on-surface leading-relaxed max-w-3xl">
+      {description}
+    </div>
+    
+    {hasRulo && (
+      <div class="mt-4 flex flex-col sm:flex-row items-center justify-center gap-2.5 px-6 py-2.5 rounded-xl bg-accent/5 border border-accent/15 text-sm text-on-surface-muted w-full">
+        <img 
+          src="/images/icons/makas.png" 
+          alt="Rulo Kesim" 
+          class="h-6 w-6 object-contain select-none" 
+          loading="lazy"
+        />
+        <span class="font-medium">
+          Rulo Kesim desenlerimizde tüm standart ebatlarda hazırlanabilmektedir.
+        </span>
+      </div>
+    )}
+  </div>
+
+  <!-- Bottom part: Features & Finishes grid -->
+  <div class="grid gap-4 grid-cols-1 lg:grid-cols-[3.2fr_5fr]">
+    <!-- Left: Features -->
+    {features.length > 0 && (
+      <div class="flex flex-col items-center md:items-start text-center md:text-left border-b lg:border-b-0 pb-8 lg:pb-0 lg:border-r border-outline pr-0 lg:pr-4">
+        <h3 class="text-xs font-bold uppercase tracking-widest text-on-surface-muted mb-5 w-full text-center md:text-left">
+          TEKNİK ÖZELLİKLER
+        </h3>
+        <div class="flex flex-wrap pb-4 justify-center md:justify-start gap-4">
+          {features.map(feat => {
+            const mapped = iconMap[feat];
+            if (!mapped) return null;
+            return (
+              <div class="flex flex-col items-center w-24 md:w-32 shrink-0 snap-start group">
+                <div class="w-20 h-20 md:w-28 md:h-28 rounded-full border border-stone-200 bg-white flex items-center justify-center p-2 md:p-2.5 mb-2 md:mb-3 shadow-[0_2px_12px_rgba(0,0,0,0.06)] transition-all duration-300 group-hover:border-accent/40 group-hover:shadow-[0_4px_20px_rgba(0,0,0,0.12)]">
+                  <img 
+                    src={mapped.icon} 
+                    alt={feat} 
+                    class="h-full w-full object-contain transition-transform duration-300 group-hover:scale-105"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="text-[10px] md:text-xs font-bold text-center tracking-wide text-stone-700 group-hover:text-accent uppercase leading-tight">
+                  {mapped.label}
+                </span>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    )}
+
+    <!-- Right: Finishes -->
+    {finishes.length > 0 && (
+      <div class="flex flex-col items-center md:items-start text-center md:text-left">
+        <h3 class="text-xs font-bold uppercase tracking-widest text-on-surface-muted mb-5 w-full text-center md:text-left">
+          KENAR VE BİTİŞ SEÇENEKLERİ
+        </h3>
+        <div class="flex flex-wrap pb-4 justify-center md:justify-start gap-3">
+          {finishes.map(finish => {
+            const mapped = iconMap[finish];
+            if (!mapped) return null;
+            return (
+              <div class="flex flex-col items-center w-24 md:w-32 shrink-0 snap-start group">
+                <div class="w-20 h-20 md:w-28 md:h-28 rounded-full border border-stone-200 bg-white flex items-center justify-center p-2 md:p-2.5 mb-2 md:mb-3 shadow-[0_2px_12px_rgba(0,0,0,0.06)] transition-all duration-300 group-hover:border-accent/40 group-hover:shadow-[0_4px_20px_rgba(0,0,0,0.12)]">
+                  <img 
+                    src={mapped.icon} 
+                    alt={finish} 
+                    class="h-full w-full object-contain transition-transform duration-300 group-hover:scale-105"
+                    loading="lazy"
+                  />
+                </div>
+                <span class="text-[10px] md:text-xs font-bold text-center text-stone-700 group-hover:text-stone-900 leading-tight">
+                  {mapped.label}
+                </span>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    )}
+  </div>
+</div>

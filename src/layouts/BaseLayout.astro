@@ -1,0 +1,49 @@
+---
+/**
+ * BaseLayout.astro — Root HTML shell
+ * Wraps every page with consistent metadata, nav, footer, and font loading.
+ */
+import "../styles/global.css";
+import Navbar from "../components/Navbar.astro";
+import Footer from "../components/Footer.astro";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = "Liva Halı — Karmen ve Saten Tekstil Halı Koleksiyonları",
+  description = "Liva Halı — 61 premium halı koleksiyonu. Karmen ve Saten Tekstil markalarıyla salon, yatak odası ve ofis halıları. Ölçü ve model bilgisi için hemen arayın. ☎ 0535 945 30 11",
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+
+    <!-- Preconnect to Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body class="min-h-screen bg-[var(--color-surface-dim)] text-on-surface">
+    <div class="flex min-h-screen flex-col w-full overflow-x-hidden">
+      <Navbar />
+
+      <main class="flex-1 w-full flex flex-col relative">
+        <slot />
+      </main>
+
+      <Footer />
+    </div>
+  </body>
+</html>

@@ -1,0 +1,506 @@
+---
+/**
+ * Product Variant Detail Page — src/pages/catalog/[category]/[product].astro
+ * Full product view with image canvas, feature badges, color swatches,
+ * and a sticky WhatsApp CTA button.
+ *
+ * Uses nested getStaticPaths() to generate every category/product combination.
+ *
+ * ⬇️  IMPORTANT: Replace "YOUR_PHONE_NUMBER" below with your real WhatsApp
+ *    number in international format (e.g. 905551234567).
+ */
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import SatenSpecs from "../../../components/SatenSpecs.astro";
+import KarmenSpecs from "../../../components/KarmenSpecs.astro";
+import { allCollections } from "../../../data/collections";
+import type { Category, Product } from "../../../data/catalog";
+import karmenDetails from "../../../data/karmen-details.json";
+
+export function getStaticPaths() {
+  const paths: {
+    params: { category: string; product: string };
+    props: { category: Category; product: Product };
+  }[] = [];
+
+  for (const cat of allCollections) {
+    for (const prod of cat.products) {
+      paths.push({
+        params: { category: cat.id, product: prod.id },
+        props: { category: cat, product: prod },
+      });
+    }
+  }
+
+  return paths;
+}
+
+interface Props {
+  category: Category;
+  product: Product;
+}
+
+const { category, product } = Astro.props;
+
+// Default to first variant for initial render
+const defaultVariant = product.variants[0];
+
+// Same series-prefix logic as in [category]/index.astro
+const seriesPrefix = category.title.split(' ')[0].toUpperCase();
+const displayName = product.name.toUpperCase().startsWith(seriesPrefix)
+  ? product.name
+  : `${seriesPrefix} ${product.name}`;
+
+// ⬇️  Replace YOUR_PHONE_NUMBER with your actual WhatsApp number
+const WHATSAPP_NUMBER = "905359453011";
+
+// Parse ebat dimensions for Saten carpets
+const ebats = (() => {
+  if (category.brand !== 'saten' || !category.description) return [];
+  const clean = category.description.trim();
+  
+  if (clean.includes('Ebatlarında') || clean.includes('Rulo') || /^\d+(\s*[\/\-]\s*\d+)*\s*$/.test(clean)) {
+    let cleanPart = clean.replace(/Ebatlarında.*/gi, '').replace(/Rulo.*/gi, '').trim();
+    if (cleanPart.endsWith('/')) cleanPart = cleanPart.slice(0, -1).trim();
+    if (cleanPart.endsWith('-')) cleanPart = cleanPart.slice(0, -1).trim();
+    
+    const parts = cleanPart.split(/[\/\-]/).map(p => p.trim()).filter(Boolean);
+    return parts.map(p => {
+      if (/^\d+$/.test(p)) {
+        return `${p} cm`;
+      }
+      return p;
+    });
+  } 
+  else if (clean.includes('/') || clean.includes('x')) {
+    const parts = clean.split('/').map(p => p.trim()).filter(Boolean);
+    if (parts.some(p => p.includes('x') || p.includes('Set'))) {
+      return parts;
+    }
+  }
+  return [];
+})();
+
+// Parse sizes based on brand (saten uses ebats list, karmen uses karmenDetails sizes)
+const availableSizes = (() => {
+  if (category.brand === 'saten') return ebats;
+  const details = karmenDetails[product.id as keyof typeof karmenDetails] as any;
+  return details?.sizes ?? [];
+})();
+// Fallback dynamic SEO description for the product
+const sizeText = availableSizes.length > 0 ? `${availableSizes[0]} vb. ebat seçenekleri` : "";
+const tagsText = product.tags ? product.tags.filter(t => t).join(', ') : "";
+const dynamicDescription = product.description && product.description.trim().length > 10 
+  ? product.description 
+  : `${displayName} modeli — ${category.title} halı koleksiyonu. ${sizeText ? sizeText + " ile. " : ""}${tagsText ? tagsText + ". " : ""}En uygun fiyat bilgisi ve WhatsApp'tan hızlı sipariş için hemen ulaşın: 0535 945 30 11.`;
+---
+
+<BaseLayout
+  title={`${displayName} — ${category.title} — Liva Halı`}
+  description={dynamicDescription}
+>
+  <section class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+    <!-- ── Breadcrumb ── -->
+    <nav class="mb-8 text-sm text-on-surface-muted" aria-label="Breadcrumb">
+      <ol class="flex flex-wrap items-center gap-1.5">
+        <li>
+          <a href="/" class="transition-colors hover:text-accent">Ana Sayfa</a>
+        </li>
+        <li class="text-outline-hover">/</li>
+        <li>
+          <a href={`/catalog/?filter=${category.brand}`} class="transition-colors hover:text-accent">
+            {category.brand === 'saten' ? 'Saten Tekstil' : 'Karmen Halı'}
+          </a>
+        </li>
+        <li class="text-outline-hover">/</li>
+        <li>
+          <a
+            href={`/catalog/${category.id}/`}
+            class="transition-colors hover:text-accent"
+          >
+            {category.title}
+          </a>
+        </li>
+        <li class="text-outline-hover">/</li>
+        <li class="font-medium text-on-surface">{product.name}</li>
+      </ol>
+    </nav>
+
+    <!-- ════════════════════════════════════════════════════════
+         PRODUCT LAYOUT — two-column split on desktop
+         ════════════════════════════════════════════════════════ -->
+    <div class="grid gap-10 lg:grid-cols-2 min-w-0">
+      <!-- ── LEFT: Image canvas + interactive thumbnails + feature badges ── -->
+      <div class="min-w-0">
+        <!-- Gallery layout: vertical thumbnails on desktop, horizontal below on mobile -->
+        <div class="flex flex-col-reverse md:flex-row gap-4 min-w-0">
+          <!-- ── Interactive thumbnails strip ── -->
+          {
+            product.variants.length > 1 && (
+              <div
+                class="flex md:flex-col gap-3 overflow-x-auto md:overflow-y-auto pb-2 md:pb-0 scrollbar-thin scrollbar-thumb-outline shrink-0 w-full md:w-20 md:max-h-[600px] min-w-0"
+                id="thumbnail-container"
+              >
+                {product.variants.map((v, idx) => (
+                  <button
+                    type="button"
+                    data-image={v.imagePath}
+                    data-color-name={v.colorName}
+                    data-index={idx}
+                    class:list={[
+                      "thumbnail-btn relative aspect-[2/3] w-16 md:w-full shrink-0 overflow-hidden rounded-lg border-2 transition-all duration-200 cursor-pointer",
+                      idx === 0
+                        ? "border-accent ring-2 ring-accent/20 opacity-100"
+                        : "border-outline opacity-60 hover:opacity-100 hover:border-outline-hover",
+                    ]}
+                    aria-label={`Görsel ${idx + 1}`}
+                  >
+                    <img
+                      src={v.imagePath}
+                      alt={`${product.name} — Görsel ${idx + 1}`}
+                      class="h-full w-full object-cover"
+                      loading="lazy"
+                    />
+                  </button>
+                ))}
+              </div>
+            )
+          }
+
+          <!-- Main product image — aspect-ratio locked to prevent CLS -->
+          <div
+            id="product-image-container"
+            class="flex-1 overflow-hidden rounded-(--radius-card) border border-outline bg-surface min-w-0"
+          >
+            <div class="relative aspect-[2/3]">
+              <img
+                id="product-main-image"
+                src={defaultVariant.imagePath}
+                alt={`${product.name} — ${defaultVariant.colorName}`}
+                class="h-full w-full object-cover transition-opacity duration-300"
+                onerror="this.style.display='none'; this.parentElement.classList.add('img-placeholder');"
+              />
+            </div>
+          </div>
+        </div>
+
+        <!-- Feature/tag badges -->
+        {
+          category.brand !== 'saten' && (() => {
+            const filteredTags = product.tags.filter(
+              (tag) => tag !== "%100 Akrilik" && tag !== "Kolay Temizlenir"
+            );
+            if (filteredTags.length === 0) return null;
+            return (
+              <div class="mt-5 flex flex-wrap gap-2">
+                {filteredTags.map((tag) => (
+                  <span class="rounded-(--radius-pill) border border-outline bg-surface px-3.5 py-1.5 text-xs font-medium text-on-surface-muted">
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            );
+          })()
+        }
+      </div>
+
+      <!-- ── RIGHT: Product info + CTA ── -->
+      <div class="flex flex-col min-w-0">
+        <h1 class="text-3xl font-extrabold text-on-surface sm:text-4xl">
+          {displayName}
+        </h1>
+
+        <p class="mt-1 text-sm font-medium text-accent">
+          {category.title}
+        </p>
+
+        {/* ── Size Selector ── */}
+        {
+          availableSizes.length > 0 && (
+            <div class="mt-6" id="size-selector-container">
+              <span class="block text-xs font-semibold uppercase tracking-wider text-on-surface-muted mb-2.5">
+                Ebat Seçin:
+              </span>
+              <div class="flex flex-wrap gap-2" id="size-options">
+                {availableSizes.map((size, idx) => (
+                  <button
+                    type="button"
+                    data-size={size}
+                    class:list={[
+                      "size-btn inline-flex items-center rounded-full bg-surface border px-3.5 py-1.5 text-xs font-semibold shadow-sm transition-all cursor-pointer",
+                      idx === 0
+                        ? "border-accent text-accent ring-2 ring-accent/20"
+                        : "border-outline text-on-surface hover:border-accent hover:text-accent",
+                    ]}
+                  >
+                    {size}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )
+        }
+
+        <!-- ── WhatsApp CTA ── -->
+        <div class="mt-8">
+          <!-- Trust Block (No Price Explanation) -->
+          <div class="mb-5 rounded-xl border border-accent/20 bg-accent/5 p-4">
+            <div class="flex items-start gap-3">
+              <div class="mt-0.5 text-accent">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+              </div>
+              <div>
+                <h4 class="text-sm font-bold text-on-surface">Size Özel Fiyat İçin Ulaşın</h4>
+                <p class="mt-1 text-sm leading-relaxed text-on-surface-muted">
+                  Evinize en uygun ölçüyü belirlemek ve net bir fiyat almak için doğrudan iletişime geçebilirsiniz.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- WhatsApp button -->
+          <a
+            id="whatsapp-cta"
+            href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(`Merhaba, şu model hakkında bilgi almak istiyorum: ${displayName}${availableSizes.length > 0 ? `, ${availableSizes[0]} ebadında` : ''}.`)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="flex w-full items-center justify-center gap-3 rounded-(--radius-btn) bg-whatsapp px-6 py-4 text-base font-bold text-white transition-colors hover:bg-whatsapp-hover"
+          >
+            <!-- WhatsApp icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+            </svg>
+            WhatsApp ile Sipariş Ver
+          </a>
+
+          <!-- Divider -->
+          <div class="mt-3 flex items-center gap-3 text-xs text-on-surface-muted">
+            <span class="h-px flex-1 bg-outline"></span>
+            <span>veya</span>
+            <span class="h-px flex-1 bg-outline"></span>
+          </div>
+
+          <!-- Phone call button -->
+          <a
+            href="tel:+905359453011"
+            class="mt-3 flex w-full items-center justify-center gap-3 rounded-(--radius-btn) border border-outline bg-surface px-6 py-3.5 text-sm font-semibold text-on-surface transition-colors hover:border-outline-hover hover:bg-surface-muted"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-accent" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/>
+            </svg>
+            Telefonla Ara
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Saten Specifications ── -->
+    {category.brand === 'saten' && (
+      <div class="mt-12">
+        <SatenSpecs description={category.description} tags={product.tags} />
+      </div>
+    )}
+
+    <!-- ── Karmen Specifications ── -->
+    {category.brand === 'karmen' && (
+      <div class="mt-12">
+        <KarmenSpecs productId={product.id} />
+      </div>
+    )}
+  </section>
+
+
+  <!-- ══════════════════════════════════════════════════
+       INLINE SCRIPT — Auto-rotating slideshow with cross-fade
+       ══════════════════════════════════════════════════ -->
+  {
+    product.variants.length > 1 && (
+      <script
+        define:vars={{
+          productName: displayName,
+          whatsappNumber: WHATSAPP_NUMBER,
+        }}
+      >
+        document.addEventListener("DOMContentLoaded", () => {
+          const thumbnails = document.querySelectorAll(".thumbnail-btn");
+          const mainImage = document.getElementById("product-main-image");
+          const ctaLink = document.getElementById("whatsapp-cta");
+          const fabLink = document.getElementById("whatsapp-fab");
+
+          if (!mainImage || thumbnails.length <= 1) return;
+
+          let currentIndex = 0;
+          let intervalId = null;
+
+          function getSelectedSize() {
+            const activeBtn = document.querySelector(".size-btn.border-accent");
+            return activeBtn ? activeBtn.dataset.size : null;
+          }
+
+          function buildWhatsAppMsg(modelInfo) {
+            const size = getSelectedSize();
+            const sizePart = size ? `, ${size} ebadında` : "";
+            return encodeURIComponent(
+              `Merhaba, şu model hakkında bilgi almak istiyorum: ${modelInfo}${sizePart}.`
+            );
+          }
+
+          function updateActiveImage(index) {
+            currentIndex = index;
+            const btn = thumbnails[index];
+            if (!btn) return;
+
+            const imageSrc = btn.dataset.image;
+            const colorName = btn.dataset.colorName || `Görsel ${index + 1}`;
+
+            // Cross-fade opacity effect
+            mainImage.style.opacity = "0.3";
+            setTimeout(() => {
+              mainImage.src = imageSrc;
+              mainImage.alt = `${productName} — ${colorName}`;
+              mainImage.style.opacity = "1";
+            }, 150);
+
+            // Update thumbnail borders/styles
+            thumbnails.forEach((t) => {
+              t.classList.remove("border-accent", "ring-2", "ring-accent/20", "opacity-100");
+              t.classList.add("border-outline", "opacity-60");
+            });
+            btn.classList.add("border-accent", "ring-2", "ring-accent/20", "opacity-100");
+            btn.classList.remove("border-outline", "opacity-60");
+
+            // Scroll active thumbnail into view smoothly within its own container only (prevents page jump/scroll)
+            const container = document.getElementById("thumbnail-container");
+            if (container) {
+              const btnRect = btn.getBoundingClientRect();
+              const containerRect = container.getBoundingClientRect();
+              
+              if (window.innerWidth >= 768) { // Desktop (vertical scroll)
+                const targetScrollTop = container.scrollTop + (btnRect.top - containerRect.top) - (containerRect.height / 2) + (btnRect.height / 2);
+                container.scrollTo({ top: targetScrollTop, behavior: "smooth" });
+              } else { // Mobile (horizontal scroll)
+                const targetScrollLeft = container.scrollLeft + (btnRect.left - containerRect.left) - (containerRect.width / 2) + (btnRect.width / 2);
+                container.scrollTo({ left: targetScrollLeft, behavior: "smooth" });
+              }
+            }
+
+            // Dynamically update WhatsApp CTA texts (includes selected size, but no Görsel info)
+            const msg = buildWhatsAppMsg(productName);
+            if (ctaLink) {
+              ctaLink.href = `https://wa.me/${whatsappNumber}?text=${msg}`;
+            }
+            if (fabLink) {
+              fabLink.href = `https://wa.me/${whatsappNumber}?text=${msg}`;
+            }
+          }
+
+          function startSlideshow() {
+            stopSlideshow();
+            intervalId = setInterval(() => {
+              const nextIndex = (currentIndex + 1) % thumbnails.length;
+              updateActiveImage(nextIndex);
+            }, 4500); // 4.5 seconds
+          }
+
+          function stopSlideshow() {
+            if (intervalId) {
+              clearInterval(intervalId);
+            }
+          }
+
+          // Thumbnail click handlers
+          thumbnails.forEach((btn, index) => {
+            btn.addEventListener("click", () => {
+              updateActiveImage(index);
+              startSlideshow(); // Reset timer so it doesn't immediately rotate
+            });
+          });
+
+          // Initialize automatic rotation
+          startSlideshow();
+
+          // Expose updateWhatsApp for the size selector to call
+          window.__updateWhatsAppFromSlideshow = () => {
+            const msg = buildWhatsAppMsg(productName);
+            if (ctaLink) ctaLink.href = `https://wa.me/${whatsappNumber}?text=${msg}`;
+            if (fabLink) fabLink.href = `https://wa.me/${whatsappNumber}?text=${msg}`;
+          };
+        });
+      </script>
+    )
+  }
+
+  <!-- ══════════════════════════════════════════════════
+       INLINE SCRIPT — Size selector
+       ══════════════════════════════════════════════════ -->
+  {
+    availableSizes.length > 0 && (
+      <script
+        define:vars={{
+          displayNameForSize: displayName,
+          whatsappNumberForSize: WHATSAPP_NUMBER,
+        }}
+      >
+        document.addEventListener("DOMContentLoaded", () => {
+          const sizeButtons = document.querySelectorAll(".size-btn");
+          const ctaLink = document.getElementById("whatsapp-cta");
+          const fabLink = document.getElementById("whatsapp-fab");
+
+          if (!sizeButtons.length) return;
+
+          function updateWhatsAppLinks(selectedSize) {
+            const sizePart = selectedSize ? `, ${selectedSize} ebadında` : "";
+            const msg = encodeURIComponent(
+              `Merhaba, şu model hakkında bilgi almak istiyorum: ${displayNameForSize}${sizePart}.`
+            );
+            if (ctaLink) {
+              ctaLink.href = `https://wa.me/${whatsappNumberForSize}?text=${msg}`;
+            }
+            if (fabLink) {
+              fabLink.href = `https://wa.me/${whatsappNumberForSize}?text=${msg}`;
+            }
+          }
+
+          sizeButtons.forEach((btn) => {
+            btn.addEventListener("click", () => {
+              // Update active button styling
+              sizeButtons.forEach((b) => {
+                b.classList.remove("border-accent", "text-accent", "ring-2", "ring-accent/20");
+                b.classList.add("border-outline", "text-on-surface");
+              });
+              btn.classList.add("border-accent", "text-accent", "ring-2", "ring-accent/20");
+              btn.classList.remove("border-outline", "text-on-surface");
+
+              const selectedSize = btn.dataset.size;
+
+              // If there's also a slideshow running, let it rebuild its URL with the new size
+              if (window.__updateWhatsAppFromSlideshow) {
+                window.__updateWhatsAppFromSlideshow();
+              } else {
+                // No slideshow (single variant) — update directly
+                updateWhatsAppLinks(selectedSize);
+              }
+            });
+          });
+        });
+      </script>
+    )
+  }
+
+  <!-- ── Sticky WhatsApp fab for mobile (always visible) ── -->
+  <div class="fixed bottom-6 right-6 z-50 lg:hidden">
+    <a
+      id="whatsapp-fab"
+      href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(`Merhaba, şu model hakkında bilgi almak istiyorum: ${displayName}${availableSizes.length > 0 ? `, ${availableSizes[0]} ebadında` : ''}.`)}`}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="flex h-14 w-14 items-center justify-center rounded-full bg-whatsapp shadow-lg shadow-whatsapp/30 transition-transform hover:scale-110"
+      aria-label="WhatsApp ile iletişime geç"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7 text-white" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+      </svg>
+    </a>
+  </div>
+</BaseLayout>

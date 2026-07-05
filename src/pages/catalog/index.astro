@@ -1,0 +1,336 @@
+---
+/**
+ * Catalog Page — src/pages/catalog/index.astro
+ * Displays the full grid of collections with hybrid brand filtering.
+ */
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CategoryCard from "../../components/CategoryCard.astro";
+import { allCollections } from "../../data/collections";
+
+const karmenCount = allCollections.filter((c) => c.brand === "karmen").length;
+const satenCount = allCollections.filter((c) => c.brand === "saten").length;
+
+/** Build a searchable keyword string for a collection (lowercased Turkish).
+ *  Splits hyphenated slugs into individual words so that
+ *  searching "art" won't match inside "kabartma". */
+function buildKeywords(cat: typeof allCollections[0]): string {
+  const raw = [
+    cat.title, cat.id, cat.description,
+    ...cat.products.map(p => p.name),
+    ...cat.products.map(p => p.id),
+    ...cat.products.flatMap(p => p.tags),
+  ].join(' ').toLocaleLowerCase('tr');
+  // Replace hyphens with spaces so each slug segment becomes a distinct word
+  return raw.replace(/-/g, ' ');
+}
+---
+
+<BaseLayout
+  title="Tüm Koleksiyonlar — Liva Halı"
+  description="Liva Halı premium Karmen ve Saten Tekstil halı koleksiyonlarının tamamını keşfedin."
+>
+  <main class="bg-surface-dim min-h-screen pt-24 pb-20">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <!-- Section header -->
+      <div class="mb-8 border-b border-outline pb-6">
+        <h1 class="text-3xl font-bold text-on-surface sm:text-4xl">
+          Tüm Koleksiyonlar
+        </h1>
+        <p class="mt-2 text-sm text-on-surface-muted">
+          {allCollections.length} koleksiyon, {allCollections.reduce((sum, c) => sum + c.products.length, 0)} model — yaşam alanınız için en iyi halıyı bulun.
+        </p>
+      </div>
+
+      <!-- ── Filter + Search Row ── -->
+      <div class="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between mb-8">
+        <!-- Brand Filter Tabs -->
+        <div class="brand-filter-bar flex flex-wrap gap-2" id="brand-filter">
+          <button
+            type="button"
+            data-filter="all"
+            class="brand-tab active rounded-(--radius-pill) border border-accent bg-accent-dim px-5 py-2 text-sm font-semibold text-accent transition-all duration-200 cursor-pointer"
+          >
+            Koleksiyonlar
+            <span class="ml-1.5 text-xs opacity-70">({allCollections.length})</span>
+          </button>
+          <button
+            type="button"
+            data-filter="karmen"
+            class="brand-tab rounded-(--radius-pill) border border-outline px-5 py-2 text-sm font-semibold text-on-surface-muted transition-all duration-200 hover:border-accent/50 hover:text-accent cursor-pointer"
+          >
+            Karmen Halı
+            <span class="ml-1.5 text-xs opacity-70">({karmenCount})</span>
+          </button>
+          <button
+            type="button"
+            data-filter="saten"
+            class="brand-tab rounded-(--radius-pill) border border-outline px-5 py-2 text-sm font-semibold text-on-surface-muted transition-all duration-200 hover:border-accent/50 hover:text-accent cursor-pointer"
+          >
+            Saten Tekstil
+            <span class="ml-1.5 text-xs opacity-70">({satenCount})</span>
+          </button>
+        </div>
+
+        <!-- Search Input -->
+        <form action="" onsubmit="event.preventDefault();" class="relative w-full sm:w-72 lg:w-80">
+          <div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3.5">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-on-surface-muted" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+            </svg>
+          </div>
+          <input
+            type="search"
+            id="collection-search"
+            placeholder="Model veya koleksiyon ara..."
+            autocomplete="off"
+            class="w-full rounded-xl border border-outline-hover shadow-sm bg-surface py-2.5 pl-10 pr-10 text-sm text-on-surface placeholder:text-on-surface-muted/60 transition-all duration-200 focus:border-accent focus:ring-2 focus:ring-accent/20 focus:outline-none hover:border-accent/60"
+          />
+          <button
+            type="button"
+            id="search-clear"
+            class="absolute inset-y-0 right-0 hidden items-center pr-3.5 text-on-surface-muted hover:text-on-surface transition-colors cursor-pointer"
+            aria-label="Aramayı temizle"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
+        </form>
+      </div>
+
+      <!-- Result count (visible only during search) -->
+      <p id="result-count" class="-mt-4 mb-6 text-sm font-medium text-on-surface-muted" style="display:none;"></p>
+
+      <!-- Anti-FOUC Inline Script prevents flashing of unfiltered items and wrong tab state -->
+      <script is:inline>
+        (function() {
+          try {
+            const params = new URLSearchParams(window.location.search);
+            const filter = params.get("filter") || "all";
+            
+            // 1. Instantly update tab active states before next paint
+            const tabs = document.querySelectorAll('.brand-tab');
+            if (tabs.length > 0) {
+              tabs.forEach(t => {
+                if (t.dataset.filter === filter) {
+                  t.classList.add("active", "border-accent", "bg-accent-dim", "text-accent");
+                  t.classList.remove("border-outline", "text-on-surface-muted");
+                } else {
+                  t.classList.remove("active", "border-accent", "bg-accent-dim", "text-accent");
+                  t.classList.add("border-outline", "text-on-surface-muted");
+                }
+              });
+            }
+            
+            // 2. Add document attribute to hide wrong cards via CSS
+            if (filter === "saten" || filter === "karmen") {
+              document.documentElement.setAttribute('data-initial-filter', filter);
+            }
+          } catch (e) {}
+        })();
+      </script>
+      <style is:inline>
+        html[data-initial-filter="saten"] #collections-grid > a:not([data-brand="saten"]) {
+          display: none !important;
+        }
+        html[data-initial-filter="karmen"] #collections-grid > a:not([data-brand="karmen"]) {
+          display: none !important;
+        }
+      </style>
+
+      <!-- Category cards grid -->
+      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3" id="collections-grid">
+        {
+          allCollections.map((cat) => {
+            const coverImage = cat.coverImage || (cat.products[0]?.variants[0]?.imagePath ?? "");
+            return (
+              <CategoryCard
+                id={cat.id}
+                title={cat.title}
+                description={""}
+                coverImage={coverImage}
+                productCount={cat.products.length}
+                brand={cat.brand}
+                keywords={buildKeywords(cat)}
+              />
+            );
+          })
+        }
+      </div>
+
+      <!-- No results message -->
+      <div id="no-results" class="flex flex-col items-center justify-center py-20 text-center" style="display:none;">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-16 w-16 text-outline mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+        </svg>
+        <p class="text-lg font-semibold text-on-surface mb-1">Sonuç bulunamadı</p>
+        <p class="text-sm text-on-surface-muted">Farklı bir arama terimi deneyin veya filtreleri değiştirin.</p>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const tabs = document.querySelectorAll<HTMLButtonElement>(".brand-tab");
+      const cards = document.querySelectorAll<HTMLAnchorElement>("#collections-grid > a");
+      const searchInput = document.getElementById("collection-search") as HTMLInputElement | null;
+      const clearBtn = document.getElementById("search-clear") as HTMLButtonElement | null;
+      const noResults = document.getElementById("no-results");
+      const resultCount = document.getElementById("result-count");
+
+      let currentFilter = "all";
+      let currentSearch = "";
+      let isFirstLoad = true;
+      let searchTimeout: any = null;
+
+      /** Apply combined brand-filter + search. */
+      function applyFilters(animate = true) {
+        document.documentElement.removeAttribute('data-initial-filter');
+
+        // Update active tab styling
+        tabs.forEach((t) => {
+          if (t.dataset.filter === currentFilter) {
+            t.classList.add("active", "border-accent", "bg-accent-dim", "text-accent");
+            t.classList.remove("border-outline", "text-on-surface-muted");
+          } else {
+            t.classList.remove("active", "border-accent", "bg-accent-dim", "text-accent");
+            t.classList.add("border-outline", "text-on-surface-muted");
+          }
+        });
+
+        const q = currentSearch.toLocaleLowerCase("tr");
+        let visibleCount = 0;
+
+        // Build a word-boundary regex so "art" matches the word "art" but not "kabartma"
+        const escQ = q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const qRe = q ? new RegExp(`(^|\\s)${escQ}`, 'i') : null;
+
+        const isMatch = (card: HTMLAnchorElement): boolean => {
+          const brand = card.dataset.brand || "";
+          const brandOk = currentFilter === "all" || brand === currentFilter;
+          if (!brandOk) return false;
+          if (!qRe) return true;
+          const title = card.dataset.title || "";
+          const kw = card.dataset.keywords || "";
+          return qRe.test(title) || qRe.test(kw);
+        };
+
+        // ── Instant (no animation) — first paint or search typing ──
+        if (isFirstLoad || !animate) {
+          isFirstLoad = false;
+          cards.forEach((card) => {
+            if (isMatch(card)) {
+              card.style.display = "";
+              card.style.opacity = "1";
+              card.style.transform = "translateY(0)";
+              card.style.transition = "none";
+              visibleCount++;
+            } else {
+              card.style.display = "none";
+            }
+          });
+          updateUI(visibleCount);
+          return;
+        }
+
+        // ── Animated — tab click ──
+        cards.forEach((card) => {
+          card.style.transition = "opacity 0.15s ease, transform 0.15s ease";
+          card.style.opacity = "0";
+          card.style.transform = "translateY(8px)";
+        });
+
+        setTimeout(() => {
+          let idx = 0;
+          cards.forEach((card) => {
+            if (isMatch(card)) {
+              card.style.display = "";
+              card.style.opacity = "0";
+              card.style.transform = "translateY(16px)";
+              const delay = Math.min(400, idx * 15);
+              card.style.transition = `opacity 0.4s cubic-bezier(0.16,1,0.3,1) ${delay}ms, transform 0.4s cubic-bezier(0.16,1,0.3,1) ${delay}ms`;
+              idx++;
+              visibleCount++;
+            } else {
+              card.style.display = "none";
+            }
+          });
+
+          requestAnimationFrame(() => {
+            requestAnimationFrame(() => {
+              cards.forEach((card) => {
+                if (card.style.display !== "none") {
+                  card.style.opacity = "1";
+                  card.style.transform = "translateY(0)";
+                }
+              });
+            });
+          });
+          updateUI(visibleCount);
+        }, 150);
+      }
+
+      function updateUI(count: number) {
+        if (noResults) noResults.style.display = count === 0 ? "flex" : "none";
+        if (resultCount) {
+          if (currentSearch) {
+            resultCount.textContent = `"${currentSearch}" için ${count} sonuç bulundu`;
+            resultCount.style.display = "";
+          } else {
+            resultCount.style.display = "none";
+          }
+        }
+      }
+
+      // ── Tab click ──
+      tabs.forEach((tab) => {
+        tab.addEventListener("click", () => {
+          currentFilter = tab.dataset.filter || "all";
+          applyFilters(true);
+          const url = new URL(window.location.href);
+          if (currentFilter === "all") {
+            url.searchParams.delete("filter");
+          } else {
+            url.searchParams.set("filter", currentFilter);
+          }
+          window.history.pushState({}, "", url.toString());
+        });
+      });
+
+      // ── Search input (debounced 200ms, no animation for snappy feel) ──
+      if (searchInput) {
+        searchInput.addEventListener("input", () => {
+          clearTimeout(searchTimeout);
+          const val = searchInput.value.trim();
+          if (clearBtn) clearBtn.style.display = val ? "flex" : "none";
+          searchTimeout = setTimeout(() => {
+            currentSearch = val;
+            applyFilters(false);
+          }, 200);
+        });
+      }
+
+      // ── Clear button ──
+      if (clearBtn) {
+        clearBtn.addEventListener("click", () => {
+          if (searchInput) { searchInput.value = ""; searchInput.focus(); }
+          clearBtn.style.display = "none";
+          currentSearch = "";
+          applyFilters(false);
+        });
+      }
+
+      // ── Initial load from URL ──
+      const urlParams = new URLSearchParams(window.location.search);
+      currentFilter = urlParams.get("filter") || "all";
+      applyFilters(false);
+
+      // ── Browser back/forward ──
+      window.addEventListener("popstate", () => {
+        const p = new URLSearchParams(window.location.search);
+        currentFilter = p.get("filter") || "all";
+        applyFilters(false);
+      });
+    });
+  </script>
+</BaseLayout>

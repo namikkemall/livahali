@@ -1,0 +1,133 @@
+---
+/**
+ * Category Detail Page — src/pages/catalog/[category]/index.astro
+ * Lists all products within a given collection.
+ * Uses getStaticPaths() to pre-build one page per category id.
+ */
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import ProductCard from "../../../components/ProductCard.astro";
+import SatenSpecs from "../../../components/SatenSpecs.astro";
+import { allCollections } from "../../../data/collections";
+import type { Category } from "../../../data/catalog";
+
+export function getStaticPaths() {
+  return allCollections.map((cat) => ({
+    params: { category: cat.id },
+    props: { category: cat },
+  }));
+}
+
+interface Props {
+  category: Category;
+}
+
+const { category } = Astro.props;
+
+// Extract first word of title as the series prefix (e.g. "ARMADA" from "ARMADA Serisi")
+const seriesPrefix = category.title.split(' ')[0].toUpperCase();
+
+/**
+ * Returns a display name that always starts with the series prefix.
+ * If the product name already contains the prefix, return it unchanged.
+ */
+function getDisplayName(name: string): string {
+  if (name.toUpperCase().startsWith(seriesPrefix)) return name;
+  return `${seriesPrefix} ${name}`;
+}
+
+/**
+ * Short card label — at most 3 words.
+ * "ZEEN ZE001B SISAL BEJ BEYAZ..." → "ZEEN ZE001B SISAL"
+ * "ARMADA AD001P"                  → "ARMADA AD001P"  (already ≤ 3 words)
+ * "ARMADA AD001P"                  → "ARMADA AD001P"  (already ≤ 3 words)
+ */
+function getCardName(name: string): string {
+  const full = getDisplayName(name);
+  const words = full.split(' ');
+  return words.length <= 3 ? full : words.slice(0, 3).join(' ');
+}
+
+const productTags = category.products[0]?.tags || [];
+---
+
+<BaseLayout
+  title={`${category.title} — Liva Halı`}
+  description={category.description}
+>
+  <section class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+    <!-- ── Breadcrumb with brand ── -->
+    <nav class="mb-8 text-sm text-on-surface-muted" aria-label="Breadcrumb">
+      <ol class="flex flex-wrap items-center gap-1.5">
+        <li>
+          <a href="/" class="transition-colors hover:text-accent">Ana Sayfa</a>
+        </li>
+        <li class="text-outline-hover">/</li>
+        <li>
+          <a href={`/catalog/?filter=${category.brand}`} class="transition-colors hover:text-accent">
+            {category.brand === 'saten' ? 'Saten Tekstil' : 'Karmen Halı'}
+          </a>
+        </li>
+        <li class="text-outline-hover">/</li>
+        <li class="font-medium text-on-surface">{category.title}</li>
+      </ol>
+    </nav>
+
+    <!-- ── Category header ── -->
+    <header class="mb-10">
+      <div class="flex items-center gap-3 mb-2">
+        <h1 class="text-3xl font-extrabold text-on-surface sm:text-4xl">
+          {category.title}
+        </h1>
+        <a
+          href={`/catalog/?filter=${category.brand}`}
+          class={`rounded-lg px-3 py-2 border transition-all hover:border-accent/60 ${category.brand === 'saten' ? 'bg-accent/25 border-accent/30' : 'bg-surface border-outline'}`}
+        >
+          <img
+            src={category.brand === 'saten' ? '/images/logos/satenhali.png' : '/images/logos/karmen-hali-dark.png'}
+            alt={category.brand === 'saten' ? 'Saten Halı' : 'Karmen Halı'}
+            class="h-8 w-auto object-contain"
+            loading="eager"
+          />
+        </a>
+      </div>
+      
+      {category.brand === 'saten' ? (
+        <SatenSpecs 
+          description={category.description} 
+          tags={productTags} 
+        />
+      ) : (
+        category.description && !category.description.includes("extracted automatically") && (
+          <p class="mt-3 max-w-2xl text-base leading-relaxed text-on-surface-muted">
+            {category.description}
+          </p>
+        )
+      )}
+      
+      <p class="mt-2 text-sm text-accent font-medium">
+        {category.products.length} model
+      </p>
+    </header>
+
+    <!-- ── Products grid ── -->
+    {
+      category.products.length > 0 ? (
+        <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+          {category.products.map((prod) => (
+            <ProductCard
+              categoryId={category.id}
+              id={prod.id}
+              name={getCardName(prod.name)}
+              description={prod.description}
+              variants={prod.variants}
+            />
+          ))}
+        </div>
+      ) : (
+        <p class="py-20 text-center text-on-surface-muted">
+          Bu koleksiyonda henüz ürün bulunmamaktadır.
+        </p>
+      )
+    }
+  </section>
+</BaseLayout>

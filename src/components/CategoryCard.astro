@@ -1,0 +1,103 @@
+---
+/**
+ * CategoryCard.astro — Displays a single collection card
+ * Used on the homepage grid to link into each category.
+ *
+ * Props:
+ *   id           — URL slug segment (e.g. "truva")
+ *   title        — Display heading   (e.g. "TRUVA Serisi")
+ *   description  — Short tagline
+ *   coverImage   — Path to first product's first variant image (auto-derived)
+ *   productCount — Number of products in this collection
+ *   brand        — 'karmen' | 'saten' — used for badge display and filtering
+ */
+interface Props {
+  id: string;
+  title: string;
+  description: string;
+  coverImage: string;
+  productCount: number;
+  brand: 'karmen' | 'saten';
+  keywords?: string;
+}
+
+const { id, title, description, coverImage, productCount, brand, keywords } = Astro.props;
+
+const brandLogo = brand === 'saten'
+  ? '/images/logos/satenhali.png'
+  : '/images/logos/karmen-hali-light.png';
+const brandAlt = brand === 'saten' ? 'Saten Halı' : 'Karmen Halı';
+const brandBg = brand === 'saten'
+  ? 'bg-accent/25 border border-accent/30'
+  : 'bg-black/40 backdrop-blur-md';
+---
+
+<a
+  href={`/catalog/${id}/`}
+  class="group block overflow-hidden rounded-(--radius-card) border border-outline bg-surface shadow-[0_4px_16px_rgba(37,33,30,0.06)] hover:shadow-[0_12px_24px_rgba(37,33,30,0.12)] hover:border-accent transition-all duration-300"
+  data-brand={brand}
+  data-title={title.toLocaleLowerCase('tr')}
+  data-keywords={keywords}
+>
+  <!-- Image container with fixed aspect ratio to prevent CLS -->
+  <div class="relative aspect-[2/3] overflow-hidden bg-surface-dim">
+    <img
+      src={coverImage}
+      alt={title}
+      loading="lazy"
+      decoding="async"
+      class="absolute inset-0 h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-[1.02]"
+      onerror="this.style.display='none'; this.parentElement.classList.add('img-placeholder');"
+    />
+
+    <!-- Product count badge -->
+    <span
+      class="absolute right-3 top-3 rounded-(--radius-pill) bg-surface-dim/70 px-2.5 py-1 text-[11px] font-semibold text-on-surface-muted backdrop-blur-sm"
+    >
+      {productCount} ürün
+    </span>
+    <!-- Brand logo (top-left corner) -->
+    <div class="absolute left-3 top-3 rounded-lg bg-black/40 px-3 py-2 backdrop-blur-md">
+      <img
+        src={brandLogo}
+        alt={brandAlt}
+        class="h-7 w-auto object-contain"
+        loading="lazy"
+      />
+    </div>
+  </div>
+
+  <!-- Text block -->
+  <div class="p-4 sm:p-5">
+    <h3
+      class="mb-1 text-base sm:text-lg font-bold text-on-surface transition-colors group-hover:text-accent"
+    >
+      {title}
+    </h3>
+    {description && (
+      <p class="mb-1.5 text-xs text-on-surface-muted leading-relaxed line-clamp-2">
+        {description}
+      </p>
+    )}
+
+    <!-- Explore CTA hint -->
+    <span
+      class="mt-3 inline-flex items-center gap-1 text-xs font-semibold tracking-wide text-accent uppercase"
+    >
+      Koleksiyonu İncele
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        class="h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-1"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+        stroke-width="2.5"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          d="M13 7l5 5m0 0l-5 5m5-5H6"></path>
+      </svg>
+    </span>
+  </div>
+</a>

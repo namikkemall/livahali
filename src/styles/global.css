@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+/* ============================================================================
+   GLOBAL DESIGN TOKENS — Material 3-inspired palette
+   ============================================================================
+   Surface hierarchy follows M3 tonal elevation:
+     surface-dim  → deepest layer (page body)
+     surface      → primary card / container
+     surface-high → elevated card / hover state
+   ========================================================================= */
+
+@theme {
+  /* ---- Core surfaces (Warm Travertine & Pure Alabaster) ---- */
+  --color-surface-dim: #FAFAFA;
+  --color-surface: #FFFFFF;
+  --color-surface-high: #F5F5F5;
+
+  /* ---- Text (Basalt Charcoal / Soft Earthy Brown) ---- */
+  --color-on-surface: #25211E;
+  --color-on-surface-muted: #786E64;
+
+  /* ---- Accent (Brushed Antique Gold) ---- */
+  --color-accent: #9F8246;
+  --color-accent-hover: #8A6F3A;
+  --color-accent-dim: rgba(159, 130, 70, 0.08);
+
+  /* ---- WhatsApp CTA ---- */
+  --color-whatsapp: #25D366;
+  --color-whatsapp-hover: #1EBE57;
+
+  /* ---- Borders ---- */
+  --color-outline: rgba(37, 33, 30, 0.12);
+  --color-outline-hover: rgba(37, 33, 30, 0.22);
+
+  /* ---- Border Radii ---- */
+  --radius-card: 1rem;
+  --radius-btn: 0.75rem;
+  --radius-pill: 9999px;
+}
+
+/* ---- Base resets ---- */
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--color-surface-dim);
+}
+
+body {
+  font-family: "Inter", "Segoe UI", system-ui, sans-serif;
+  background-color: var(--color-surface-dim);
+  color: var(--color-on-surface);
+}
+
+/* ---- Focus-visible ring ---- */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* ---- Placeholder shimmer for missing images ---- */
+.img-placeholder {
+  background: linear-gradient(135deg,
+      var(--color-surface) 0%,
+      var(--color-surface-high) 50%,
+      var(--color-surface) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img-placeholder::after {
+  content: "📷";
+  font-size: 2rem;
+  opacity: 0.3;
+}
+
+/* ---- Marquee Animation ---- */
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  animation: marquee 60s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* ---- Hide native search clear button (we use a custom one) ---- */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+}

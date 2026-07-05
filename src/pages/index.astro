@@ -1,0 +1,520 @@
+---
+/**
+ * Homepage — src/pages/index.astro
+ * Hero section + hybrid brand filter + category grid showcasing all collections.
+ */
+import BaseLayout from "../layouts/BaseLayout.astro";
+import CategoryCard from "../components/CategoryCard.astro";
+import { allCollections } from "../data/collections";
+import fs from "node:fs";
+import path from "node:path";
+
+const karmenCount = allCollections.filter((c) => c.brand === "karmen").length;
+const satenCount = allCollections.filter((c) => c.brand === "saten").length;
+
+const googleReviews = [
+  {
+    name: "Cüneyt Çetin",
+    initial: "C",
+    color: "bg-blue-100 text-blue-700",
+    text: "Hesaplı, bütçenize göre halı bulabileceğiniz bir mağaza. 30 yıllık tecrübesiyle Fikret Bey alacağımız halılar ile ilgili yardımcı olarak bütçemize ve zevkimize göre seçim yapmamızı sağladı. İyi ki keşfedip alışverişimizi buradan yapmışız. Ayrıca halılar söz verildiği gibi zamanında evimize kadar teslim edildi. Halı almak isteyenlere mutlaka öneririm.",
+    time: "2 hafta önce"
+  },
+  {
+    name: "Nagihan Turalıoğlu",
+    initial: "N",
+    color: "bg-green-100 text-green-700",
+    text: "Şu dönemde güvensizlik söz konusu ticari anlamda ve ürün istediğin anda vakitten önce gelmesi ayrıca ön plana çıkardı tercih için. İlgi alaka güleryüz fikir zevki ve ürünlerin kalitesine bakınca uygun makul fiyatlarıyla tercih noktam oldu ✅",
+    time: "1 ay önce"
+  },
+  {
+    name: "Bahadır İnanlı",
+    initial: "B",
+    color: "bg-purple-100 text-purple-700",
+    text: "Liva Halı mağazasından alışverişimden çok memnun kaldım. Ürünler kaliteli, çeşit bol ve fiyatlar makul.  Güler yüzlü ve hoş sohbetler, her konuda yardımcı oldular. Halım tam istediğim gibi, hem şıklığıyla hem de kalitesiyle uzun süre kullanabileceğim bir ürün. Gönül rahatlığıyla tavsiye ederim.",
+    time: "3 ay önce"
+  }
+];
+
+let galleryPhotos = [];
+try {
+  const reviewsDir = path.join(process.cwd(), "public", "reviews");
+  if (fs.existsSync(reviewsDir)) {
+    const files = fs.readdirSync(reviewsDir);
+    galleryPhotos = files
+      .filter((file) => file.match(/\.(jpg|jpeg|png|webp|gif)$/i))
+      .map((file) => `/reviews/${file}`);
+  }
+} catch (e) {
+  console.error("Reviews directory could not be read:", e);
+}
+
+// Dynamically load all hero backgrounds from the hero directory
+let heroBackgrounds: string[] = [];
+try {
+  const heroDir = path.join(process.cwd(), "public", "images", "hero");
+  if (fs.existsSync(heroDir)) {
+    const files = fs.readdirSync(heroDir);
+    heroBackgrounds = files
+      .filter((file) => file.match(/\.(jpg|jpeg|png|webp|gif)$/i))
+      .map((file) => `/images/hero/${file}`);
+  }
+} catch (e) {
+  console.error("Hero directory could not be read:", e);
+}
+
+// Fallback in case directory is empty
+if (heroBackgrounds.length === 0) {
+  heroBackgrounds = ["/images/placeholder.jpg"]; // Ya da mevcut bir resmi fallback yapabilirsin
+}
+---
+
+<BaseLayout
+  title="Liva Halı — Premium Halı Koleksiyonları"
+  description="Anadolu mirası ile modern tasarımın buluştuğu premium halı koleksiyonlarını keşfedin. Karmen ve Saten Tekstil koleksiyonları."
+>
+  <!-- ════════════════════════════════════════════════════════
+       HERO SECTION (BANNER SLIDESHOW)
+       ════════════════════════════════════════════════════════ -->
+  <!-- ════════════════════════════════════════════════════════
+       HERO SECTION (SLIDING CAROUSEL)
+       ════════════════════════════════════════════════════════ -->
+  <div class="mx-auto max-w-7xl px-4 pt-6 sm:px-6 lg:px-8">
+    <div class="relative w-full overflow-hidden group bg-surface-dim rounded-xl sm:rounded-3xl shadow-lg border border-outline">
+      <!-- Slider Track -->
+      <div id="hero-slider-track" class="flex w-full items-stretch" style="transform: translateX(-100%);">
+      <!-- Last Clone (for seamless looping) -->
+      <div class="w-full flex-shrink-0 flex">
+        <img
+          src={heroBackgrounds[heroBackgrounds.length - 1]}
+          alt="Liva Halı Banner"
+          class="w-full h-auto object-cover"
+        />
+      </div>
+      
+      <!-- Original Slides -->
+      {
+        heroBackgrounds.map((bg) => (
+          <div class="w-full flex-shrink-0 flex hero-slide">
+            <img
+              src={bg}
+              alt="Liva Halı Banner"
+              class="w-full h-auto object-cover"
+              loading="eager"
+            />
+          </div>
+        ))
+      }
+      
+      <!-- First Clone (for seamless looping) -->
+      <div class="w-full flex-shrink-0 flex">
+        <img
+          src={heroBackgrounds[0]}
+          alt="Liva Halı Banner"
+          class="w-full h-auto object-cover"
+        />
+      </div>
+    </div>
+
+    <!-- Navigation Dots (Pill) -->
+    <div class="absolute bottom-2 sm:bottom-4 left-1/2 -translate-x-1/2 bg-black/30 backdrop-blur-md rounded-full px-3 py-1.5 sm:px-4 sm:py-2.5 flex items-center gap-1.5 sm:gap-2.5 z-20">
+      {
+        heroBackgrounds.map((_, idx) => (
+          <button
+            type="button"
+            class={`hero-dot w-1.5 h-1.5 sm:w-2.5 sm:h-2.5 rounded-full transition-all duration-300 cursor-pointer ${
+              idx === 0 ? "bg-white scale-125" : "bg-white/40 hover:bg-white/70"
+            }`}
+            aria-label={`Slayt ${idx + 1}`}
+            data-index={idx}
+          />
+        ))
+      }
+    </div>
+
+    <!-- Prev/Next arrows -->
+    <button
+      type="button"
+      id="hero-prev"
+      class="absolute left-2 sm:left-6 top-1/2 -translate-y-1/2 z-20 flex h-8 w-8 sm:h-12 sm:w-12 items-center justify-center rounded-full bg-black/20 text-white backdrop-blur-md opacity-100 lg:opacity-0 lg:group-hover:opacity-100 transition-opacity duration-300 hover:bg-black/40 cursor-pointer"
+      aria-label="Önceki Slayt"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 sm:h-6 sm:w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+      </svg>
+    </button>
+    <button
+      type="button"
+      id="hero-next"
+      class="absolute right-2 sm:right-6 top-1/2 -translate-y-1/2 z-20 flex h-8 w-8 sm:h-12 sm:w-12 items-center justify-center rounded-full bg-black/20 text-white backdrop-blur-md opacity-100 lg:opacity-0 lg:group-hover:opacity-100 transition-opacity duration-300 hover:bg-black/40 cursor-pointer"
+      aria-label="Sonraki Slayt"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 sm:h-6 sm:w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+      </svg>
+    </button>
+    </div>
+  </div>
+
+  <!-- ── Welcome & CTA section directly below the banner ── -->
+  <section class="border-b border-outline bg-surface py-12 sm:py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-8">
+        <div class="max-w-2xl">
+          <p class="mb-2 text-xs font-semibold tracking-[0.2em] text-accent uppercase">
+            {allCollections.length} Premium Koleksiyon
+          </p>
+          <h1 class="text-3xl font-extrabold tracking-tight text-on-surface sm:text-4xl">
+            Yaşam Alanlarınızı <span class="text-accent">Dönüştürün</span>
+          </h1>
+          <p class="mt-4 text-base text-on-surface-muted leading-relaxed">
+            Yüksek yoğunluklu dokuma teknikleri ve özenle seçilmiş liflerle
+            üretilen koleksiyonlarımız, geleneksel motifleri çağdaş tasarımla
+            buluşturur.
+          </p>
+        </div>
+        <div class="flex flex-col sm:flex-row gap-3 w-full sm:w-auto shrink-0">
+          <a
+            href="/catalog/"
+            class="inline-flex items-center justify-center rounded-(--radius-btn) bg-accent px-6 py-3 text-sm font-semibold text-surface-dim transition-colors hover:bg-accent-hover w-full sm:w-auto"
+          >
+            Koleksiyonları Keşfet
+          </a>
+          <a
+            href="https://wa.me/905359453011?text=Merhaba%2C%20halı%20koleksiyonlarınız%20hakkında%20bilgi%20almak%20istiyorum."
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center justify-center gap-2 rounded-(--radius-btn) border border-outline px-6 py-3 text-sm font-semibold text-on-surface transition-colors hover:border-whatsapp hover:bg-whatsapp hover:text-white w-full sm:w-auto"
+          >
+            <!-- WhatsApp icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+            </svg>
+            WhatsApp ile Ulaşın
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- ── Google Maps Reviews Section ── -->
+  <section id="memnuniyet" class="bg-surface py-12 sm:py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="grid gap-12 lg:grid-cols-2 lg:items-center">
+        <!-- Left: Reviews -->
+        <div>
+          <div class="mb-8 flex flex-col items-start gap-4 sm:flex-row sm:items-center sm:justify-between lg:flex-col lg:items-start xl:flex-row">
+            <div class="flex items-center gap-4">
+              <!-- Google 'G' Logo -->
+              <div class="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-white shadow-sm ring-1 ring-outline">
+                <img src="/images/logos/google-maps.svg" alt="Google Maps" class="h-6 w-6 object-contain" />
+              </div>
+              <div>
+                <h2 class="text-xl font-bold text-on-surface sm:text-2xl">Müşteri Yorumları</h2>
+                <div class="mt-1 flex items-center gap-2">
+                  <span class="text-lg font-bold text-on-surface">5.0</span>
+                  <div class="flex text-amber-400">
+                    {Array.from({ length: 5 }).map(() => (
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                      </svg>
+                    ))}
+                  </div>
+                  <span class="text-sm text-on-surface-muted">(94 yorum)</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="flex flex-col gap-4">
+            {googleReviews.map(review => (
+              <div class="rounded-2xl border border-outline bg-white p-5 shadow-sm">
+                <div class="mb-3 flex items-center justify-between">
+                  <div class="flex items-center gap-3">
+                    <div class={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full font-bold ${review.color}`}>
+                      {review.initial}
+                    </div>
+                    <div>
+                      <h3 class="font-bold text-sm text-on-surface">{review.name}</h3>
+                      <div class="text-xs text-on-surface-muted">{review.time}</div>
+                    </div>
+                  </div>
+                  <div class="flex text-amber-400">
+                    {Array.from({ length: 5 }).map(() => (
+                      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
+                        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                      </svg>
+                    ))}
+                  </div>
+                </div>
+                <p class="text-sm leading-relaxed text-on-surface-muted">
+                  "{review.text}"
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <!-- Right: Photo Gallery (Masonry Style) -->
+        {galleryPhotos.length >= 4 && (
+          <div class="mt-8 grid grid-cols-2 gap-4 lg:mt-0">
+            <div class="flex flex-col gap-4 pt-8">
+              <img src={galleryPhotos[0]} alt="Liva Halı Mağaza" class="h-48 w-full rounded-2xl object-cover shadow-sm sm:h-64" loading="lazy" />
+              <img src={galleryPhotos[1]} alt="Liva Halı Mağaza" class="h-64 w-full rounded-2xl object-cover shadow-sm sm:h-80" loading="lazy" />
+            </div>
+            <div class="flex flex-col gap-4">
+              <img src={galleryPhotos[2]} alt="Liva Halı Mağaza" class="h-64 w-full rounded-2xl object-cover shadow-sm sm:h-80" loading="lazy" />
+              <img src={galleryPhotos[3]} alt="Liva Halı Mağaza" class="h-48 w-full rounded-2xl object-cover shadow-sm sm:h-64" loading="lazy" />
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Koleksiyonlar Carousel Section ── -->
+  <section class="border-b border-outline bg-surface-dim py-12 sm:py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <!-- Section Header -->
+      <div class="mb-6 flex flex-col gap-4 sm:mb-8 sm:flex-row sm:items-end sm:justify-between">
+        <div>
+          <h2 class="text-2xl font-bold text-on-surface sm:text-3xl">Koleksiyonlarımız</h2>
+          <p class="mt-2 text-sm text-on-surface-muted">Toplam {allCollections.length} farklı koleksiyon modelini keşfedin.</p>
+        </div>
+        <a href="/catalog/" class="inline-flex items-center gap-1 text-sm font-semibold text-accent hover:text-accent-hover transition-colors self-start sm:self-auto">
+          Tümünü Gör ({allCollections.length})
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" />
+          </svg>
+        </a>
+      </div>
+
+      <!-- Carousel Container -->
+      <div class="relative -mx-4 px-4 sm:mx-0 sm:px-0 group/carousel">
+        <!-- Prev Button -->
+        <button
+          type="button"
+          id="coll-prev"
+          class="absolute left-2 sm:-left-5 top-[calc(50%-12px)] -translate-y-1/2 z-20 flex h-10 w-10 sm:h-12 sm:w-12 items-center justify-center rounded-full bg-surface text-on-surface shadow-[0_4px_12px_rgba(0,0,0,0.15)] opacity-100 lg:opacity-0 lg:group-hover/carousel:opacity-100 transition-all duration-300 hover:text-accent hover:scale-105 cursor-pointer"
+          aria-label="Önceki Koleksiyon"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 sm:h-6 sm:w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+          </svg>
+        </button>
+
+        <!-- Next Button -->
+        <button
+          type="button"
+          id="coll-next"
+          class="absolute right-2 sm:-right-5 top-[calc(50%-12px)] -translate-y-1/2 z-20 flex h-10 w-10 sm:h-12 sm:w-12 items-center justify-center rounded-full bg-surface text-on-surface shadow-[0_4px_12px_rgba(0,0,0,0.15)] opacity-100 lg:opacity-0 lg:group-hover/carousel:opacity-100 transition-all duration-300 hover:text-accent hover:scale-105 cursor-pointer"
+          aria-label="Sonraki Koleksiyon"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 sm:h-6 sm:w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+          </svg>
+        </button>
+
+        <div id="collections-carousel" class="flex overflow-x-auto snap-x snap-mandatory gap-4 sm:gap-6 pb-6 [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none]">
+          {allCollections.map((collection) => {
+            const coverImg = collection.coverImage || (collection.products[0]?.variants[0]?.imagePath ?? "");
+            return (
+            <div class="snap-start shrink-0 w-full sm:w-[calc(50%-0.75rem)] lg:w-[calc(33.333%-1rem)]">
+              <CategoryCard 
+                id={collection.id}
+                title={collection.title}
+                description={""}
+                coverImage={coverImg}
+                productCount={collection.products.length}
+                brand={collection.brand}
+              />
+            </div>
+            );
+          })}
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ── Client-side carousel & slideshow script ── -->
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+
+      // ---- Hero Slider (Seamless Loop) ----
+      const track = document.getElementById("hero-slider-track");
+      const prevBtn = document.getElementById("hero-prev");
+      const nextBtn = document.getElementById("hero-next");
+      const dots = document.querySelectorAll<HTMLElement>(".hero-dot");
+      
+      if (track && prevBtn && nextBtn && dots.length > 0) {
+        let currentIndex = 1; // 1 is the first real slide (0 is clone)
+        const totalRealSlides = dots.length;
+        let isTransitioning = false;
+        let autoplayInterval: any = null;
+
+        const updateDots = (index: number) => {
+          let dotIndex = index - 1;
+          if (dotIndex < 0) dotIndex = totalRealSlides - 1;
+          if (dotIndex >= totalRealSlides) dotIndex = 0;
+
+          dots.forEach((dot, i) => {
+            if (i === dotIndex) {
+              dot.classList.add("bg-white", "scale-125");
+              dot.classList.remove("bg-white/40", "hover:bg-white/70");
+            } else {
+              dot.classList.remove("bg-white", "scale-125");
+              dot.classList.add("bg-white/40", "hover:bg-white/70");
+            }
+          });
+        };
+
+        const moveToSlide = (index: number, animate = true) => {
+          if (animate) {
+            track.style.transition = "transform 0.5s ease-in-out";
+          } else {
+            track.style.transition = "none";
+          }
+          track.style.transform = `translateX(-${index * 100}%)`;
+          currentIndex = index;
+          updateDots(currentIndex);
+        };
+
+        const handleTransitionEnd = () => {
+          isTransitioning = false;
+          // If we reached the first clone (which is at index totalRealSlides + 1)
+          if (currentIndex === totalRealSlides + 1) {
+            moveToSlide(1, false); // Jump silently to real first slide
+          }
+          // If we reached the last clone (which is at index 0)
+          if (currentIndex === 0) {
+            moveToSlide(totalRealSlides, false); // Jump silently to real last slide
+          }
+        };
+
+        track.addEventListener("transitionend", handleTransitionEnd);
+
+        const slideNext = () => {
+          if (isTransitioning) return;
+          isTransitioning = true;
+          moveToSlide(currentIndex + 1);
+        };
+
+        const slidePrev = () => {
+          if (isTransitioning) return;
+          isTransitioning = true;
+          moveToSlide(currentIndex - 1);
+        };
+
+        prevBtn.addEventListener("click", () => {
+          slidePrev();
+          resetAutoplay();
+        });
+
+        nextBtn.addEventListener("click", () => {
+          slideNext();
+          resetAutoplay();
+        });
+
+        dots.forEach(dot => {
+          dot.addEventListener("click", () => {
+            if (isTransitioning) return;
+            const idxAttr = dot.getAttribute("data-index");
+            if (idxAttr !== null) {
+              const targetIndex = parseInt(idxAttr, 10) + 1;
+              if (targetIndex !== currentIndex) {
+                isTransitioning = true;
+                moveToSlide(targetIndex);
+                resetAutoplay();
+              }
+            }
+          });
+        });
+
+        const startAutoplay = () => {
+          clearInterval(autoplayInterval);
+          autoplayInterval = setInterval(slideNext, 5000);
+        };
+
+        const stopAutoplay = () => {
+          clearInterval(autoplayInterval);
+        };
+
+        const resetAutoplay = () => {
+          startAutoplay();
+        };
+
+        // Pause on hover
+        const heroSection = track.parentElement;
+        if (heroSection) {
+          heroSection.addEventListener("mouseenter", stopAutoplay);
+          heroSection.addEventListener("mouseleave", startAutoplay);
+        }
+
+        startAutoplay();
+      }
+
+      // ---- Koleksiyonlar Carousel Autoplay ----
+      const collectionCarousel = document.getElementById("collections-carousel");
+      if (collectionCarousel && collectionCarousel.children.length > 1) {
+        let collAutoplayTimer: any = null;
+
+        const startCollAutoplay = () => {
+          clearInterval(collAutoplayTimer);
+          collAutoplayTimer = setInterval(() => {
+            const firstChild = collectionCarousel.children[0] as HTMLElement;
+            const secondChild = collectionCarousel.children[1] as HTMLElement;
+            // Scroll by exactly one card width + gap
+            const scrollStep = secondChild.offsetLeft - firstChild.offsetLeft;
+            
+            // Check if reached the end
+            const isAtEnd = collectionCarousel.scrollLeft + collectionCarousel.clientWidth >= collectionCarousel.scrollWidth - 10;
+            
+            if (isAtEnd) {
+              collectionCarousel.scrollTo({ left: 0, behavior: "smooth" });
+            } else {
+              collectionCarousel.scrollBy({ left: scrollStep, behavior: "smooth" });
+            }
+          }, 3500);
+        };
+
+        const stopCollAutoplay = () => {
+          clearInterval(collAutoplayTimer);
+        };
+
+        // Pause on hover or touch
+        collectionCarousel.addEventListener("mouseenter", stopCollAutoplay);
+        collectionCarousel.addEventListener("mouseleave", startCollAutoplay);
+        collectionCarousel.addEventListener("touchstart", stopCollAutoplay, { passive: true });
+        collectionCarousel.addEventListener("touchend", startCollAutoplay, { passive: true });
+
+        const collPrevBtn = document.getElementById("coll-prev");
+        const collNextBtn = document.getElementById("coll-next");
+
+        if (collPrevBtn && collNextBtn) {
+          collPrevBtn.addEventListener("click", () => {
+            const firstChild = collectionCarousel.children[0] as HTMLElement;
+            const secondChild = collectionCarousel.children[1] as HTMLElement;
+            const scrollStep = secondChild.offsetLeft - firstChild.offsetLeft;
+            collectionCarousel.scrollBy({ left: -scrollStep, behavior: "smooth" });
+            startCollAutoplay();
+          });
+
+          collNextBtn.addEventListener("click", () => {
+            const firstChild = collectionCarousel.children[0] as HTMLElement;
+            const secondChild = collectionCarousel.children[1] as HTMLElement;
+            const scrollStep = secondChild.offsetLeft - firstChild.offsetLeft;
+            const isAtEnd = collectionCarousel.scrollLeft + collectionCarousel.clientWidth >= collectionCarousel.scrollWidth - 10;
+            if (isAtEnd) {
+              collectionCarousel.scrollTo({ left: 0, behavior: "smooth" });
+            } else {
+              collectionCarousel.scrollBy({ left: scrollStep, behavior: "smooth" });
+            }
+            startCollAutoplay();
+          });
+        }
+
+        startCollAutoplay();
+      }
+    });
+  </script>
+</BaseLayout>

@@ -1,0 +1,218 @@
+---
+/**
+ * Navbar.astro — Responsive site navigation
+ * Includes brand logo area and category quick links.
+ * Uses a native <details> element for mobile toggle — zero JS required.
+ */
+import { allCollections } from "../data/collections";
+---
+
+<header
+  class="sticky top-0 z-50 border-b border-white/5 bg-[#161412]/95 backdrop-blur-xl shadow-sm"
+>
+  <nav class="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
+    <!-- ── Brand ── -->
+    <a
+      href="/"
+      class="flex items-center transition-opacity hover:opacity-90"
+      aria-label="Liva Halı Ana Sayfa"
+    >
+      <img
+        src="/images/logo/logo-dark-theme.png"
+        alt="Liva Halı Logo"
+        class="h-16 w-auto object-contain"
+      />
+    </a>
+
+    <!-- ── Desktop links ── -->
+    <ul class="hidden items-center gap-1 md:flex">
+      <li>
+        <a
+          href="/"
+          class="rounded-(--radius-btn) px-4 py-2 text-sm font-medium text-stone-300 transition-colors hover:bg-white/5 hover:text-[#E4CD8C]"
+        >
+          Ana Sayfa
+        </a>
+      </li>
+      <li>
+        <a
+          href="/catalog/"
+          class="rounded-(--radius-btn) px-4 py-2 text-sm font-medium text-stone-300 transition-colors hover:bg-white/5 hover:text-[#E4CD8C]"
+        >
+          Ürün Kataloğu
+        </a>
+      </li>
+      <li>
+        <a
+          href="/catalog/?filter=karmen"
+          class="rounded-(--radius-btn) px-4 py-2 text-sm font-medium text-stone-300 transition-colors hover:bg-white/5 hover:text-[#E4CD8C]"
+        >
+          Karmen Halı
+        </a>
+      </li>
+      <li>
+        <a
+          href="/catalog/?filter=saten"
+          class="rounded-(--radius-btn) px-4 py-2 text-sm font-medium text-stone-300 transition-colors hover:bg-white/5 hover:text-[#E4CD8C]"
+        >
+          Saten Tekstil
+        </a>
+      </li>
+      <li>
+        <a
+          href="/#memnuniyet"
+          class="memnuniyet-btn rounded-(--radius-btn) px-4 py-2 text-sm font-medium text-stone-300 transition-colors hover:bg-white/5 hover:text-[#E4CD8C]"
+        >
+          Müşteri Memnuniyeti
+        </a>
+      </li>
+      <li>
+        <a
+          href="#iletisim"
+          class="iletisim-btn rounded-(--radius-btn) px-4 py-2 text-sm font-medium text-stone-300 transition-colors hover:bg-white/5 hover:text-[#E4CD8C]"
+        >
+          İletişim
+        </a>
+      </li>
+    </ul>
+
+    <!-- ── Mobile toggle (zero-JS) ── -->
+    <details class="group relative md:hidden">
+      <summary
+        class="flex h-10 w-10 cursor-pointer items-center justify-center rounded-(--radius-btn) text-stone-300 transition-colors hover:bg-white/5 hover:text-[#E4CD8C] list-none"
+      >
+        <!-- Hamburger icon -->
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="h-6 w-6 group-open:hidden"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          stroke-width="2"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="M4 6h16M4 12h16M4 18h16"></path>
+        </svg>
+        <!-- Close icon -->
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="hidden h-6 w-6 group-open:block"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          stroke-width="2"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+      </summary>
+
+      <!-- Dropdown — full list for mobile -->
+      <ul
+        class="absolute right-0 top-full mt-2 max-h-[70vh] w-64 overflow-y-auto rounded-(--radius-card) border border-white/10 bg-[#1C1A17] p-2 shadow-xl"
+      >
+        <li>
+          <a
+            href="/"
+            class="block rounded-(--radius-btn) px-4 py-2.5 text-sm font-medium text-stone-300 transition-colors hover:bg-white/5 hover:text-[#E4CD8C]"
+          >
+            Ana Sayfa
+          </a>
+        </li>
+        <li>
+          <a
+            href="/catalog/"
+            class="block rounded-(--radius-btn) px-4 py-2.5 text-sm font-medium text-stone-300 transition-colors hover:bg-white/5 hover:text-[#E4CD8C]"
+          >
+            Ürün Kataloğu
+          </a>
+        </li>
+        <li>
+          <a
+            href="/catalog/?filter=karmen"
+            class="block rounded-(--radius-btn) px-4 py-2.5 text-sm font-medium text-stone-300 transition-colors hover:bg-white/5 hover:text-[#E4CD8C]"
+          >
+            Karmen Halı
+          </a>
+        </li>
+        <li>
+          <a
+            href="/catalog/?filter=saten"
+            class="block rounded-(--radius-btn) px-4 py-2.5 text-sm font-medium text-stone-300 transition-colors hover:bg-white/5 hover:text-[#E4CD8C]"
+          >
+            Saten Tekstil
+          </a>
+        </li>
+        <li>
+          <a
+            href="/#memnuniyet"
+            class="memnuniyet-btn block rounded-(--radius-btn) px-4 py-2.5 text-sm font-medium text-stone-300 transition-colors hover:bg-white/5 hover:text-[#E4CD8C]"
+          >
+            Müşteri Memnuniyeti
+          </a>
+        </li>
+        <li>
+          <a
+            href="#iletisim"
+            class="iletisim-btn block rounded-(--radius-btn) px-4 py-2.5 text-sm font-medium text-stone-300 transition-colors hover:bg-white/5 hover:text-[#E4CD8C]"
+          >
+            İletişim
+          </a>
+        </li>
+      </ul>
+    </details>
+  </nav>
+</header>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const handleScrollToContact = () => {
+      const footer = document.getElementById('iletisim');
+      if (footer) {
+        footer.scrollIntoView({ behavior: 'smooth' });
+      }
+    };
+
+    const handleScrollToMemnuniyet = () => {
+      const memnuniyet = document.getElementById('memnuniyet');
+      if (memnuniyet) {
+        memnuniyet.scrollIntoView({ behavior: 'smooth' });
+      }
+    };
+
+    // Scroll to section if hash is present on page load
+    if (window.location.hash === '#iletisim') {
+      setTimeout(handleScrollToContact, 150);
+    } else if (window.location.hash === '#memnuniyet') {
+      setTimeout(handleScrollToMemnuniyet, 150);
+    }
+    
+    // Add smooth scroll click handler for same-page nav
+    const bindSmoothScroll = (selector: string, handler: () => void) => {
+      const btns = document.querySelectorAll(selector);
+      btns.forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          // If we are on the same page, intercept for smooth scroll
+          if (window.location.pathname === '/' || window.location.pathname === '') {
+            e.preventDefault();
+            handler();
+            // Update URL without jump
+            history.pushState(null, "", new URL((btn as HTMLAnchorElement).href).hash);
+            // Close mobile details dropdown
+            const details = btn.closest('details');
+            if (details) {
+              details.removeAttribute('open');
+            }
+          }
+        });
+      });
+    };
+
+    bindSmoothScroll('a[href*="#iletisim"]', handleScrollToContact);
+    bindSmoothScroll('.memnuniyet-btn', handleScrollToMemnuniyet);
+  });
+</script>

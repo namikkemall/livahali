@@ -1,0 +1,52 @@
+---
+/**
+ * ProductCard.astro — Displays a single product within a category page
+ * Shows the first variant image and a row of color swatches.
+ *
+ * Props:
+ *   categoryId — Parent category id for building the URL
+ *   id         — Product URL segment
+ *   name       — Product display name
+ *   description — Short product tagline
+ *   variants   — Array of ProductVariant (color options)
+ */
+import type { ProductVariant } from "../data/catalog";
+
+interface Props {
+  categoryId: string;
+  id: string;
+  name: string;
+  description: string;
+  variants: ProductVariant[];
+}
+
+const { categoryId, id, name, description, variants } = Astro.props;
+const primaryImage = variants[0]?.imagePath ?? "";
+---
+
+<a
+  href={`/catalog/${categoryId}/${id}/`}
+  class="group block overflow-hidden rounded-(--radius-card) border border-outline bg-surface shadow-[0_4px_16px_rgba(37,33,30,0.12)] hover:border-accent transition-colors duration-200"
+>
+  <!-- Primary image with fixed aspect ratio -->
+  <div class="relative aspect-[2/3] overflow-hidden">
+    <img
+      src={primaryImage}
+      alt={name}
+      loading="lazy"
+      decoding="async"
+      class="h-full w-full object-cover"
+      onerror="this.style.display='none'; this.parentElement.classList.add('img-placeholder');"
+    />
+  </div>
+
+  <!-- Info block -->
+  <div class="px-3 py-2.5 text-center">
+    <h3
+      class="truncate text-sm font-semibold text-on-surface transition-colors group-hover:text-accent"
+      title={name}
+    >
+      {name}
+    </h3>
+  </div>
+</a>
