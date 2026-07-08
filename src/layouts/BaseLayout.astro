@@ -6,6 +6,7 @@
 import "../styles/global.css";
 import Navbar from "../components/Navbar.astro";
 import Footer from "../components/Footer.astro";
+import Analytics from '@vercel/analytics/astro';
 
 interface Props {
   title?: string;
@@ -35,8 +36,6 @@ const {
       rel="stylesheet"
     />
 
-    <!-- Vercel Analytics -->
-    <script defer src="/_vercel/insights/script.js"></script>
   </head>
 
   <body class="min-h-screen bg-[var(--color-surface-dim)] text-on-surface">
@@ -49,5 +48,6 @@ const {
 
       <Footer />
     </div>
+    <Analytics />
   </body>
 </html>
