@@ -26,7 +26,28 @@ const {
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <meta name="description" content={description} />
     <title>{title}</title>
-    <link rel="icon" type="image/png" href="/brow_logo.png" />
+
+    <!-- Favicon stack — PNG for browsers, ICO fallback for crawlers -->
+    <link rel="icon" type="image/png" sizes="512x512" href="/brow_logo.png" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+    <!-- Open Graph (Facebook, WhatsApp, iMessage, Discord, etc.) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.livahali.com.tr/" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content="https://www.livahali.com.tr/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:locale" content="tr_TR" />
+    <meta property="og:site_name" content="Liva Halı" />
+
+    <!-- Twitter / X Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content="https://www.livahali.com.tr/og-image.png" />
 
     <!-- Preconnect to Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -35,7 +56,6 @@ const {
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
     />
-
   </head>
 
   <body class="min-h-screen bg-[var(--color-surface-dim)] text-on-surface">
