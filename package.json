@@ -17,6 +17,7 @@
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",
     "@tailwindcss/vite": "^4.3.0",
+    "@vercel/analytics": "^2.0.1",
     "astro": "^6.4.2",
     "cheerio": "^1.2.0",
     "playwright": "^1.60.0",
