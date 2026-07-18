@@ -47,7 +47,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
     <!-- Open Graph (Facebook, WhatsApp, iMessage, Discord, etc.) -->
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.livahali.com.tr/" />
+    <meta property="og:url" content={canonicalURL} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content="https://www.livahali.com.tr/images/logo/logo-light-theme-non-tp.png" />
