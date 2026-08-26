@@ -8,7 +8,6 @@
 // ============================================================================
 
 // ── Karmen Collections ──
-import { artCollection } from "./art";
 import { bestCollection } from "./best";
 import { cosmosCollection } from "./cosmos";
 import { darkCollection } from "./dark";
@@ -22,7 +21,6 @@ import { frescoCollection } from "./fresco";
 import { iconCollection } from "./icon";
 import { iconkidsCollection } from "./icon-kids";
 import { idolCollection } from "./idol";
-import { imperialluxeCollection } from "./imperial-luxe";
 import { indigoCollection } from "./indigo";
 import { jadeCollection } from "./jade";
 import { kaftanCollection } from "./kaftan";
@@ -36,7 +34,6 @@ import { lotusCollection } from "./lotus";
 import { lotusplusCollection } from "./lotus-plus";
 import { matrisCollection } from "./matris";
 import { meritCollection } from "./merit";
-import { posttouchCollection } from "./post-touch";
 import { sumerCollection } from "./sumer";
 import { tokyoCollection } from "./tokyo";
 import { trendCollection } from "./trend";
@@ -56,29 +53,23 @@ import { farahCollection } from "./farah";
 import { feelCollection } from "./feel";
 import { fesaneCollection } from "./fesane";
 import { loyaCollection } from "./loya";
-import { marvelCollection } from "./marvel";
 import { moonCollection } from "./moon";
-import { nexusCollection } from "./nexus";
 import { ottowaCollection } from "./ottowa";
-import { pixelCollection } from "./pixel";
 import { portoCollection } from "./porto";
 import { quatroCollection } from "./quatro";
 import { satensisalCollection } from "./saten-sisal";
 import { scalaCollection } from "./scala";
-import { silvaCollection } from "./silva";
 import { solosCollection } from "./solos";
 import { stepCollection } from "./step";
 import { tabloCollection } from "./tablo";
 import { tioraCollection } from "./tiora";
 import { vistaCollection } from "./vista";
-import { wonderCollection } from "./wonder";
 
 import type { Category } from "../catalog";
 
 /** Every collection in the catalog, sorted alphabetically by title. */
 export const allCollections: Category[] = [
   // Karmen
-  artCollection,
   bestCollection,
   cosmosCollection,
   darkCollection,
@@ -92,7 +83,6 @@ export const allCollections: Category[] = [
   iconCollection,
   iconkidsCollection,
   idolCollection,
-  imperialluxeCollection,
   indigoCollection,
   jadeCollection,
   kaftanCollection,
@@ -106,7 +96,6 @@ export const allCollections: Category[] = [
   lotusplusCollection,
   matrisCollection,
   meritCollection,
-  posttouchCollection,
   sumerCollection,
   tokyoCollection,
   trendCollection,
@@ -125,20 +114,15 @@ export const allCollections: Category[] = [
   feelCollection,
   fesaneCollection,
   loyaCollection,
-  marvelCollection,
   moonCollection,
-  nexusCollection,
   ottowaCollection,
-  pixelCollection,
   portoCollection,
   quatroCollection,
   satensisalCollection,
   scalaCollection,
-  silvaCollection,
   solosCollection,
   stepCollection,
   tabloCollection,
   tioraCollection,
   vistaCollection,
-  wonderCollection,
 ].sort((a, b) => a.title.localeCompare(b.title));
