@@ -5,7 +5,7 @@ export const bestCollection: Category = {
   title: "BEST Serisi",
   description: "Premium catalog items extracted automatically.",
   brand: 'karmen',
-  coverImage: "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_1.jpg",
+  coverImage: "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_1.webp",
   products: [
     {
       "id": "best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali",
@@ -20,43 +20,43 @@ export const bestCollection: Category = {
           "id": "best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_1.jpg"
+          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_1.webp"
         },
         {
           "id": "best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_2.jpg"
+          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_2.webp"
         },
         {
           "id": "best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_3.jpg"
+          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_3.webp"
         },
         {
           "id": "best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_4.jpg"
+          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_4.webp"
         },
         {
           "id": "best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_5.jpg"
+          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_5.webp"
         },
         {
           "id": "best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_6.jpg"
+          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_6.webp"
         },
         {
           "id": "best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali-v7",
           "colorName": "Görsel 7",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_7.jpg"
+          "imagePath": "/images/products/best/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali/best-106-beyaz-hali-antrasit-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-hali_7.webp"
         }
       ]
     },
@@ -73,43 +73,43 @@ export const bestCollection: Category = {
           "id": "best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_1.jpg"
+          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_1.webp"
         },
         {
           "id": "best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_2.jpg"
+          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_2.webp"
         },
         {
           "id": "best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_3.jpg"
+          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_3.webp"
         },
         {
           "id": "best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_4.jpg"
+          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_4.webp"
         },
         {
           "id": "best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_5.jpg"
+          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_5.webp"
         },
         {
           "id": "best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_6.jpg"
+          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_6.webp"
         },
         {
           "id": "best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v7",
           "colorName": "Görsel 7",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_7.jpg"
+          "imagePath": "/images/products/best/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-107-beyaz-hali-siyah-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_7.webp"
         }
       ]
     },
@@ -126,37 +126,37 @@ export const bestCollection: Category = {
           "id": "best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_1.jpg"
+          "imagePath": "/images/products/best/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_1.webp"
         },
         {
           "id": "best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_2.jpg"
+          "imagePath": "/images/products/best/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_2.webp"
         },
         {
           "id": "best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_3.jpg"
+          "imagePath": "/images/products/best/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_3.webp"
         },
         {
           "id": "best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_4.jpg"
+          "imagePath": "/images/products/best/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_4.webp"
         },
         {
           "id": "best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_5.jpg"
+          "imagePath": "/images/products/best/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_5.webp"
         },
         {
           "id": "best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_6.jpg"
+          "imagePath": "/images/products/best/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-108-bej-hali-vizon-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_6.webp"
         }
       ]
     },
@@ -173,43 +173,43 @@ export const bestCollection: Category = {
           "id": "best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_1.jpg"
+          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_1.webp"
         },
         {
           "id": "best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_2.jpg"
+          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_2.webp"
         },
         {
           "id": "best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_3.jpg"
+          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_3.webp"
         },
         {
           "id": "best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_4.jpg"
+          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_4.webp"
         },
         {
           "id": "best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_5.jpg"
+          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_5.webp"
         },
         {
           "id": "best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_6.jpg"
+          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_6.webp"
         },
         {
           "id": "best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v7",
           "colorName": "Görsel 7",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_7.jpg"
+          "imagePath": "/images/products/best/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-109-siyah-hali-beyaz-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_7.webp"
         }
       ]
     },
@@ -226,43 +226,43 @@ export const bestCollection: Category = {
           "id": "best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_1.jpg"
+          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_1.webp"
         },
         {
           "id": "best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_2.jpg"
+          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_2.webp"
         },
         {
           "id": "best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_3.jpg"
+          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_3.webp"
         },
         {
           "id": "best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_4.jpg"
+          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_4.webp"
         },
         {
           "id": "best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_5.jpg"
+          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_5.webp"
         },
         {
           "id": "best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_6.jpg"
+          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_6.webp"
         },
         {
           "id": "best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v7",
           "colorName": "Görsel 7",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_7.jpg"
+          "imagePath": "/images/products/best/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_7.webp"
         }
       ]
     },
@@ -279,43 +279,43 @@ export const bestCollection: Category = {
           "id": "best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_1.jpg"
+          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_1.webp"
         },
         {
           "id": "best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_2.jpg"
+          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_2.webp"
         },
         {
           "id": "best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_3.jpg"
+          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_3.webp"
         },
         {
           "id": "best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_4.jpg"
+          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_4.webp"
         },
         {
           "id": "best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_5.jpg"
+          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_5.webp"
         },
         {
           "id": "best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_6.jpg"
+          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_6.webp"
         },
         {
           "id": "best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi-v7",
           "colorName": "Görsel 7",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_7.jpg"
+          "imagePath": "/images/products/best/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi/best-111-gri-hali-spor-desen-ince-parlak-makinada-yikanabilir-antialerjik-modern-salon-halisi_7.webp"
         }
       ]
     },
@@ -332,43 +332,43 @@ export const bestCollection: Category = {
           "id": "best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_1.jpg"
+          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_1.webp"
         },
         {
           "id": "best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_2.jpg"
+          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_2.webp"
         },
         {
           "id": "best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_3.jpg"
+          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_3.webp"
         },
         {
           "id": "best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_4.jpg"
+          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_4.webp"
         },
         {
           "id": "best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_5.jpg"
+          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_5.webp"
         },
         {
           "id": "best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_6.jpg"
+          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_6.webp"
         },
         {
           "id": "best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern-v7",
           "colorName": "Görsel 7",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_7.jpg"
+          "imagePath": "/images/products/best/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern/best-112-gri-hali-spor-desen-gold-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern_7.webp"
         }
       ]
     },
@@ -385,37 +385,37 @@ export const bestCollection: Category = {
           "id": "best-113-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-113/best-113_1.jpg"
+          "imagePath": "/images/products/best/best-113/best-113_1.webp"
         },
         {
           "id": "best-113-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-113/best-113_2.jpg"
+          "imagePath": "/images/products/best/best-113/best-113_2.webp"
         },
         {
           "id": "best-113-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-113/best-113_3.jpg"
+          "imagePath": "/images/products/best/best-113/best-113_3.webp"
         },
         {
           "id": "best-113-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-113/best-113_4.jpg"
+          "imagePath": "/images/products/best/best-113/best-113_4.webp"
         },
         {
           "id": "best-113-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-113/best-113_5.jpg"
+          "imagePath": "/images/products/best/best-113/best-113_5.webp"
         },
         {
           "id": "best-113-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-113/best-113_6.jpg"
+          "imagePath": "/images/products/best/best-113/best-113_6.webp"
         }
       ]
     },
@@ -432,37 +432,37 @@ export const bestCollection: Category = {
           "id": "best-114-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-114/best-114_1.jpg"
+          "imagePath": "/images/products/best/best-114/best-114_1.webp"
         },
         {
           "id": "best-114-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-114/best-114_2.jpg"
+          "imagePath": "/images/products/best/best-114/best-114_2.webp"
         },
         {
           "id": "best-114-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-114/best-114_3.jpg"
+          "imagePath": "/images/products/best/best-114/best-114_3.webp"
         },
         {
           "id": "best-114-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-114/best-114_4.jpg"
+          "imagePath": "/images/products/best/best-114/best-114_4.webp"
         },
         {
           "id": "best-114-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-114/best-114_5.jpg"
+          "imagePath": "/images/products/best/best-114/best-114_5.webp"
         },
         {
           "id": "best-114-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-114/best-114_6.jpg"
+          "imagePath": "/images/products/best/best-114/best-114_6.webp"
         }
       ]
     },
@@ -479,37 +479,37 @@ export const bestCollection: Category = {
           "id": "best-115-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-115/best-115_1.jpg"
+          "imagePath": "/images/products/best/best-115/best-115_1.webp"
         },
         {
           "id": "best-115-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-115/best-115_2.jpg"
+          "imagePath": "/images/products/best/best-115/best-115_2.webp"
         },
         {
           "id": "best-115-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-115/best-115_3.jpg"
+          "imagePath": "/images/products/best/best-115/best-115_3.webp"
         },
         {
           "id": "best-115-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-115/best-115_4.jpg"
+          "imagePath": "/images/products/best/best-115/best-115_4.webp"
         },
         {
           "id": "best-115-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-115/best-115_5.jpg"
+          "imagePath": "/images/products/best/best-115/best-115_5.webp"
         },
         {
           "id": "best-115-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-115/best-115_6.jpg"
+          "imagePath": "/images/products/best/best-115/best-115_6.webp"
         }
       ]
     },
@@ -526,37 +526,37 @@ export const bestCollection: Category = {
           "id": "best-116-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-116/best-116_1.jpg"
+          "imagePath": "/images/products/best/best-116/best-116_1.webp"
         },
         {
           "id": "best-116-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-116/best-116_2.jpg"
+          "imagePath": "/images/products/best/best-116/best-116_2.webp"
         },
         {
           "id": "best-116-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-116/best-116_3.jpg"
+          "imagePath": "/images/products/best/best-116/best-116_3.webp"
         },
         {
           "id": "best-116-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-116/best-116_4.jpg"
+          "imagePath": "/images/products/best/best-116/best-116_4.webp"
         },
         {
           "id": "best-116-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-116/best-116_5.jpg"
+          "imagePath": "/images/products/best/best-116/best-116_5.webp"
         },
         {
           "id": "best-116-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/best/best-116/best-116_6.jpg"
+          "imagePath": "/images/products/best/best-116/best-116_6.webp"
         }
       ]
     }

@@ -20,37 +20,37 @@ export const fontanaCollection: Category = {
         "id": "fontana-ft001w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft001w/fontana-ft001w_1.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft001w/fontana-ft001w_1.webp"
       },
       {
         "id": "fontana-ft001w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft001w/fontana-ft001w_2.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft001w/fontana-ft001w_2.webp"
       },
       {
         "id": "fontana-ft001w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft001w/fontana-ft001w_3.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft001w/fontana-ft001w_3.webp"
       },
       {
         "id": "fontana-ft001w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft001w/fontana-ft001w_4.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft001w/fontana-ft001w_4.webp"
       },
       {
         "id": "fontana-ft001w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft001w/fontana-ft001w_5.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft001w/fontana-ft001w_5.webp"
       },
       {
         "id": "fontana-ft001w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft001w/fontana-ft001w_6.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft001w/fontana-ft001w_6.webp"
       }
     ]
   },
@@ -67,37 +67,37 @@ export const fontanaCollection: Category = {
         "id": "fontana-ft002b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft002b/fontana-ft002b_1.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft002b/fontana-ft002b_1.webp"
       },
       {
         "id": "fontana-ft002b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft002b/fontana-ft002b_2.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft002b/fontana-ft002b_2.webp"
       },
       {
         "id": "fontana-ft002b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft002b/fontana-ft002b_3.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft002b/fontana-ft002b_3.webp"
       },
       {
         "id": "fontana-ft002b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft002b/fontana-ft002b_4.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft002b/fontana-ft002b_4.webp"
       },
       {
         "id": "fontana-ft002b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft002b/fontana-ft002b_5.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft002b/fontana-ft002b_5.webp"
       },
       {
         "id": "fontana-ft002b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft002b/fontana-ft002b_6.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft002b/fontana-ft002b_6.webp"
       }
     ]
   },
@@ -114,37 +114,37 @@ export const fontanaCollection: Category = {
         "id": "fontana-ft002w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft002w/fontana-ft002w_1.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft002w/fontana-ft002w_1.webp"
       },
       {
         "id": "fontana-ft002w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft002w/fontana-ft002w_2.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft002w/fontana-ft002w_2.webp"
       },
       {
         "id": "fontana-ft002w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft002w/fontana-ft002w_3.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft002w/fontana-ft002w_3.webp"
       },
       {
         "id": "fontana-ft002w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft002w/fontana-ft002w_4.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft002w/fontana-ft002w_4.webp"
       },
       {
         "id": "fontana-ft002w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft002w/fontana-ft002w_5.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft002w/fontana-ft002w_5.webp"
       },
       {
         "id": "fontana-ft002w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft002w/fontana-ft002w_6.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft002w/fontana-ft002w_6.webp"
       }
     ]
   },
@@ -161,37 +161,37 @@ export const fontanaCollection: Category = {
         "id": "fontana-ft003p-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft003p/fontana-ft003p_1.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft003p/fontana-ft003p_1.webp"
       },
       {
         "id": "fontana-ft003p-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft003p/fontana-ft003p_2.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft003p/fontana-ft003p_2.webp"
       },
       {
         "id": "fontana-ft003p-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft003p/fontana-ft003p_3.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft003p/fontana-ft003p_3.webp"
       },
       {
         "id": "fontana-ft003p-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft003p/fontana-ft003p_4.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft003p/fontana-ft003p_4.webp"
       },
       {
         "id": "fontana-ft003p-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft003p/fontana-ft003p_5.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft003p/fontana-ft003p_5.webp"
       },
       {
         "id": "fontana-ft003p-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft003p/fontana-ft003p_6.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft003p/fontana-ft003p_6.webp"
       }
     ]
   },
@@ -208,37 +208,37 @@ export const fontanaCollection: Category = {
         "id": "fontana-ft003y-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft003y/fontana-ft003y_1.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft003y/fontana-ft003y_1.webp"
       },
       {
         "id": "fontana-ft003y-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft003y/fontana-ft003y_2.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft003y/fontana-ft003y_2.webp"
       },
       {
         "id": "fontana-ft003y-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft003y/fontana-ft003y_3.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft003y/fontana-ft003y_3.webp"
       },
       {
         "id": "fontana-ft003y-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft003y/fontana-ft003y_4.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft003y/fontana-ft003y_4.webp"
       },
       {
         "id": "fontana-ft003y-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft003y/fontana-ft003y_5.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft003y/fontana-ft003y_5.webp"
       },
       {
         "id": "fontana-ft003y-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft003y/fontana-ft003y_6.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft003y/fontana-ft003y_6.webp"
       }
     ]
   },
@@ -255,37 +255,37 @@ export const fontanaCollection: Category = {
         "id": "fontana-ft005p-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft005p/fontana-ft005p_1.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft005p/fontana-ft005p_1.webp"
       },
       {
         "id": "fontana-ft005p-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft005p/fontana-ft005p_2.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft005p/fontana-ft005p_2.webp"
       },
       {
         "id": "fontana-ft005p-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft005p/fontana-ft005p_3.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft005p/fontana-ft005p_3.webp"
       },
       {
         "id": "fontana-ft005p-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft005p/fontana-ft005p_4.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft005p/fontana-ft005p_4.webp"
       },
       {
         "id": "fontana-ft005p-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft005p/fontana-ft005p_5.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft005p/fontana-ft005p_5.webp"
       },
       {
         "id": "fontana-ft005p-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fontana/fontana-ft005p/fontana-ft005p_6.jpg"
+        "imagePath": "/images/products/fontana/fontana-ft005p/fontana-ft005p_6.webp"
       }
     ]
   }

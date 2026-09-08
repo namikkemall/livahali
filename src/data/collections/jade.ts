@@ -20,37 +20,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd001b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd001b/jade-jd001b_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd001b/jade-jd001b_1.webp"
       },
       {
         "id": "jade-jd001b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd001b/jade-jd001b_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd001b/jade-jd001b_2.webp"
       },
       {
         "id": "jade-jd001b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd001b/jade-jd001b_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd001b/jade-jd001b_3.webp"
       },
       {
         "id": "jade-jd001b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd001b/jade-jd001b_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd001b/jade-jd001b_4.webp"
       },
       {
         "id": "jade-jd001b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd001b/jade-jd001b_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd001b/jade-jd001b_5.webp"
       },
       {
         "id": "jade-jd001b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd001b/jade-jd001b_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd001b/jade-jd001b_6.webp"
       }
     ]
   },
@@ -67,37 +67,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd002g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd002g/jade-jd002g_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd002g/jade-jd002g_1.webp"
       },
       {
         "id": "jade-jd002g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd002g/jade-jd002g_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd002g/jade-jd002g_2.webp"
       },
       {
         "id": "jade-jd002g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd002g/jade-jd002g_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd002g/jade-jd002g_3.webp"
       },
       {
         "id": "jade-jd002g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd002g/jade-jd002g_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd002g/jade-jd002g_4.webp"
       },
       {
         "id": "jade-jd002g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd002g/jade-jd002g_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd002g/jade-jd002g_5.webp"
       },
       {
         "id": "jade-jd002g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd002g/jade-jd002g_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd002g/jade-jd002g_6.webp"
       }
     ]
   },
@@ -114,37 +114,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd003g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd003g/jade-jd003g_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd003g/jade-jd003g_1.webp"
       },
       {
         "id": "jade-jd003g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd003g/jade-jd003g_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd003g/jade-jd003g_2.webp"
       },
       {
         "id": "jade-jd003g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd003g/jade-jd003g_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd003g/jade-jd003g_3.webp"
       },
       {
         "id": "jade-jd003g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd003g/jade-jd003g_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd003g/jade-jd003g_4.webp"
       },
       {
         "id": "jade-jd003g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd003g/jade-jd003g_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd003g/jade-jd003g_5.webp"
       },
       {
         "id": "jade-jd003g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd003g/jade-jd003g_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd003g/jade-jd003g_6.webp"
       }
     ]
   },
@@ -161,37 +161,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd004g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd004g/jade-jd004g_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd004g/jade-jd004g_1.webp"
       },
       {
         "id": "jade-jd004g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd004g/jade-jd004g_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd004g/jade-jd004g_2.webp"
       },
       {
         "id": "jade-jd004g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd004g/jade-jd004g_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd004g/jade-jd004g_3.webp"
       },
       {
         "id": "jade-jd004g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd004g/jade-jd004g_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd004g/jade-jd004g_4.webp"
       },
       {
         "id": "jade-jd004g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd004g/jade-jd004g_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd004g/jade-jd004g_5.webp"
       },
       {
         "id": "jade-jd004g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd004g/jade-jd004g_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd004g/jade-jd004g_6.webp"
       }
     ]
   },
@@ -208,37 +208,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd005g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd005g/jade-jd005g_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd005g/jade-jd005g_1.webp"
       },
       {
         "id": "jade-jd005g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd005g/jade-jd005g_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd005g/jade-jd005g_2.webp"
       },
       {
         "id": "jade-jd005g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd005g/jade-jd005g_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd005g/jade-jd005g_3.webp"
       },
       {
         "id": "jade-jd005g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd005g/jade-jd005g_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd005g/jade-jd005g_4.webp"
       },
       {
         "id": "jade-jd005g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd005g/jade-jd005g_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd005g/jade-jd005g_5.webp"
       },
       {
         "id": "jade-jd005g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd005g/jade-jd005g_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd005g/jade-jd005g_6.webp"
       }
     ]
   },
@@ -255,37 +255,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd006w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd006w/jade-jd006w_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd006w/jade-jd006w_1.webp"
       },
       {
         "id": "jade-jd006w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd006w/jade-jd006w_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd006w/jade-jd006w_2.webp"
       },
       {
         "id": "jade-jd006w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd006w/jade-jd006w_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd006w/jade-jd006w_3.webp"
       },
       {
         "id": "jade-jd006w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd006w/jade-jd006w_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd006w/jade-jd006w_4.webp"
       },
       {
         "id": "jade-jd006w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd006w/jade-jd006w_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd006w/jade-jd006w_5.webp"
       },
       {
         "id": "jade-jd006w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd006w/jade-jd006w_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd006w/jade-jd006w_6.webp"
       }
     ]
   },
@@ -302,37 +302,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd008g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd008g/jade-jd008g_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd008g/jade-jd008g_1.webp"
       },
       {
         "id": "jade-jd008g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd008g/jade-jd008g_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd008g/jade-jd008g_2.webp"
       },
       {
         "id": "jade-jd008g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd008g/jade-jd008g_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd008g/jade-jd008g_3.webp"
       },
       {
         "id": "jade-jd008g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd008g/jade-jd008g_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd008g/jade-jd008g_4.webp"
       },
       {
         "id": "jade-jd008g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd008g/jade-jd008g_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd008g/jade-jd008g_5.webp"
       },
       {
         "id": "jade-jd008g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd008g/jade-jd008g_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd008g/jade-jd008g_6.webp"
       }
     ]
   },
@@ -349,37 +349,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd009g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd009g/jade-jd009g_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd009g/jade-jd009g_1.webp"
       },
       {
         "id": "jade-jd009g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd009g/jade-jd009g_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd009g/jade-jd009g_2.webp"
       },
       {
         "id": "jade-jd009g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd009g/jade-jd009g_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd009g/jade-jd009g_3.webp"
       },
       {
         "id": "jade-jd009g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd009g/jade-jd009g_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd009g/jade-jd009g_4.webp"
       },
       {
         "id": "jade-jd009g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd009g/jade-jd009g_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd009g/jade-jd009g_5.webp"
       },
       {
         "id": "jade-jd009g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd009g/jade-jd009g_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd009g/jade-jd009g_6.webp"
       }
     ]
   },
@@ -396,37 +396,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd014w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd014w/jade-jd014w_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd014w/jade-jd014w_1.webp"
       },
       {
         "id": "jade-jd014w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd014w/jade-jd014w_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd014w/jade-jd014w_2.webp"
       },
       {
         "id": "jade-jd014w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd014w/jade-jd014w_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd014w/jade-jd014w_3.webp"
       },
       {
         "id": "jade-jd014w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd014w/jade-jd014w_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd014w/jade-jd014w_4.webp"
       },
       {
         "id": "jade-jd014w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd014w/jade-jd014w_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd014w/jade-jd014w_5.webp"
       },
       {
         "id": "jade-jd014w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd014w/jade-jd014w_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd014w/jade-jd014w_6.webp"
       }
     ]
   },
@@ -443,37 +443,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd007b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd007b/jade-jd007b_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd007b/jade-jd007b_1.webp"
       },
       {
         "id": "jade-jd007b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd007b/jade-jd007b_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd007b/jade-jd007b_2.webp"
       },
       {
         "id": "jade-jd007b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd007b/jade-jd007b_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd007b/jade-jd007b_3.webp"
       },
       {
         "id": "jade-jd007b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd007b/jade-jd007b_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd007b/jade-jd007b_4.webp"
       },
       {
         "id": "jade-jd007b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd007b/jade-jd007b_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd007b/jade-jd007b_5.webp"
       },
       {
         "id": "jade-jd007b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd007b/jade-jd007b_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd007b/jade-jd007b_6.webp"
       }
     ]
   },
@@ -490,37 +490,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd010g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd010g/jade-jd010g_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd010g/jade-jd010g_1.webp"
       },
       {
         "id": "jade-jd010g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd010g/jade-jd010g_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd010g/jade-jd010g_2.webp"
       },
       {
         "id": "jade-jd010g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd010g/jade-jd010g_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd010g/jade-jd010g_3.webp"
       },
       {
         "id": "jade-jd010g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd010g/jade-jd010g_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd010g/jade-jd010g_4.webp"
       },
       {
         "id": "jade-jd010g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd010g/jade-jd010g_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd010g/jade-jd010g_5.webp"
       },
       {
         "id": "jade-jd010g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd010g/jade-jd010g_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd010g/jade-jd010g_6.webp"
       }
     ]
   },
@@ -537,37 +537,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd011b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd011b/jade-jd011b_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd011b/jade-jd011b_1.webp"
       },
       {
         "id": "jade-jd011b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd011b/jade-jd011b_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd011b/jade-jd011b_2.webp"
       },
       {
         "id": "jade-jd011b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd011b/jade-jd011b_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd011b/jade-jd011b_3.webp"
       },
       {
         "id": "jade-jd011b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd011b/jade-jd011b_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd011b/jade-jd011b_4.webp"
       },
       {
         "id": "jade-jd011b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd011b/jade-jd011b_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd011b/jade-jd011b_5.webp"
       },
       {
         "id": "jade-jd011b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd011b/jade-jd011b_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd011b/jade-jd011b_6.webp"
       }
     ]
   },
@@ -584,37 +584,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd012b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd012b/jade-jd012b_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd012b/jade-jd012b_1.webp"
       },
       {
         "id": "jade-jd012b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd012b/jade-jd012b_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd012b/jade-jd012b_2.webp"
       },
       {
         "id": "jade-jd012b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd012b/jade-jd012b_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd012b/jade-jd012b_3.webp"
       },
       {
         "id": "jade-jd012b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd012b/jade-jd012b_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd012b/jade-jd012b_4.webp"
       },
       {
         "id": "jade-jd012b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd012b/jade-jd012b_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd012b/jade-jd012b_5.webp"
       },
       {
         "id": "jade-jd012b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd012b/jade-jd012b_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd012b/jade-jd012b_6.webp"
       }
     ]
   },
@@ -631,37 +631,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd013w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd013w/jade-jd013w_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd013w/jade-jd013w_1.webp"
       },
       {
         "id": "jade-jd013w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd013w/jade-jd013w_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd013w/jade-jd013w_2.webp"
       },
       {
         "id": "jade-jd013w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd013w/jade-jd013w_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd013w/jade-jd013w_3.webp"
       },
       {
         "id": "jade-jd013w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd013w/jade-jd013w_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd013w/jade-jd013w_4.webp"
       },
       {
         "id": "jade-jd013w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd013w/jade-jd013w_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd013w/jade-jd013w_5.webp"
       },
       {
         "id": "jade-jd013w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd013w/jade-jd013w_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd013w/jade-jd013w_6.webp"
       }
     ]
   },
@@ -678,37 +678,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd015w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd015w/jade-jd015w_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd015w/jade-jd015w_1.webp"
       },
       {
         "id": "jade-jd015w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd015w/jade-jd015w_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd015w/jade-jd015w_2.webp"
       },
       {
         "id": "jade-jd015w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd015w/jade-jd015w_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd015w/jade-jd015w_3.webp"
       },
       {
         "id": "jade-jd015w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd015w/jade-jd015w_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd015w/jade-jd015w_4.webp"
       },
       {
         "id": "jade-jd015w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd015w/jade-jd015w_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd015w/jade-jd015w_5.webp"
       },
       {
         "id": "jade-jd015w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd015w/jade-jd015w_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd015w/jade-jd015w_6.webp"
       }
     ]
   },
@@ -725,37 +725,37 @@ export const jadeCollection: Category = {
         "id": "jade-jd016b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd016b/jade-jd016b_1.jpg"
+        "imagePath": "/images/products/jade/jade-jd016b/jade-jd016b_1.webp"
       },
       {
         "id": "jade-jd016b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd016b/jade-jd016b_2.jpg"
+        "imagePath": "/images/products/jade/jade-jd016b/jade-jd016b_2.webp"
       },
       {
         "id": "jade-jd016b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd016b/jade-jd016b_3.jpg"
+        "imagePath": "/images/products/jade/jade-jd016b/jade-jd016b_3.webp"
       },
       {
         "id": "jade-jd016b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd016b/jade-jd016b_4.jpg"
+        "imagePath": "/images/products/jade/jade-jd016b/jade-jd016b_4.webp"
       },
       {
         "id": "jade-jd016b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd016b/jade-jd016b_5.jpg"
+        "imagePath": "/images/products/jade/jade-jd016b/jade-jd016b_5.webp"
       },
       {
         "id": "jade-jd016b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/jade/jade-jd016b/jade-jd016b_6.jpg"
+        "imagePath": "/images/products/jade/jade-jd016b/jade-jd016b_6.webp"
       }
     ]
   }

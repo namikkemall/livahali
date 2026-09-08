@@ -5,7 +5,7 @@ export const tioraCollection: Category = {
   title: "TIORA Serisi",
   description: "80 / 100 / 120 / 160 / 200 / Ebatlarında Rulo Kesim",
   brand: 'saten',
-  coverImage: "/images/products/tiora/ti007a/ti007a_1.jpg",
+  coverImage: "/images/products/tiora/ti007a/ti007a_1.webp",
   products: [
     {
       "id": "ti001a",
@@ -17,37 +17,37 @@ export const tioraCollection: Category = {
           "id": "ti001a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti001a/ti001a_1.jpg"
+          "imagePath": "/images/products/tiora/ti001a/ti001a_1.webp"
         },
         {
           "id": "ti001a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti001a/ti001a_2.jpg"
+          "imagePath": "/images/products/tiora/ti001a/ti001a_2.webp"
         },
         {
           "id": "ti001a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti001a/ti001a_3.jpg"
+          "imagePath": "/images/products/tiora/ti001a/ti001a_3.webp"
         },
         {
           "id": "ti001a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti001a/ti001a_4.jpg"
+          "imagePath": "/images/products/tiora/ti001a/ti001a_4.webp"
         },
         {
           "id": "ti001a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti001a/ti001a_5.jpg"
+          "imagePath": "/images/products/tiora/ti001a/ti001a_5.webp"
         },
         {
           "id": "ti001a-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti001a/ti001a_6.jpg"
+          "imagePath": "/images/products/tiora/ti001a/ti001a_6.webp"
         }
       ]
     },
@@ -61,37 +61,37 @@ export const tioraCollection: Category = {
           "id": "ti002a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti002a/ti002a_1.jpg"
+          "imagePath": "/images/products/tiora/ti002a/ti002a_1.webp"
         },
         {
           "id": "ti002a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti002a/ti002a_2.jpg"
+          "imagePath": "/images/products/tiora/ti002a/ti002a_2.webp"
         },
         {
           "id": "ti002a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti002a/ti002a_3.jpg"
+          "imagePath": "/images/products/tiora/ti002a/ti002a_3.webp"
         },
         {
           "id": "ti002a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti002a/ti002a_4.jpg"
+          "imagePath": "/images/products/tiora/ti002a/ti002a_4.webp"
         },
         {
           "id": "ti002a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti002a/ti002a_5.jpg"
+          "imagePath": "/images/products/tiora/ti002a/ti002a_5.webp"
         },
         {
           "id": "ti002a-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti002a/ti002a_6.jpg"
+          "imagePath": "/images/products/tiora/ti002a/ti002a_6.webp"
         }
       ]
     },
@@ -105,37 +105,37 @@ export const tioraCollection: Category = {
           "id": "ti003a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti003a/ti003a_1.jpg"
+          "imagePath": "/images/products/tiora/ti003a/ti003a_1.webp"
         },
         {
           "id": "ti003a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti003a/ti003a_2.jpg"
+          "imagePath": "/images/products/tiora/ti003a/ti003a_2.webp"
         },
         {
           "id": "ti003a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti003a/ti003a_3.jpg"
+          "imagePath": "/images/products/tiora/ti003a/ti003a_3.webp"
         },
         {
           "id": "ti003a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti003a/ti003a_4.jpg"
+          "imagePath": "/images/products/tiora/ti003a/ti003a_4.webp"
         },
         {
           "id": "ti003a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti003a/ti003a_5.jpg"
+          "imagePath": "/images/products/tiora/ti003a/ti003a_5.webp"
         },
         {
           "id": "ti003a-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti003a/ti003a_6.jpg"
+          "imagePath": "/images/products/tiora/ti003a/ti003a_6.webp"
         }
       ]
     },
@@ -149,37 +149,37 @@ export const tioraCollection: Category = {
           "id": "ti004a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti004a/ti004a_1.jpg"
+          "imagePath": "/images/products/tiora/ti004a/ti004a_1.webp"
         },
         {
           "id": "ti004a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti004a/ti004a_2.jpg"
+          "imagePath": "/images/products/tiora/ti004a/ti004a_2.webp"
         },
         {
           "id": "ti004a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti004a/ti004a_3.jpg"
+          "imagePath": "/images/products/tiora/ti004a/ti004a_3.webp"
         },
         {
           "id": "ti004a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti004a/ti004a_4.jpg"
+          "imagePath": "/images/products/tiora/ti004a/ti004a_4.webp"
         },
         {
           "id": "ti004a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti004a/ti004a_5.jpg"
+          "imagePath": "/images/products/tiora/ti004a/ti004a_5.webp"
         },
         {
           "id": "ti004a-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti004a/ti004a_6.jpg"
+          "imagePath": "/images/products/tiora/ti004a/ti004a_6.webp"
         }
       ]
     },
@@ -193,37 +193,37 @@ export const tioraCollection: Category = {
           "id": "ti006a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti006a/ti006a_1.jpg"
+          "imagePath": "/images/products/tiora/ti006a/ti006a_1.webp"
         },
         {
           "id": "ti006a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti006a/ti006a_2.jpg"
+          "imagePath": "/images/products/tiora/ti006a/ti006a_2.webp"
         },
         {
           "id": "ti006a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti006a/ti006a_3.jpg"
+          "imagePath": "/images/products/tiora/ti006a/ti006a_3.webp"
         },
         {
           "id": "ti006a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti006a/ti006a_4.jpg"
+          "imagePath": "/images/products/tiora/ti006a/ti006a_4.webp"
         },
         {
           "id": "ti006a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti006a/ti006a_5.jpg"
+          "imagePath": "/images/products/tiora/ti006a/ti006a_5.webp"
         },
         {
           "id": "ti006a-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti006a/ti006a_6.jpg"
+          "imagePath": "/images/products/tiora/ti006a/ti006a_6.webp"
         }
       ]
     },
@@ -237,37 +237,37 @@ export const tioraCollection: Category = {
           "id": "ti007a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti007a/ti007a_1.jpg"
+          "imagePath": "/images/products/tiora/ti007a/ti007a_1.webp"
         },
         {
           "id": "ti007a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti007a/ti007a_2.jpg"
+          "imagePath": "/images/products/tiora/ti007a/ti007a_2.webp"
         },
         {
           "id": "ti007a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti007a/ti007a_3.jpg"
+          "imagePath": "/images/products/tiora/ti007a/ti007a_3.webp"
         },
         {
           "id": "ti007a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti007a/ti007a_4.jpg"
+          "imagePath": "/images/products/tiora/ti007a/ti007a_4.webp"
         },
         {
           "id": "ti007a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti007a/ti007a_5.jpg"
+          "imagePath": "/images/products/tiora/ti007a/ti007a_5.webp"
         },
         {
           "id": "ti007a-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/tiora/ti007a/ti007a_6.jpg"
+          "imagePath": "/images/products/tiora/ti007a/ti007a_6.webp"
         }
       ]
     }

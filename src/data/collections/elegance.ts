@@ -20,43 +20,43 @@ export const eleganceCollection: Category = {
         "id": "elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_1.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_1.webp"
       },
       {
         "id": "elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_2.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_2.webp"
       },
       {
         "id": "elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_3.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_3.webp"
       },
       {
         "id": "elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_4.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_4.webp"
       },
       {
         "id": "elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_5.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_5.webp"
       },
       {
         "id": "elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_6.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_6.webp"
       },
       {
         "id": "elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_7.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg001a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_7.webp"
       }
     ]
   },
@@ -73,43 +73,43 @@ export const eleganceCollection: Category = {
         "id": "elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_1.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_1.webp"
       },
       {
         "id": "elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_2.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_2.webp"
       },
       {
         "id": "elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_3.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_3.webp"
       },
       {
         "id": "elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_4.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_4.webp"
       },
       {
         "id": "elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_5.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_5.webp"
       },
       {
         "id": "elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_6.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_6.webp"
       },
       {
         "id": "elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_7.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg002a-gri-hali-bej-detayli-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_7.webp"
       }
     ]
   },
@@ -126,43 +126,43 @@ export const eleganceCollection: Category = {
         "id": "elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_1.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_1.webp"
       },
       {
         "id": "elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_2.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_2.webp"
       },
       {
         "id": "elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_3.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_3.webp"
       },
       {
         "id": "elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_4.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_4.webp"
       },
       {
         "id": "elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_5.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_5.webp"
       },
       {
         "id": "elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_6.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_6.webp"
       },
       {
         "id": "elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_7.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon/elegance-eg004a-gri-hali-antrasit-modern-klasik-desenli-viskon-dogal-iplik-bambu-hali-tozu-az-salon_7.webp"
       }
     ]
   },
@@ -179,43 +179,43 @@ export const eleganceCollection: Category = {
         "id": "elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_1.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_1.webp"
       },
       {
         "id": "elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_2.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_2.webp"
       },
       {
         "id": "elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_3.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_3.webp"
       },
       {
         "id": "elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_4.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_4.webp"
       },
       {
         "id": "elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_5.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_5.webp"
       },
       {
         "id": "elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_6.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_6.webp"
       },
       {
         "id": "elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_7.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg005a-beyaz-hali-sedef-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_7.webp"
       }
     ]
   },
@@ -232,43 +232,43 @@ export const eleganceCollection: Category = {
         "id": "elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_1.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_1.webp"
       },
       {
         "id": "elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_2.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_2.webp"
       },
       {
         "id": "elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_3.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_3.webp"
       },
       {
         "id": "elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_4.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_4.webp"
       },
       {
         "id": "elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_5.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_5.webp"
       },
       {
         "id": "elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_6.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_6.webp"
       },
       {
         "id": "elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_7.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg008a-beyaz-hali-gold-sedef-detayli-gobekli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_7.webp"
       }
     ]
   },
@@ -285,37 +285,37 @@ export const eleganceCollection: Category = {
         "id": "elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_1.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_1.webp"
       },
       {
         "id": "elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_2.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_2.webp"
       },
       {
         "id": "elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_3.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_3.webp"
       },
       {
         "id": "elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_4.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_4.webp"
       },
       {
         "id": "elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_5.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_5.webp"
       },
       {
         "id": "elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_6.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg009a-bej-hali-gold-cerceveli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_6.webp"
       }
     ]
   },
@@ -332,43 +332,43 @@ export const eleganceCollection: Category = {
         "id": "elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_1.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_1.webp"
       },
       {
         "id": "elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_2.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_2.webp"
       },
       {
         "id": "elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_3.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_3.webp"
       },
       {
         "id": "elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_4.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_4.webp"
       },
       {
         "id": "elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_5.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_5.webp"
       },
       {
         "id": "elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_6.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_6.webp"
       },
       {
         "id": "elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_7.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali/elegance-eg010a-beyaz-hali-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-hali_7.webp"
       }
     ]
   },
@@ -385,43 +385,43 @@ export const eleganceCollection: Category = {
         "id": "elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_1.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_1.webp"
       },
       {
         "id": "elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_2.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_2.webp"
       },
       {
         "id": "elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_3.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_3.webp"
       },
       {
         "id": "elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_4.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_4.webp"
       },
       {
         "id": "elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_5.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_5.webp"
       },
       {
         "id": "elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_6.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_6.webp"
       },
       {
         "id": "elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_7.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi/elegance-eg013a-gri-hali-lacivert-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-salon-halisi_7.webp"
       }
     ]
   },
@@ -438,43 +438,43 @@ export const eleganceCollection: Category = {
         "id": "elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_1.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_1.webp"
       },
       {
         "id": "elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_2.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_2.webp"
       },
       {
         "id": "elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_3.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_3.webp"
       },
       {
         "id": "elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_4.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_4.webp"
       },
       {
         "id": "elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_5.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_5.webp"
       },
       {
         "id": "elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_6.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_6.webp"
       },
       {
         "id": "elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_7.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az/elegance-eg014a-beyaz-hali-sedef-geometrik-detayli-modern-viskon-dogal-iplik-bambu-hali-tozu-az_7.webp"
       }
     ]
   },
@@ -491,43 +491,43 @@ export const eleganceCollection: Category = {
         "id": "elegance-eg006a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_1.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_1.webp"
       },
       {
         "id": "elegance-eg006a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_2.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_2.webp"
       },
       {
         "id": "elegance-eg006a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_3.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_3.webp"
       },
       {
         "id": "elegance-eg006a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_4.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_4.webp"
       },
       {
         "id": "elegance-eg006a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_5.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_5.webp"
       },
       {
         "id": "elegance-eg006a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_6.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_6.webp"
       },
       {
         "id": "elegance-eg006a-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_7.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg006a/elegance-eg006a_7.webp"
       }
     ]
   },
@@ -544,43 +544,43 @@ export const eleganceCollection: Category = {
         "id": "elegance-eg012a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_1.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_1.webp"
       },
       {
         "id": "elegance-eg012a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_2.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_2.webp"
       },
       {
         "id": "elegance-eg012a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_3.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_3.webp"
       },
       {
         "id": "elegance-eg012a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_4.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_4.webp"
       },
       {
         "id": "elegance-eg012a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_5.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_5.webp"
       },
       {
         "id": "elegance-eg012a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_6.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_6.webp"
       },
       {
         "id": "elegance-eg012a-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_7.jpg"
+        "imagePath": "/images/products/elegance/elegance-eg012a/elegance-eg012a_7.webp"
       }
     ]
   }

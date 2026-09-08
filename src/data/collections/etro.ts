@@ -20,37 +20,37 @@ export const etroCollection: Category = {
         "id": "etro-et005s-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et005s/etro-et005s_1.jpg"
+        "imagePath": "/images/products/etro/etro-et005s/etro-et005s_1.webp"
       },
       {
         "id": "etro-et005s-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et005s/etro-et005s_2.jpg"
+        "imagePath": "/images/products/etro/etro-et005s/etro-et005s_2.webp"
       },
       {
         "id": "etro-et005s-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et005s/etro-et005s_3.jpg"
+        "imagePath": "/images/products/etro/etro-et005s/etro-et005s_3.webp"
       },
       {
         "id": "etro-et005s-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et005s/etro-et005s_4.jpg"
+        "imagePath": "/images/products/etro/etro-et005s/etro-et005s_4.webp"
       },
       {
         "id": "etro-et005s-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et005s/etro-et005s_5.jpg"
+        "imagePath": "/images/products/etro/etro-et005s/etro-et005s_5.webp"
       },
       {
         "id": "etro-et005s-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et005s/etro-et005s_6.jpg"
+        "imagePath": "/images/products/etro/etro-et005s/etro-et005s_6.webp"
       }
     ]
   },
@@ -67,31 +67,31 @@ export const etroCollection: Category = {
         "id": "etro-et007g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et007g/etro-et007g_1.jpg"
+        "imagePath": "/images/products/etro/etro-et007g/etro-et007g_1.webp"
       },
       {
         "id": "etro-et007g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et007g/etro-et007g_2.jpg"
+        "imagePath": "/images/products/etro/etro-et007g/etro-et007g_2.webp"
       },
       {
         "id": "etro-et007g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et007g/etro-et007g_3.jpg"
+        "imagePath": "/images/products/etro/etro-et007g/etro-et007g_3.webp"
       },
       {
         "id": "etro-et007g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et007g/etro-et007g_4.jpg"
+        "imagePath": "/images/products/etro/etro-et007g/etro-et007g_4.webp"
       },
       {
         "id": "etro-et007g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et007g/etro-et007g_5.jpg"
+        "imagePath": "/images/products/etro/etro-et007g/etro-et007g_5.webp"
       }
     ]
   },
@@ -108,37 +108,37 @@ export const etroCollection: Category = {
         "id": "etro-et008b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et008b/etro-et008b_1.jpg"
+        "imagePath": "/images/products/etro/etro-et008b/etro-et008b_1.webp"
       },
       {
         "id": "etro-et008b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et008b/etro-et008b_2.jpg"
+        "imagePath": "/images/products/etro/etro-et008b/etro-et008b_2.webp"
       },
       {
         "id": "etro-et008b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et008b/etro-et008b_3.jpg"
+        "imagePath": "/images/products/etro/etro-et008b/etro-et008b_3.webp"
       },
       {
         "id": "etro-et008b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et008b/etro-et008b_4.jpg"
+        "imagePath": "/images/products/etro/etro-et008b/etro-et008b_4.webp"
       },
       {
         "id": "etro-et008b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et008b/etro-et008b_5.jpg"
+        "imagePath": "/images/products/etro/etro-et008b/etro-et008b_5.webp"
       },
       {
         "id": "etro-et008b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et008b/etro-et008b_6.jpg"
+        "imagePath": "/images/products/etro/etro-et008b/etro-et008b_6.webp"
       }
     ]
   },
@@ -155,37 +155,37 @@ export const etroCollection: Category = {
         "id": "etro-et010a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et010a/etro-et010a_1.jpg"
+        "imagePath": "/images/products/etro/etro-et010a/etro-et010a_1.webp"
       },
       {
         "id": "etro-et010a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et010a/etro-et010a_2.jpg"
+        "imagePath": "/images/products/etro/etro-et010a/etro-et010a_2.webp"
       },
       {
         "id": "etro-et010a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et010a/etro-et010a_3.jpg"
+        "imagePath": "/images/products/etro/etro-et010a/etro-et010a_3.webp"
       },
       {
         "id": "etro-et010a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et010a/etro-et010a_4.jpg"
+        "imagePath": "/images/products/etro/etro-et010a/etro-et010a_4.webp"
       },
       {
         "id": "etro-et010a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et010a/etro-et010a_5.jpg"
+        "imagePath": "/images/products/etro/etro-et010a/etro-et010a_5.webp"
       },
       {
         "id": "etro-et010a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et010a/etro-et010a_6.jpg"
+        "imagePath": "/images/products/etro/etro-et010a/etro-et010a_6.webp"
       }
     ]
   },
@@ -202,37 +202,37 @@ export const etroCollection: Category = {
         "id": "etro-et011g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et011g/etro-et011g_1.jpg"
+        "imagePath": "/images/products/etro/etro-et011g/etro-et011g_1.webp"
       },
       {
         "id": "etro-et011g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et011g/etro-et011g_2.jpg"
+        "imagePath": "/images/products/etro/etro-et011g/etro-et011g_2.webp"
       },
       {
         "id": "etro-et011g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et011g/etro-et011g_3.jpg"
+        "imagePath": "/images/products/etro/etro-et011g/etro-et011g_3.webp"
       },
       {
         "id": "etro-et011g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et011g/etro-et011g_4.jpg"
+        "imagePath": "/images/products/etro/etro-et011g/etro-et011g_4.webp"
       },
       {
         "id": "etro-et011g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et011g/etro-et011g_5.jpg"
+        "imagePath": "/images/products/etro/etro-et011g/etro-et011g_5.webp"
       },
       {
         "id": "etro-et011g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et011g/etro-et011g_6.jpg"
+        "imagePath": "/images/products/etro/etro-et011g/etro-et011g_6.webp"
       }
     ]
   },
@@ -249,37 +249,37 @@ export const etroCollection: Category = {
         "id": "etro-et012g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et012g/etro-et012g_1.jpg"
+        "imagePath": "/images/products/etro/etro-et012g/etro-et012g_1.webp"
       },
       {
         "id": "etro-et012g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et012g/etro-et012g_2.jpg"
+        "imagePath": "/images/products/etro/etro-et012g/etro-et012g_2.webp"
       },
       {
         "id": "etro-et012g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et012g/etro-et012g_3.jpg"
+        "imagePath": "/images/products/etro/etro-et012g/etro-et012g_3.webp"
       },
       {
         "id": "etro-et012g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et012g/etro-et012g_4.jpg"
+        "imagePath": "/images/products/etro/etro-et012g/etro-et012g_4.webp"
       },
       {
         "id": "etro-et012g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et012g/etro-et012g_5.jpg"
+        "imagePath": "/images/products/etro/etro-et012g/etro-et012g_5.webp"
       },
       {
         "id": "etro-et012g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et012g/etro-et012g_6.jpg"
+        "imagePath": "/images/products/etro/etro-et012g/etro-et012g_6.webp"
       }
     ]
   },
@@ -296,37 +296,37 @@ export const etroCollection: Category = {
         "id": "etro-et001w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et001w/etro-et001w_1.jpg"
+        "imagePath": "/images/products/etro/etro-et001w/etro-et001w_1.webp"
       },
       {
         "id": "etro-et001w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et001w/etro-et001w_2.jpg"
+        "imagePath": "/images/products/etro/etro-et001w/etro-et001w_2.webp"
       },
       {
         "id": "etro-et001w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et001w/etro-et001w_3.jpg"
+        "imagePath": "/images/products/etro/etro-et001w/etro-et001w_3.webp"
       },
       {
         "id": "etro-et001w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et001w/etro-et001w_4.jpg"
+        "imagePath": "/images/products/etro/etro-et001w/etro-et001w_4.webp"
       },
       {
         "id": "etro-et001w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et001w/etro-et001w_5.jpg"
+        "imagePath": "/images/products/etro/etro-et001w/etro-et001w_5.webp"
       },
       {
         "id": "etro-et001w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et001w/etro-et001w_6.jpg"
+        "imagePath": "/images/products/etro/etro-et001w/etro-et001w_6.webp"
       }
     ]
   },
@@ -343,37 +343,37 @@ export const etroCollection: Category = {
         "id": "etro-et002w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et002w/etro-et002w_1.jpg"
+        "imagePath": "/images/products/etro/etro-et002w/etro-et002w_1.webp"
       },
       {
         "id": "etro-et002w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et002w/etro-et002w_2.jpg"
+        "imagePath": "/images/products/etro/etro-et002w/etro-et002w_2.webp"
       },
       {
         "id": "etro-et002w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et002w/etro-et002w_3.jpg"
+        "imagePath": "/images/products/etro/etro-et002w/etro-et002w_3.webp"
       },
       {
         "id": "etro-et002w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et002w/etro-et002w_4.jpg"
+        "imagePath": "/images/products/etro/etro-et002w/etro-et002w_4.webp"
       },
       {
         "id": "etro-et002w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et002w/etro-et002w_5.jpg"
+        "imagePath": "/images/products/etro/etro-et002w/etro-et002w_5.webp"
       },
       {
         "id": "etro-et002w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et002w/etro-et002w_6.jpg"
+        "imagePath": "/images/products/etro/etro-et002w/etro-et002w_6.webp"
       }
     ]
   },
@@ -390,37 +390,37 @@ export const etroCollection: Category = {
         "id": "etro-et003a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et003a/etro-et003a_1.jpg"
+        "imagePath": "/images/products/etro/etro-et003a/etro-et003a_1.webp"
       },
       {
         "id": "etro-et003a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et003a/etro-et003a_2.jpg"
+        "imagePath": "/images/products/etro/etro-et003a/etro-et003a_2.webp"
       },
       {
         "id": "etro-et003a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et003a/etro-et003a_3.jpg"
+        "imagePath": "/images/products/etro/etro-et003a/etro-et003a_3.webp"
       },
       {
         "id": "etro-et003a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et003a/etro-et003a_4.jpg"
+        "imagePath": "/images/products/etro/etro-et003a/etro-et003a_4.webp"
       },
       {
         "id": "etro-et003a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et003a/etro-et003a_5.jpg"
+        "imagePath": "/images/products/etro/etro-et003a/etro-et003a_5.webp"
       },
       {
         "id": "etro-et003a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et003a/etro-et003a_6.jpg"
+        "imagePath": "/images/products/etro/etro-et003a/etro-et003a_6.webp"
       }
     ]
   },
@@ -437,37 +437,37 @@ export const etroCollection: Category = {
         "id": "etro-et004b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et004b/etro-et004b_1.jpg"
+        "imagePath": "/images/products/etro/etro-et004b/etro-et004b_1.webp"
       },
       {
         "id": "etro-et004b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et004b/etro-et004b_2.jpg"
+        "imagePath": "/images/products/etro/etro-et004b/etro-et004b_2.webp"
       },
       {
         "id": "etro-et004b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et004b/etro-et004b_3.jpg"
+        "imagePath": "/images/products/etro/etro-et004b/etro-et004b_3.webp"
       },
       {
         "id": "etro-et004b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et004b/etro-et004b_4.jpg"
+        "imagePath": "/images/products/etro/etro-et004b/etro-et004b_4.webp"
       },
       {
         "id": "etro-et004b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et004b/etro-et004b_5.jpg"
+        "imagePath": "/images/products/etro/etro-et004b/etro-et004b_5.webp"
       },
       {
         "id": "etro-et004b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et004b/etro-et004b_6.jpg"
+        "imagePath": "/images/products/etro/etro-et004b/etro-et004b_6.webp"
       }
     ]
   },
@@ -484,37 +484,37 @@ export const etroCollection: Category = {
         "id": "etro-et006b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et006b/etro-et006b_1.jpg"
+        "imagePath": "/images/products/etro/etro-et006b/etro-et006b_1.webp"
       },
       {
         "id": "etro-et006b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et006b/etro-et006b_2.jpg"
+        "imagePath": "/images/products/etro/etro-et006b/etro-et006b_2.webp"
       },
       {
         "id": "etro-et006b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et006b/etro-et006b_3.jpg"
+        "imagePath": "/images/products/etro/etro-et006b/etro-et006b_3.webp"
       },
       {
         "id": "etro-et006b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et006b/etro-et006b_4.jpg"
+        "imagePath": "/images/products/etro/etro-et006b/etro-et006b_4.webp"
       },
       {
         "id": "etro-et006b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et006b/etro-et006b_5.jpg"
+        "imagePath": "/images/products/etro/etro-et006b/etro-et006b_5.webp"
       },
       {
         "id": "etro-et006b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et006b/etro-et006b_6.jpg"
+        "imagePath": "/images/products/etro/etro-et006b/etro-et006b_6.webp"
       }
     ]
   },
@@ -531,37 +531,37 @@ export const etroCollection: Category = {
         "id": "etro-et009b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et009b/etro-et009b_1.jpg"
+        "imagePath": "/images/products/etro/etro-et009b/etro-et009b_1.webp"
       },
       {
         "id": "etro-et009b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et009b/etro-et009b_2.jpg"
+        "imagePath": "/images/products/etro/etro-et009b/etro-et009b_2.webp"
       },
       {
         "id": "etro-et009b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et009b/etro-et009b_3.jpg"
+        "imagePath": "/images/products/etro/etro-et009b/etro-et009b_3.webp"
       },
       {
         "id": "etro-et009b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et009b/etro-et009b_4.jpg"
+        "imagePath": "/images/products/etro/etro-et009b/etro-et009b_4.webp"
       },
       {
         "id": "etro-et009b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et009b/etro-et009b_5.jpg"
+        "imagePath": "/images/products/etro/etro-et009b/etro-et009b_5.webp"
       },
       {
         "id": "etro-et009b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/etro/etro-et009b/etro-et009b_6.jpg"
+        "imagePath": "/images/products/etro/etro-et009b/etro-et009b_6.webp"
       }
     ]
   }

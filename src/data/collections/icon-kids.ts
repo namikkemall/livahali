@@ -20,37 +20,37 @@ export const iconkidsCollection: Category = {
         "id": "icon-kids-ic010r-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic010r/icon-kids-ic010r_1.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic010r/icon-kids-ic010r_1.webp"
       },
       {
         "id": "icon-kids-ic010r-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic010r/icon-kids-ic010r_2.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic010r/icon-kids-ic010r_2.webp"
       },
       {
         "id": "icon-kids-ic010r-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic010r/icon-kids-ic010r_3.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic010r/icon-kids-ic010r_3.webp"
       },
       {
         "id": "icon-kids-ic010r-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic010r/icon-kids-ic010r_4.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic010r/icon-kids-ic010r_4.webp"
       },
       {
         "id": "icon-kids-ic010r-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic010r/icon-kids-ic010r_5.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic010r/icon-kids-ic010r_5.webp"
       },
       {
         "id": "icon-kids-ic010r-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic010r/icon-kids-ic010r_6.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic010r/icon-kids-ic010r_6.webp"
       }
     ]
   },
@@ -67,37 +67,37 @@ export const iconkidsCollection: Category = {
         "id": "icon-kids-ic011r-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic011r/icon-kids-ic011r_1.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic011r/icon-kids-ic011r_1.webp"
       },
       {
         "id": "icon-kids-ic011r-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic011r/icon-kids-ic011r_2.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic011r/icon-kids-ic011r_2.webp"
       },
       {
         "id": "icon-kids-ic011r-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic011r/icon-kids-ic011r_3.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic011r/icon-kids-ic011r_3.webp"
       },
       {
         "id": "icon-kids-ic011r-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic011r/icon-kids-ic011r_4.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic011r/icon-kids-ic011r_4.webp"
       },
       {
         "id": "icon-kids-ic011r-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic011r/icon-kids-ic011r_5.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic011r/icon-kids-ic011r_5.webp"
       },
       {
         "id": "icon-kids-ic011r-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic011r/icon-kids-ic011r_6.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic011r/icon-kids-ic011r_6.webp"
       }
     ]
   },
@@ -114,37 +114,37 @@ export const iconkidsCollection: Category = {
         "id": "icon-kids-ic012r-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic012r/icon-kids-ic012r_1.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic012r/icon-kids-ic012r_1.webp"
       },
       {
         "id": "icon-kids-ic012r-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic012r/icon-kids-ic012r_2.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic012r/icon-kids-ic012r_2.webp"
       },
       {
         "id": "icon-kids-ic012r-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic012r/icon-kids-ic012r_3.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic012r/icon-kids-ic012r_3.webp"
       },
       {
         "id": "icon-kids-ic012r-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic012r/icon-kids-ic012r_4.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic012r/icon-kids-ic012r_4.webp"
       },
       {
         "id": "icon-kids-ic012r-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic012r/icon-kids-ic012r_5.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic012r/icon-kids-ic012r_5.webp"
       },
       {
         "id": "icon-kids-ic012r-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic012r/icon-kids-ic012r_6.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic012r/icon-kids-ic012r_6.webp"
       }
     ]
   },
@@ -161,37 +161,37 @@ export const iconkidsCollection: Category = {
         "id": "icon-kids-ic013r-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic013r/icon-kids-ic013r_1.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic013r/icon-kids-ic013r_1.webp"
       },
       {
         "id": "icon-kids-ic013r-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic013r/icon-kids-ic013r_2.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic013r/icon-kids-ic013r_2.webp"
       },
       {
         "id": "icon-kids-ic013r-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic013r/icon-kids-ic013r_3.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic013r/icon-kids-ic013r_3.webp"
       },
       {
         "id": "icon-kids-ic013r-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic013r/icon-kids-ic013r_4.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic013r/icon-kids-ic013r_4.webp"
       },
       {
         "id": "icon-kids-ic013r-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic013r/icon-kids-ic013r_5.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic013r/icon-kids-ic013r_5.webp"
       },
       {
         "id": "icon-kids-ic013r-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/icon-kids/icon-kids-ic013r/icon-kids-ic013r_6.jpg"
+        "imagePath": "/images/products/icon-kids/icon-kids-ic013r/icon-kids-ic013r_6.webp"
       }
     ]
   }

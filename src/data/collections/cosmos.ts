@@ -20,37 +20,37 @@ export const cosmosCollection: Category = {
         "id": "cosmos-cs001b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs001b/cosmos-cs001b_1.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs001b/cosmos-cs001b_1.webp"
       },
       {
         "id": "cosmos-cs001b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs001b/cosmos-cs001b_2.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs001b/cosmos-cs001b_2.webp"
       },
       {
         "id": "cosmos-cs001b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs001b/cosmos-cs001b_3.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs001b/cosmos-cs001b_3.webp"
       },
       {
         "id": "cosmos-cs001b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs001b/cosmos-cs001b_4.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs001b/cosmos-cs001b_4.webp"
       },
       {
         "id": "cosmos-cs001b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs001b/cosmos-cs001b_5.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs001b/cosmos-cs001b_5.webp"
       },
       {
         "id": "cosmos-cs001b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs001b/cosmos-cs001b_6.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs001b/cosmos-cs001b_6.webp"
       }
     ]
   },
@@ -67,37 +67,37 @@ export const cosmosCollection: Category = {
         "id": "cosmos-cs002a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs002a/cosmos-cs002a_1.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs002a/cosmos-cs002a_1.webp"
       },
       {
         "id": "cosmos-cs002a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs002a/cosmos-cs002a_2.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs002a/cosmos-cs002a_2.webp"
       },
       {
         "id": "cosmos-cs002a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs002a/cosmos-cs002a_3.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs002a/cosmos-cs002a_3.webp"
       },
       {
         "id": "cosmos-cs002a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs002a/cosmos-cs002a_4.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs002a/cosmos-cs002a_4.webp"
       },
       {
         "id": "cosmos-cs002a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs002a/cosmos-cs002a_5.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs002a/cosmos-cs002a_5.webp"
       },
       {
         "id": "cosmos-cs002a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs002a/cosmos-cs002a_6.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs002a/cosmos-cs002a_6.webp"
       }
     ]
   },
@@ -114,37 +114,37 @@ export const cosmosCollection: Category = {
         "id": "cosmos-cs002k-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs002k/cosmos-cs002k_1.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs002k/cosmos-cs002k_1.webp"
       },
       {
         "id": "cosmos-cs002k-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs002k/cosmos-cs002k_2.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs002k/cosmos-cs002k_2.webp"
       },
       {
         "id": "cosmos-cs002k-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs002k/cosmos-cs002k_3.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs002k/cosmos-cs002k_3.webp"
       },
       {
         "id": "cosmos-cs002k-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs002k/cosmos-cs002k_4.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs002k/cosmos-cs002k_4.webp"
       },
       {
         "id": "cosmos-cs002k-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs002k/cosmos-cs002k_5.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs002k/cosmos-cs002k_5.webp"
       },
       {
         "id": "cosmos-cs002k-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs002k/cosmos-cs002k_6.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs002k/cosmos-cs002k_6.webp"
       }
     ]
   },
@@ -161,37 +161,37 @@ export const cosmosCollection: Category = {
         "id": "cosmos-cs003b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs003b/cosmos-cs003b_1.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs003b/cosmos-cs003b_1.webp"
       },
       {
         "id": "cosmos-cs003b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs003b/cosmos-cs003b_2.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs003b/cosmos-cs003b_2.webp"
       },
       {
         "id": "cosmos-cs003b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs003b/cosmos-cs003b_3.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs003b/cosmos-cs003b_3.webp"
       },
       {
         "id": "cosmos-cs003b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs003b/cosmos-cs003b_4.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs003b/cosmos-cs003b_4.webp"
       },
       {
         "id": "cosmos-cs003b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs003b/cosmos-cs003b_5.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs003b/cosmos-cs003b_5.webp"
       },
       {
         "id": "cosmos-cs003b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs003b/cosmos-cs003b_6.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs003b/cosmos-cs003b_6.webp"
       }
     ]
   },
@@ -208,37 +208,37 @@ export const cosmosCollection: Category = {
         "id": "cosmos-cs004g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs004g/cosmos-cs004g_1.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs004g/cosmos-cs004g_1.webp"
       },
       {
         "id": "cosmos-cs004g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs004g/cosmos-cs004g_2.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs004g/cosmos-cs004g_2.webp"
       },
       {
         "id": "cosmos-cs004g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs004g/cosmos-cs004g_3.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs004g/cosmos-cs004g_3.webp"
       },
       {
         "id": "cosmos-cs004g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs004g/cosmos-cs004g_4.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs004g/cosmos-cs004g_4.webp"
       },
       {
         "id": "cosmos-cs004g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs004g/cosmos-cs004g_5.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs004g/cosmos-cs004g_5.webp"
       },
       {
         "id": "cosmos-cs004g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs004g/cosmos-cs004g_6.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs004g/cosmos-cs004g_6.webp"
       }
     ]
   },
@@ -255,37 +255,37 @@ export const cosmosCollection: Category = {
         "id": "cosmos-cs005g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs005g/cosmos-cs005g_1.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs005g/cosmos-cs005g_1.webp"
       },
       {
         "id": "cosmos-cs005g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs005g/cosmos-cs005g_2.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs005g/cosmos-cs005g_2.webp"
       },
       {
         "id": "cosmos-cs005g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs005g/cosmos-cs005g_3.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs005g/cosmos-cs005g_3.webp"
       },
       {
         "id": "cosmos-cs005g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs005g/cosmos-cs005g_4.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs005g/cosmos-cs005g_4.webp"
       },
       {
         "id": "cosmos-cs005g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs005g/cosmos-cs005g_5.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs005g/cosmos-cs005g_5.webp"
       },
       {
         "id": "cosmos-cs005g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs005g/cosmos-cs005g_6.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs005g/cosmos-cs005g_6.webp"
       }
     ]
   },
@@ -302,37 +302,37 @@ export const cosmosCollection: Category = {
         "id": "cosmos-cs006w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs006w/cosmos-cs006w_1.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs006w/cosmos-cs006w_1.webp"
       },
       {
         "id": "cosmos-cs006w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs006w/cosmos-cs006w_2.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs006w/cosmos-cs006w_2.webp"
       },
       {
         "id": "cosmos-cs006w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs006w/cosmos-cs006w_3.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs006w/cosmos-cs006w_3.webp"
       },
       {
         "id": "cosmos-cs006w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs006w/cosmos-cs006w_4.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs006w/cosmos-cs006w_4.webp"
       },
       {
         "id": "cosmos-cs006w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs006w/cosmos-cs006w_5.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs006w/cosmos-cs006w_5.webp"
       },
       {
         "id": "cosmos-cs006w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs006w/cosmos-cs006w_6.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs006w/cosmos-cs006w_6.webp"
       }
     ]
   },
@@ -349,37 +349,37 @@ export const cosmosCollection: Category = {
         "id": "cosmos-cs007g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs007g/cosmos-cs007g_1.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs007g/cosmos-cs007g_1.webp"
       },
       {
         "id": "cosmos-cs007g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs007g/cosmos-cs007g_2.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs007g/cosmos-cs007g_2.webp"
       },
       {
         "id": "cosmos-cs007g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs007g/cosmos-cs007g_3.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs007g/cosmos-cs007g_3.webp"
       },
       {
         "id": "cosmos-cs007g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs007g/cosmos-cs007g_4.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs007g/cosmos-cs007g_4.webp"
       },
       {
         "id": "cosmos-cs007g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs007g/cosmos-cs007g_5.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs007g/cosmos-cs007g_5.webp"
       },
       {
         "id": "cosmos-cs007g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs007g/cosmos-cs007g_6.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs007g/cosmos-cs007g_6.webp"
       }
     ]
   },
@@ -396,37 +396,37 @@ export const cosmosCollection: Category = {
         "id": "cosmos-cs008a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs008a/cosmos-cs008a_1.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs008a/cosmos-cs008a_1.webp"
       },
       {
         "id": "cosmos-cs008a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs008a/cosmos-cs008a_2.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs008a/cosmos-cs008a_2.webp"
       },
       {
         "id": "cosmos-cs008a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs008a/cosmos-cs008a_3.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs008a/cosmos-cs008a_3.webp"
       },
       {
         "id": "cosmos-cs008a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs008a/cosmos-cs008a_4.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs008a/cosmos-cs008a_4.webp"
       },
       {
         "id": "cosmos-cs008a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs008a/cosmos-cs008a_5.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs008a/cosmos-cs008a_5.webp"
       },
       {
         "id": "cosmos-cs008a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs008a/cosmos-cs008a_6.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs008a/cosmos-cs008a_6.webp"
       }
     ]
   },
@@ -443,37 +443,37 @@ export const cosmosCollection: Category = {
         "id": "cosmos-cs009z-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs009z/cosmos-cs009z_1.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs009z/cosmos-cs009z_1.webp"
       },
       {
         "id": "cosmos-cs009z-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs009z/cosmos-cs009z_2.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs009z/cosmos-cs009z_2.webp"
       },
       {
         "id": "cosmos-cs009z-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs009z/cosmos-cs009z_3.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs009z/cosmos-cs009z_3.webp"
       },
       {
         "id": "cosmos-cs009z-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs009z/cosmos-cs009z_4.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs009z/cosmos-cs009z_4.webp"
       },
       {
         "id": "cosmos-cs009z-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs009z/cosmos-cs009z_5.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs009z/cosmos-cs009z_5.webp"
       },
       {
         "id": "cosmos-cs009z-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/cosmos/cosmos-cs009z/cosmos-cs009z_6.jpg"
+        "imagePath": "/images/products/cosmos/cosmos-cs009z/cosmos-cs009z_6.webp"
       }
     ]
   }

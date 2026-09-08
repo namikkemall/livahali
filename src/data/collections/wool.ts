@@ -20,43 +20,43 @@ export const woolCollection: Category = {
         "id": "wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_1.jpg"
+        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_1.webp"
       },
       {
         "id": "wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_2.jpg"
+        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_2.webp"
       },
       {
         "id": "wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_3.jpg"
+        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_3.webp"
       },
       {
         "id": "wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_4.jpg"
+        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_4.webp"
       },
       {
         "id": "wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_5.jpg"
+        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_5.webp"
       },
       {
         "id": "wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_6.jpg"
+        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_6.webp"
       },
       {
         "id": "wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_7.jpg"
+        "imagePath": "/images/products/wool/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_7.webp"
       }
     ]
   },
@@ -73,37 +73,37 @@ export const woolCollection: Category = {
         "id": "wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik_1.jpg"
+        "imagePath": "/images/products/wool/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik_1.webp"
       },
       {
         "id": "wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik_2.jpg"
+        "imagePath": "/images/products/wool/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik_2.webp"
       },
       {
         "id": "wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik_3.jpg"
+        "imagePath": "/images/products/wool/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik_3.webp"
       },
       {
         "id": "wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik_4.jpg"
+        "imagePath": "/images/products/wool/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik_4.webp"
       },
       {
         "id": "wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik_5.jpg"
+        "imagePath": "/images/products/wool/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik_5.webp"
       },
       {
         "id": "wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik_6.jpg"
+        "imagePath": "/images/products/wool/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik/wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik_6.webp"
       }
     ]
   },
@@ -120,43 +120,43 @@ export const woolCollection: Category = {
         "id": "wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_1.jpg"
+        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_1.webp"
       },
       {
         "id": "wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_2.jpg"
+        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_2.webp"
       },
       {
         "id": "wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_3.jpg"
+        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_3.webp"
       },
       {
         "id": "wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_4.jpg"
+        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_4.webp"
       },
       {
         "id": "wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_5.jpg"
+        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_5.webp"
       },
       {
         "id": "wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_6.jpg"
+        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_6.webp"
       },
       {
         "id": "wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_7.jpg"
+        "imagePath": "/images/products/wool/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl004a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_7.webp"
       }
     ]
   },
@@ -173,43 +173,43 @@ export const woolCollection: Category = {
         "id": "wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_1.jpg"
+        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_1.webp"
       },
       {
         "id": "wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_2.jpg"
+        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_2.webp"
       },
       {
         "id": "wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_3.jpg"
+        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_3.webp"
       },
       {
         "id": "wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_4.jpg"
+        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_4.webp"
       },
       {
         "id": "wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_5.jpg"
+        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_5.webp"
       },
       {
         "id": "wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_6.jpg"
+        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_6.webp"
       },
       {
         "id": "wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_7.jpg"
+        "imagePath": "/images/products/wool/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_7.webp"
       }
     ]
   },
@@ -226,43 +226,43 @@ export const woolCollection: Category = {
         "id": "wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_1.jpg"
+        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_1.webp"
       },
       {
         "id": "wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_2.jpg"
+        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_2.webp"
       },
       {
         "id": "wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_3.jpg"
+        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_3.webp"
       },
       {
         "id": "wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_4.jpg"
+        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_4.webp"
       },
       {
         "id": "wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_5.jpg"
+        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_5.webp"
       },
       {
         "id": "wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_6.jpg"
+        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_6.webp"
       },
       {
         "id": "wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_7.jpg"
+        "imagePath": "/images/products/wool/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor/wool-wl006a-gri-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor_7.webp"
       }
     ]
   },
@@ -279,43 +279,43 @@ export const woolCollection: Category = {
         "id": "wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_1.jpg"
+        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_1.webp"
       },
       {
         "id": "wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_2.jpg"
+        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_2.webp"
       },
       {
         "id": "wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_3.jpg"
+        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_3.webp"
       },
       {
         "id": "wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_4.jpg"
+        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_4.webp"
       },
       {
         "id": "wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_5.jpg"
+        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_5.webp"
       },
       {
         "id": "wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_6.jpg"
+        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_6.webp"
       },
       {
         "id": "wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_7.jpg"
+        "imagePath": "/images/products/wool/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl007a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_7.webp"
       }
     ]
   },
@@ -332,43 +332,43 @@ export const woolCollection: Category = {
         "id": "wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_1.jpg"
+        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_1.webp"
       },
       {
         "id": "wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_2.jpg"
+        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_2.webp"
       },
       {
         "id": "wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_3.jpg"
+        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_3.webp"
       },
       {
         "id": "wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_4.jpg"
+        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_4.webp"
       },
       {
         "id": "wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_5.jpg"
+        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_5.webp"
       },
       {
         "id": "wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_6.jpg"
+        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_6.webp"
       },
       {
         "id": "wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_7.jpg"
+        "imagePath": "/images/products/wool/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor/wool-wl008a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor_7.webp"
       }
     ]
   },
@@ -385,37 +385,37 @@ export const woolCollection: Category = {
         "id": "wool-wl009a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl009a/wool-wl009a_1.jpg"
+        "imagePath": "/images/products/wool/wool-wl009a/wool-wl009a_1.webp"
       },
       {
         "id": "wool-wl009a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl009a/wool-wl009a_2.jpg"
+        "imagePath": "/images/products/wool/wool-wl009a/wool-wl009a_2.webp"
       },
       {
         "id": "wool-wl009a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl009a/wool-wl009a_3.jpg"
+        "imagePath": "/images/products/wool/wool-wl009a/wool-wl009a_3.webp"
       },
       {
         "id": "wool-wl009a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl009a/wool-wl009a_4.jpg"
+        "imagePath": "/images/products/wool/wool-wl009a/wool-wl009a_4.webp"
       },
       {
         "id": "wool-wl009a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl009a/wool-wl009a_5.jpg"
+        "imagePath": "/images/products/wool/wool-wl009a/wool-wl009a_5.webp"
       },
       {
         "id": "wool-wl009a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl009a/wool-wl009a_6.jpg"
+        "imagePath": "/images/products/wool/wool-wl009a/wool-wl009a_6.webp"
       }
     ]
   },
@@ -432,37 +432,37 @@ export const woolCollection: Category = {
         "id": "wool-wl010a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl010a/wool-wl010a_1.jpg"
+        "imagePath": "/images/products/wool/wool-wl010a/wool-wl010a_1.webp"
       },
       {
         "id": "wool-wl010a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl010a/wool-wl010a_2.jpg"
+        "imagePath": "/images/products/wool/wool-wl010a/wool-wl010a_2.webp"
       },
       {
         "id": "wool-wl010a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl010a/wool-wl010a_3.jpg"
+        "imagePath": "/images/products/wool/wool-wl010a/wool-wl010a_3.webp"
       },
       {
         "id": "wool-wl010a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl010a/wool-wl010a_4.jpg"
+        "imagePath": "/images/products/wool/wool-wl010a/wool-wl010a_4.webp"
       },
       {
         "id": "wool-wl010a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl010a/wool-wl010a_5.jpg"
+        "imagePath": "/images/products/wool/wool-wl010a/wool-wl010a_5.webp"
       },
       {
         "id": "wool-wl010a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl010a/wool-wl010a_6.jpg"
+        "imagePath": "/images/products/wool/wool-wl010a/wool-wl010a_6.webp"
       }
     ]
   },
@@ -479,37 +479,37 @@ export const woolCollection: Category = {
         "id": "wool-wl011a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl011a/wool-wl011a_1.jpg"
+        "imagePath": "/images/products/wool/wool-wl011a/wool-wl011a_1.webp"
       },
       {
         "id": "wool-wl011a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl011a/wool-wl011a_2.jpg"
+        "imagePath": "/images/products/wool/wool-wl011a/wool-wl011a_2.webp"
       },
       {
         "id": "wool-wl011a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl011a/wool-wl011a_3.jpg"
+        "imagePath": "/images/products/wool/wool-wl011a/wool-wl011a_3.webp"
       },
       {
         "id": "wool-wl011a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl011a/wool-wl011a_4.jpg"
+        "imagePath": "/images/products/wool/wool-wl011a/wool-wl011a_4.webp"
       },
       {
         "id": "wool-wl011a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl011a/wool-wl011a_5.jpg"
+        "imagePath": "/images/products/wool/wool-wl011a/wool-wl011a_5.webp"
       },
       {
         "id": "wool-wl011a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl011a/wool-wl011a_6.jpg"
+        "imagePath": "/images/products/wool/wool-wl011a/wool-wl011a_6.webp"
       }
     ]
   },
@@ -526,37 +526,37 @@ export const woolCollection: Category = {
         "id": "wool-wl012a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl012a/wool-wl012a_1.jpg"
+        "imagePath": "/images/products/wool/wool-wl012a/wool-wl012a_1.webp"
       },
       {
         "id": "wool-wl012a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl012a/wool-wl012a_2.jpg"
+        "imagePath": "/images/products/wool/wool-wl012a/wool-wl012a_2.webp"
       },
       {
         "id": "wool-wl012a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl012a/wool-wl012a_3.jpg"
+        "imagePath": "/images/products/wool/wool-wl012a/wool-wl012a_3.webp"
       },
       {
         "id": "wool-wl012a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl012a/wool-wl012a_4.jpg"
+        "imagePath": "/images/products/wool/wool-wl012a/wool-wl012a_4.webp"
       },
       {
         "id": "wool-wl012a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl012a/wool-wl012a_5.jpg"
+        "imagePath": "/images/products/wool/wool-wl012a/wool-wl012a_5.webp"
       },
       {
         "id": "wool-wl012a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/wool/wool-wl012a/wool-wl012a_6.jpg"
+        "imagePath": "/images/products/wool/wool-wl012a/wool-wl012a_6.webp"
       }
     ]
   }

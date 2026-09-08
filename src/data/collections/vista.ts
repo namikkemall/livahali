@@ -17,37 +17,37 @@ export const vistaCollection: Category = {
         "id": "vs015k-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs015k/vs015k_1.jpg"
+        "imagePath": "/images/products/vista/vs015k/vs015k_1.webp"
       },
       {
         "id": "vs015k-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs015k/vs015k_2.jpg"
+        "imagePath": "/images/products/vista/vs015k/vs015k_2.webp"
       },
       {
         "id": "vs015k-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs015k/vs015k_3.jpg"
+        "imagePath": "/images/products/vista/vs015k/vs015k_3.webp"
       },
       {
         "id": "vs015k-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs015k/vs015k_4.jpg"
+        "imagePath": "/images/products/vista/vs015k/vs015k_4.webp"
       },
       {
         "id": "vs015k-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs015k/vs015k_5.jpg"
+        "imagePath": "/images/products/vista/vs015k/vs015k_5.webp"
       },
       {
         "id": "vs015k-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs015k/vs015k_6.jpg"
+        "imagePath": "/images/products/vista/vs015k/vs015k_6.webp"
       }
     ]
   },
@@ -61,37 +61,37 @@ export const vistaCollection: Category = {
         "id": "vs016k-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs016k/vs016k_1.jpg"
+        "imagePath": "/images/products/vista/vs016k/vs016k_1.webp"
       },
       {
         "id": "vs016k-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs016k/vs016k_2.jpg"
+        "imagePath": "/images/products/vista/vs016k/vs016k_2.webp"
       },
       {
         "id": "vs016k-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs016k/vs016k_3.jpg"
+        "imagePath": "/images/products/vista/vs016k/vs016k_3.webp"
       },
       {
         "id": "vs016k-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs016k/vs016k_4.jpg"
+        "imagePath": "/images/products/vista/vs016k/vs016k_4.webp"
       },
       {
         "id": "vs016k-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs016k/vs016k_5.jpg"
+        "imagePath": "/images/products/vista/vs016k/vs016k_5.webp"
       },
       {
         "id": "vs016k-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs016k/vs016k_6.jpg"
+        "imagePath": "/images/products/vista/vs016k/vs016k_6.webp"
       }
     ]
   },
@@ -105,37 +105,37 @@ export const vistaCollection: Category = {
         "id": "vs017w-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs017w/vs017w_1.jpg"
+        "imagePath": "/images/products/vista/vs017w/vs017w_1.webp"
       },
       {
         "id": "vs017w-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs017w/vs017w_2.jpg"
+        "imagePath": "/images/products/vista/vs017w/vs017w_2.webp"
       },
       {
         "id": "vs017w-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs017w/vs017w_3.jpg"
+        "imagePath": "/images/products/vista/vs017w/vs017w_3.webp"
       },
       {
         "id": "vs017w-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs017w/vs017w_4.jpg"
+        "imagePath": "/images/products/vista/vs017w/vs017w_4.webp"
       },
       {
         "id": "vs017w-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs017w/vs017w_5.jpg"
+        "imagePath": "/images/products/vista/vs017w/vs017w_5.webp"
       },
       {
         "id": "vs017w-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs017w/vs017w_6.jpg"
+        "imagePath": "/images/products/vista/vs017w/vs017w_6.webp"
       }
     ]
   },
@@ -149,37 +149,37 @@ export const vistaCollection: Category = {
         "id": "vs017g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs017g/vs017g_1.jpg"
+        "imagePath": "/images/products/vista/vs017g/vs017g_1.webp"
       },
       {
         "id": "vs017g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs017g/vs017g_2.jpg"
+        "imagePath": "/images/products/vista/vs017g/vs017g_2.webp"
       },
       {
         "id": "vs017g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs017g/vs017g_3.jpg"
+        "imagePath": "/images/products/vista/vs017g/vs017g_3.webp"
       },
       {
         "id": "vs017g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs017g/vs017g_4.jpg"
+        "imagePath": "/images/products/vista/vs017g/vs017g_4.webp"
       },
       {
         "id": "vs017g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs017g/vs017g_5.jpg"
+        "imagePath": "/images/products/vista/vs017g/vs017g_5.webp"
       },
       {
         "id": "vs017g-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs017g/vs017g_6.jpg"
+        "imagePath": "/images/products/vista/vs017g/vs017g_6.webp"
       }
     ]
   },
@@ -193,37 +193,37 @@ export const vistaCollection: Category = {
         "id": "vs018g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs018g/vs018g_1.jpg"
+        "imagePath": "/images/products/vista/vs018g/vs018g_1.webp"
       },
       {
         "id": "vs018g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs018g/vs018g_2.jpg"
+        "imagePath": "/images/products/vista/vs018g/vs018g_2.webp"
       },
       {
         "id": "vs018g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs018g/vs018g_3.jpg"
+        "imagePath": "/images/products/vista/vs018g/vs018g_3.webp"
       },
       {
         "id": "vs018g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs018g/vs018g_4.jpg"
+        "imagePath": "/images/products/vista/vs018g/vs018g_4.webp"
       },
       {
         "id": "vs018g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs018g/vs018g_5.jpg"
+        "imagePath": "/images/products/vista/vs018g/vs018g_5.webp"
       },
       {
         "id": "vs018g-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs018g/vs018g_6.jpg"
+        "imagePath": "/images/products/vista/vs018g/vs018g_6.webp"
       }
     ]
   },
@@ -237,31 +237,31 @@ export const vistaCollection: Category = {
         "id": "vs002a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs002a/vs002a_1.jpg"
+        "imagePath": "/images/products/vista/vs002a/vs002a_1.webp"
       },
       {
         "id": "vs002a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs002a/vs002a_2.jpg"
+        "imagePath": "/images/products/vista/vs002a/vs002a_2.webp"
       },
       {
         "id": "vs002a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs002a/vs002a_3.jpg"
+        "imagePath": "/images/products/vista/vs002a/vs002a_3.webp"
       },
       {
         "id": "vs002a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs002a/vs002a_4.jpg"
+        "imagePath": "/images/products/vista/vs002a/vs002a_4.webp"
       },
       {
         "id": "vs002a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs002a/vs002a_5.jpg"
+        "imagePath": "/images/products/vista/vs002a/vs002a_5.webp"
       }
     ]
   },
@@ -275,31 +275,31 @@ export const vistaCollection: Category = {
         "id": "vs002g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs002g/vs002g_1.jpg"
+        "imagePath": "/images/products/vista/vs002g/vs002g_1.webp"
       },
       {
         "id": "vs002g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs002g/vs002g_2.jpg"
+        "imagePath": "/images/products/vista/vs002g/vs002g_2.webp"
       },
       {
         "id": "vs002g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs002g/vs002g_3.jpg"
+        "imagePath": "/images/products/vista/vs002g/vs002g_3.webp"
       },
       {
         "id": "vs002g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs002g/vs002g_4.jpg"
+        "imagePath": "/images/products/vista/vs002g/vs002g_4.webp"
       },
       {
         "id": "vs002g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs002g/vs002g_5.jpg"
+        "imagePath": "/images/products/vista/vs002g/vs002g_5.webp"
       }
     ]
   },
@@ -313,31 +313,31 @@ export const vistaCollection: Category = {
         "id": "vs003a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs003a/vs003a_1.jpg"
+        "imagePath": "/images/products/vista/vs003a/vs003a_1.webp"
       },
       {
         "id": "vs003a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs003a/vs003a_2.jpg"
+        "imagePath": "/images/products/vista/vs003a/vs003a_2.webp"
       },
       {
         "id": "vs003a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs003a/vs003a_3.jpg"
+        "imagePath": "/images/products/vista/vs003a/vs003a_3.webp"
       },
       {
         "id": "vs003a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs003a/vs003a_4.jpg"
+        "imagePath": "/images/products/vista/vs003a/vs003a_4.webp"
       },
       {
         "id": "vs003a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs003a/vs003a_5.jpg"
+        "imagePath": "/images/products/vista/vs003a/vs003a_5.webp"
       }
     ]
   },
@@ -351,31 +351,31 @@ export const vistaCollection: Category = {
         "id": "vs004g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs004g/vs004g_1.jpg"
+        "imagePath": "/images/products/vista/vs004g/vs004g_1.webp"
       },
       {
         "id": "vs004g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs004g/vs004g_2.jpg"
+        "imagePath": "/images/products/vista/vs004g/vs004g_2.webp"
       },
       {
         "id": "vs004g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs004g/vs004g_3.jpg"
+        "imagePath": "/images/products/vista/vs004g/vs004g_3.webp"
       },
       {
         "id": "vs004g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs004g/vs004g_4.jpg"
+        "imagePath": "/images/products/vista/vs004g/vs004g_4.webp"
       },
       {
         "id": "vs004g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs004g/vs004g_5.jpg"
+        "imagePath": "/images/products/vista/vs004g/vs004g_5.webp"
       }
     ]
   },
@@ -389,31 +389,31 @@ export const vistaCollection: Category = {
         "id": "vs005g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs005g/vs005g_1.jpg"
+        "imagePath": "/images/products/vista/vs005g/vs005g_1.webp"
       },
       {
         "id": "vs005g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs005g/vs005g_2.jpg"
+        "imagePath": "/images/products/vista/vs005g/vs005g_2.webp"
       },
       {
         "id": "vs005g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs005g/vs005g_3.jpg"
+        "imagePath": "/images/products/vista/vs005g/vs005g_3.webp"
       },
       {
         "id": "vs005g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs005g/vs005g_4.jpg"
+        "imagePath": "/images/products/vista/vs005g/vs005g_4.webp"
       },
       {
         "id": "vs005g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs005g/vs005g_5.jpg"
+        "imagePath": "/images/products/vista/vs005g/vs005g_5.webp"
       }
     ]
   },
@@ -427,31 +427,31 @@ export const vistaCollection: Category = {
         "id": "vs006g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs006g/vs006g_1.jpg"
+        "imagePath": "/images/products/vista/vs006g/vs006g_1.webp"
       },
       {
         "id": "vs006g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs006g/vs006g_2.jpg"
+        "imagePath": "/images/products/vista/vs006g/vs006g_2.webp"
       },
       {
         "id": "vs006g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs006g/vs006g_3.jpg"
+        "imagePath": "/images/products/vista/vs006g/vs006g_3.webp"
       },
       {
         "id": "vs006g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs006g/vs006g_4.jpg"
+        "imagePath": "/images/products/vista/vs006g/vs006g_4.webp"
       },
       {
         "id": "vs006g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs006g/vs006g_5.jpg"
+        "imagePath": "/images/products/vista/vs006g/vs006g_5.webp"
       }
     ]
   },
@@ -465,31 +465,31 @@ export const vistaCollection: Category = {
         "id": "vs007a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs007a/vs007a_1.jpg"
+        "imagePath": "/images/products/vista/vs007a/vs007a_1.webp"
       },
       {
         "id": "vs007a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs007a/vs007a_2.jpg"
+        "imagePath": "/images/products/vista/vs007a/vs007a_2.webp"
       },
       {
         "id": "vs007a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs007a/vs007a_3.jpg"
+        "imagePath": "/images/products/vista/vs007a/vs007a_3.webp"
       },
       {
         "id": "vs007a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs007a/vs007a_4.jpg"
+        "imagePath": "/images/products/vista/vs007a/vs007a_4.webp"
       },
       {
         "id": "vs007a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs007a/vs007a_5.jpg"
+        "imagePath": "/images/products/vista/vs007a/vs007a_5.webp"
       }
     ]
   },
@@ -503,31 +503,31 @@ export const vistaCollection: Category = {
         "id": "vs007g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs007g/vs007g_1.jpg"
+        "imagePath": "/images/products/vista/vs007g/vs007g_1.webp"
       },
       {
         "id": "vs007g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs007g/vs007g_2.jpg"
+        "imagePath": "/images/products/vista/vs007g/vs007g_2.webp"
       },
       {
         "id": "vs007g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs007g/vs007g_3.jpg"
+        "imagePath": "/images/products/vista/vs007g/vs007g_3.webp"
       },
       {
         "id": "vs007g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs007g/vs007g_4.jpg"
+        "imagePath": "/images/products/vista/vs007g/vs007g_4.webp"
       },
       {
         "id": "vs007g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs007g/vs007g_5.jpg"
+        "imagePath": "/images/products/vista/vs007g/vs007g_5.webp"
       }
     ]
   },
@@ -541,31 +541,31 @@ export const vistaCollection: Category = {
         "id": "vs010a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs010a/vs010a_1.jpg"
+        "imagePath": "/images/products/vista/vs010a/vs010a_1.webp"
       },
       {
         "id": "vs010a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs010a/vs010a_2.jpg"
+        "imagePath": "/images/products/vista/vs010a/vs010a_2.webp"
       },
       {
         "id": "vs010a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs010a/vs010a_3.jpg"
+        "imagePath": "/images/products/vista/vs010a/vs010a_3.webp"
       },
       {
         "id": "vs010a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs010a/vs010a_4.jpg"
+        "imagePath": "/images/products/vista/vs010a/vs010a_4.webp"
       },
       {
         "id": "vs010a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs010a/vs010a_5.jpg"
+        "imagePath": "/images/products/vista/vs010a/vs010a_5.webp"
       }
     ]
   },
@@ -579,31 +579,31 @@ export const vistaCollection: Category = {
         "id": "vs012a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs012a/vs012a_1.jpg"
+        "imagePath": "/images/products/vista/vs012a/vs012a_1.webp"
       },
       {
         "id": "vs012a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs012a/vs012a_2.jpg"
+        "imagePath": "/images/products/vista/vs012a/vs012a_2.webp"
       },
       {
         "id": "vs012a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs012a/vs012a_3.jpg"
+        "imagePath": "/images/products/vista/vs012a/vs012a_3.webp"
       },
       {
         "id": "vs012a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs012a/vs012a_4.jpg"
+        "imagePath": "/images/products/vista/vs012a/vs012a_4.webp"
       },
       {
         "id": "vs012a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs012a/vs012a_5.jpg"
+        "imagePath": "/images/products/vista/vs012a/vs012a_5.webp"
       }
     ]
   },
@@ -617,31 +617,31 @@ export const vistaCollection: Category = {
         "id": "vs013a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs013a/vs013a_1.jpg"
+        "imagePath": "/images/products/vista/vs013a/vs013a_1.webp"
       },
       {
         "id": "vs013a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs013a/vs013a_2.jpg"
+        "imagePath": "/images/products/vista/vs013a/vs013a_2.webp"
       },
       {
         "id": "vs013a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs013a/vs013a_3.jpg"
+        "imagePath": "/images/products/vista/vs013a/vs013a_3.webp"
       },
       {
         "id": "vs013a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs013a/vs013a_4.jpg"
+        "imagePath": "/images/products/vista/vs013a/vs013a_4.webp"
       },
       {
         "id": "vs013a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs013a/vs013a_5.jpg"
+        "imagePath": "/images/products/vista/vs013a/vs013a_5.webp"
       }
     ]
   },
@@ -655,31 +655,31 @@ export const vistaCollection: Category = {
         "id": "vs014g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs014g/vs014g_1.jpg"
+        "imagePath": "/images/products/vista/vs014g/vs014g_1.webp"
       },
       {
         "id": "vs014g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs014g/vs014g_2.jpg"
+        "imagePath": "/images/products/vista/vs014g/vs014g_2.webp"
       },
       {
         "id": "vs014g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs014g/vs014g_3.jpg"
+        "imagePath": "/images/products/vista/vs014g/vs014g_3.webp"
       },
       {
         "id": "vs014g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs014g/vs014g_4.jpg"
+        "imagePath": "/images/products/vista/vs014g/vs014g_4.webp"
       },
       {
         "id": "vs014g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs014g/vs014g_5.jpg"
+        "imagePath": "/images/products/vista/vs014g/vs014g_5.webp"
       }
     ]
   },
@@ -693,31 +693,31 @@ export const vistaCollection: Category = {
         "id": "vs014k-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs014k/vs014k_1.jpg"
+        "imagePath": "/images/products/vista/vs014k/vs014k_1.webp"
       },
       {
         "id": "vs014k-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs014k/vs014k_2.jpg"
+        "imagePath": "/images/products/vista/vs014k/vs014k_2.webp"
       },
       {
         "id": "vs014k-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs014k/vs014k_3.jpg"
+        "imagePath": "/images/products/vista/vs014k/vs014k_3.webp"
       },
       {
         "id": "vs014k-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs014k/vs014k_4.jpg"
+        "imagePath": "/images/products/vista/vs014k/vs014k_4.webp"
       },
       {
         "id": "vs014k-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vista/vs014k/vs014k_5.jpg"
+        "imagePath": "/images/products/vista/vs014k/vs014k_5.webp"
       }
     ]
   }

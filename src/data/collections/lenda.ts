@@ -20,43 +20,43 @@ export const lendaCollection: Category = {
         "id": "lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_1.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_1.webp"
       },
       {
         "id": "lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_2.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_2.webp"
       },
       {
         "id": "lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_3.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_3.webp"
       },
       {
         "id": "lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_4.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_4.webp"
       },
       {
         "id": "lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_5.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_5.webp"
       },
       {
         "id": "lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_6.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_6.webp"
       },
       {
         "id": "lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_7.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali/lenda-ld002a-gri-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-hali_7.webp"
       }
     ]
   },
@@ -73,43 +73,43 @@ export const lendaCollection: Category = {
         "id": "lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_1.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_1.webp"
       },
       {
         "id": "lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_2.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_2.webp"
       },
       {
         "id": "lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_3.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_3.webp"
       },
       {
         "id": "lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_4.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_4.webp"
       },
       {
         "id": "lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_5.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_5.webp"
       },
       {
         "id": "lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_6.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_6.webp"
       },
       {
         "id": "lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_7.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon/lenda-ld003a-antrasit-kilim-renkli-detayli-ince-kaymaz-taban-makinada-yikanabilir-salon_7.webp"
       }
     ]
   },
@@ -126,43 +126,43 @@ export const lendaCollection: Category = {
         "id": "lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_1.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_1.webp"
       },
       {
         "id": "lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_2.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_2.webp"
       },
       {
         "id": "lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_3.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_3.webp"
       },
       {
         "id": "lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_4.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_4.webp"
       },
       {
         "id": "lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_5.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_5.webp"
       },
       {
         "id": "lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_6.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_6.webp"
       },
       {
         "id": "lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_7.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld004a-gri-kilim-antrasit-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_7.webp"
       }
     ]
   },
@@ -179,43 +179,43 @@ export const lendaCollection: Category = {
         "id": "lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_1.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_1.webp"
       },
       {
         "id": "lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_2.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_2.webp"
       },
       {
         "id": "lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_3.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_3.webp"
       },
       {
         "id": "lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_4.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_4.webp"
       },
       {
         "id": "lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_5.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_5.webp"
       },
       {
         "id": "lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_6.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_6.webp"
       },
       {
         "id": "lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_7.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld005a-antrasit-kilim-gold-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_7.webp"
       }
     ]
   },
@@ -232,43 +232,43 @@ export const lendaCollection: Category = {
         "id": "lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_1.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_1.webp"
       },
       {
         "id": "lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_2.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_2.webp"
       },
       {
         "id": "lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_3.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_3.webp"
       },
       {
         "id": "lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_4.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_4.webp"
       },
       {
         "id": "lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_5.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_5.webp"
       },
       {
         "id": "lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_6.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_6.webp"
       },
       {
         "id": "lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_7.jpg"
+        "imagePath": "/images/products/lenda/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali/lenda-ld006a-antrasit-kilim-gri-detayli-ince-kaymaz-taban-makinada-yikanabilir-hali_7.webp"
       }
     ]
   }

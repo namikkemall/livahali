@@ -5,7 +5,7 @@ export const satensisalCollection: Category = {
   title: "SATEN SISAL Serisi",
   description: "80-100-120-160-200 Ebatlarında Rulo Kesim",
   brand: 'saten',
-  coverImage: "/images/products/saten-sisal/ss001b/ss001b_1.jpg",
+  coverImage: "/images/products/saten-sisal/ss001b/ss001b_1.webp",
   products: [
     {
       "id": "ss002b",
@@ -17,37 +17,37 @@ export const satensisalCollection: Category = {
           "id": "ss002b-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss002b/ss002b_1.jpg"
+          "imagePath": "/images/products/saten-sisal/ss002b/ss002b_1.webp"
         },
         {
           "id": "ss002b-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss002b/ss002b_2.jpg"
+          "imagePath": "/images/products/saten-sisal/ss002b/ss002b_2.webp"
         },
         {
           "id": "ss002b-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss002b/ss002b_3.jpg"
+          "imagePath": "/images/products/saten-sisal/ss002b/ss002b_3.webp"
         },
         {
           "id": "ss002b-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss002b/ss002b_4.jpg"
+          "imagePath": "/images/products/saten-sisal/ss002b/ss002b_4.webp"
         },
         {
           "id": "ss002b-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss002b/ss002b_5.jpg"
+          "imagePath": "/images/products/saten-sisal/ss002b/ss002b_5.webp"
         },
         {
           "id": "ss002b-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss002b/ss002b_6.jpg"
+          "imagePath": "/images/products/saten-sisal/ss002b/ss002b_6.webp"
         }
       ]
     },
@@ -61,37 +61,37 @@ export const satensisalCollection: Category = {
           "id": "ss002g-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss002g/ss002g_1.jpg"
+          "imagePath": "/images/products/saten-sisal/ss002g/ss002g_1.webp"
         },
         {
           "id": "ss002g-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss002g/ss002g_2.jpg"
+          "imagePath": "/images/products/saten-sisal/ss002g/ss002g_2.webp"
         },
         {
           "id": "ss002g-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss002g/ss002g_3.jpg"
+          "imagePath": "/images/products/saten-sisal/ss002g/ss002g_3.webp"
         },
         {
           "id": "ss002g-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss002g/ss002g_4.jpg"
+          "imagePath": "/images/products/saten-sisal/ss002g/ss002g_4.webp"
         },
         {
           "id": "ss002g-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss002g/ss002g_5.jpg"
+          "imagePath": "/images/products/saten-sisal/ss002g/ss002g_5.webp"
         },
         {
           "id": "ss002g-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss002g/ss002g_6.jpg"
+          "imagePath": "/images/products/saten-sisal/ss002g/ss002g_6.webp"
         }
       ]
     },
@@ -105,37 +105,37 @@ export const satensisalCollection: Category = {
           "id": "ss003a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss003a/ss003a_1.jpg"
+          "imagePath": "/images/products/saten-sisal/ss003a/ss003a_1.webp"
         },
         {
           "id": "ss003a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss003a/ss003a_2.jpg"
+          "imagePath": "/images/products/saten-sisal/ss003a/ss003a_2.webp"
         },
         {
           "id": "ss003a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss003a/ss003a_3.jpg"
+          "imagePath": "/images/products/saten-sisal/ss003a/ss003a_3.webp"
         },
         {
           "id": "ss003a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss003a/ss003a_4.jpg"
+          "imagePath": "/images/products/saten-sisal/ss003a/ss003a_4.webp"
         },
         {
           "id": "ss003a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss003a/ss003a_5.jpg"
+          "imagePath": "/images/products/saten-sisal/ss003a/ss003a_5.webp"
         },
         {
           "id": "ss003a-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss003a/ss003a_6.jpg"
+          "imagePath": "/images/products/saten-sisal/ss003a/ss003a_6.webp"
         }
       ]
     },
@@ -149,37 +149,37 @@ export const satensisalCollection: Category = {
           "id": "ss003w-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss003w/ss003w_1.jpg"
+          "imagePath": "/images/products/saten-sisal/ss003w/ss003w_1.webp"
         },
         {
           "id": "ss003w-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss003w/ss003w_2.jpg"
+          "imagePath": "/images/products/saten-sisal/ss003w/ss003w_2.webp"
         },
         {
           "id": "ss003w-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss003w/ss003w_3.jpg"
+          "imagePath": "/images/products/saten-sisal/ss003w/ss003w_3.webp"
         },
         {
           "id": "ss003w-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss003w/ss003w_4.jpg"
+          "imagePath": "/images/products/saten-sisal/ss003w/ss003w_4.webp"
         },
         {
           "id": "ss003w-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss003w/ss003w_5.jpg"
+          "imagePath": "/images/products/saten-sisal/ss003w/ss003w_5.webp"
         },
         {
           "id": "ss003w-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss003w/ss003w_6.jpg"
+          "imagePath": "/images/products/saten-sisal/ss003w/ss003w_6.webp"
         }
       ]
     },
@@ -193,37 +193,37 @@ export const satensisalCollection: Category = {
           "id": "ss001b-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss001b/ss001b_1.jpg"
+          "imagePath": "/images/products/saten-sisal/ss001b/ss001b_1.webp"
         },
         {
           "id": "ss001b-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss001b/ss001b_2.jpg"
+          "imagePath": "/images/products/saten-sisal/ss001b/ss001b_2.webp"
         },
         {
           "id": "ss001b-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss001b/ss001b_3.jpg"
+          "imagePath": "/images/products/saten-sisal/ss001b/ss001b_3.webp"
         },
         {
           "id": "ss001b-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss001b/ss001b_4.jpg"
+          "imagePath": "/images/products/saten-sisal/ss001b/ss001b_4.webp"
         },
         {
           "id": "ss001b-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss001b/ss001b_5.jpg"
+          "imagePath": "/images/products/saten-sisal/ss001b/ss001b_5.webp"
         },
         {
           "id": "ss001b-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/saten-sisal/ss001b/ss001b_6.jpg"
+          "imagePath": "/images/products/saten-sisal/ss001b/ss001b_6.webp"
         }
       ]
     }

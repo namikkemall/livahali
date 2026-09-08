@@ -20,37 +20,37 @@ export const lookblackCollection: Category = {
         "id": "look-black-lb001w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb001w/look-black-lb001w_1.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb001w/look-black-lb001w_1.webp"
       },
       {
         "id": "look-black-lb001w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb001w/look-black-lb001w_2.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb001w/look-black-lb001w_2.webp"
       },
       {
         "id": "look-black-lb001w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb001w/look-black-lb001w_3.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb001w/look-black-lb001w_3.webp"
       },
       {
         "id": "look-black-lb001w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb001w/look-black-lb001w_4.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb001w/look-black-lb001w_4.webp"
       },
       {
         "id": "look-black-lb001w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb001w/look-black-lb001w_5.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb001w/look-black-lb001w_5.webp"
       },
       {
         "id": "look-black-lb001w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb001w/look-black-lb001w_6.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb001w/look-black-lb001w_6.webp"
       }
     ]
   },
@@ -67,37 +67,37 @@ export const lookblackCollection: Category = {
         "id": "look-black-lb003w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb003w/look-black-lb003w_1.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb003w/look-black-lb003w_1.webp"
       },
       {
         "id": "look-black-lb003w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb003w/look-black-lb003w_2.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb003w/look-black-lb003w_2.webp"
       },
       {
         "id": "look-black-lb003w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb003w/look-black-lb003w_3.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb003w/look-black-lb003w_3.webp"
       },
       {
         "id": "look-black-lb003w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb003w/look-black-lb003w_4.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb003w/look-black-lb003w_4.webp"
       },
       {
         "id": "look-black-lb003w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb003w/look-black-lb003w_5.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb003w/look-black-lb003w_5.webp"
       },
       {
         "id": "look-black-lb003w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb003w/look-black-lb003w_6.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb003w/look-black-lb003w_6.webp"
       }
     ]
   },
@@ -114,37 +114,37 @@ export const lookblackCollection: Category = {
         "id": "look-black-lb004w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb004w/look-black-lb004w_1.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb004w/look-black-lb004w_1.webp"
       },
       {
         "id": "look-black-lb004w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb004w/look-black-lb004w_2.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb004w/look-black-lb004w_2.webp"
       },
       {
         "id": "look-black-lb004w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb004w/look-black-lb004w_3.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb004w/look-black-lb004w_3.webp"
       },
       {
         "id": "look-black-lb004w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb004w/look-black-lb004w_4.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb004w/look-black-lb004w_4.webp"
       },
       {
         "id": "look-black-lb004w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb004w/look-black-lb004w_5.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb004w/look-black-lb004w_5.webp"
       },
       {
         "id": "look-black-lb004w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb004w/look-black-lb004w_6.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb004w/look-black-lb004w_6.webp"
       }
     ]
   },
@@ -161,37 +161,37 @@ export const lookblackCollection: Category = {
         "id": "look-black-lb005w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb005w/look-black-lb005w_1.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb005w/look-black-lb005w_1.webp"
       },
       {
         "id": "look-black-lb005w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb005w/look-black-lb005w_2.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb005w/look-black-lb005w_2.webp"
       },
       {
         "id": "look-black-lb005w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb005w/look-black-lb005w_3.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb005w/look-black-lb005w_3.webp"
       },
       {
         "id": "look-black-lb005w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb005w/look-black-lb005w_4.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb005w/look-black-lb005w_4.webp"
       },
       {
         "id": "look-black-lb005w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb005w/look-black-lb005w_5.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb005w/look-black-lb005w_5.webp"
       },
       {
         "id": "look-black-lb005w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb005w/look-black-lb005w_6.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb005w/look-black-lb005w_6.webp"
       }
     ]
   },
@@ -208,37 +208,37 @@ export const lookblackCollection: Category = {
         "id": "look-black-lb006w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb006w/look-black-lb006w_1.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb006w/look-black-lb006w_1.webp"
       },
       {
         "id": "look-black-lb006w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb006w/look-black-lb006w_2.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb006w/look-black-lb006w_2.webp"
       },
       {
         "id": "look-black-lb006w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb006w/look-black-lb006w_3.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb006w/look-black-lb006w_3.webp"
       },
       {
         "id": "look-black-lb006w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb006w/look-black-lb006w_4.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb006w/look-black-lb006w_4.webp"
       },
       {
         "id": "look-black-lb006w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb006w/look-black-lb006w_5.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb006w/look-black-lb006w_5.webp"
       },
       {
         "id": "look-black-lb006w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb006w/look-black-lb006w_6.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb006w/look-black-lb006w_6.webp"
       }
     ]
   },
@@ -255,37 +255,37 @@ export const lookblackCollection: Category = {
         "id": "look-black-lb008g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb008g/look-black-lb008g_1.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb008g/look-black-lb008g_1.webp"
       },
       {
         "id": "look-black-lb008g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb008g/look-black-lb008g_2.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb008g/look-black-lb008g_2.webp"
       },
       {
         "id": "look-black-lb008g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb008g/look-black-lb008g_3.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb008g/look-black-lb008g_3.webp"
       },
       {
         "id": "look-black-lb008g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb008g/look-black-lb008g_4.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb008g/look-black-lb008g_4.webp"
       },
       {
         "id": "look-black-lb008g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb008g/look-black-lb008g_5.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb008g/look-black-lb008g_5.webp"
       },
       {
         "id": "look-black-lb008g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb008g/look-black-lb008g_6.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb008g/look-black-lb008g_6.webp"
       }
     ]
   },
@@ -302,37 +302,37 @@ export const lookblackCollection: Category = {
         "id": "look-black-lb009g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb009g/look-black-lb009g_1.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb009g/look-black-lb009g_1.webp"
       },
       {
         "id": "look-black-lb009g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb009g/look-black-lb009g_2.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb009g/look-black-lb009g_2.webp"
       },
       {
         "id": "look-black-lb009g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb009g/look-black-lb009g_3.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb009g/look-black-lb009g_3.webp"
       },
       {
         "id": "look-black-lb009g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb009g/look-black-lb009g_4.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb009g/look-black-lb009g_4.webp"
       },
       {
         "id": "look-black-lb009g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb009g/look-black-lb009g_5.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb009g/look-black-lb009g_5.webp"
       },
       {
         "id": "look-black-lb009g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb009g/look-black-lb009g_6.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb009g/look-black-lb009g_6.webp"
       }
     ]
   },
@@ -349,37 +349,37 @@ export const lookblackCollection: Category = {
         "id": "look-black-lb002g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb002g/look-black-lb002g_1.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb002g/look-black-lb002g_1.webp"
       },
       {
         "id": "look-black-lb002g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb002g/look-black-lb002g_2.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb002g/look-black-lb002g_2.webp"
       },
       {
         "id": "look-black-lb002g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb002g/look-black-lb002g_3.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb002g/look-black-lb002g_3.webp"
       },
       {
         "id": "look-black-lb002g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb002g/look-black-lb002g_4.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb002g/look-black-lb002g_4.webp"
       },
       {
         "id": "look-black-lb002g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb002g/look-black-lb002g_5.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb002g/look-black-lb002g_5.webp"
       },
       {
         "id": "look-black-lb002g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb002g/look-black-lb002g_6.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb002g/look-black-lb002g_6.webp"
       }
     ]
   },
@@ -396,37 +396,37 @@ export const lookblackCollection: Category = {
         "id": "look-black-lb007g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb007g/look-black-lb007g_1.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb007g/look-black-lb007g_1.webp"
       },
       {
         "id": "look-black-lb007g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb007g/look-black-lb007g_2.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb007g/look-black-lb007g_2.webp"
       },
       {
         "id": "look-black-lb007g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb007g/look-black-lb007g_3.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb007g/look-black-lb007g_3.webp"
       },
       {
         "id": "look-black-lb007g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb007g/look-black-lb007g_4.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb007g/look-black-lb007g_4.webp"
       },
       {
         "id": "look-black-lb007g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb007g/look-black-lb007g_5.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb007g/look-black-lb007g_5.webp"
       },
       {
         "id": "look-black-lb007g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb007g/look-black-lb007g_6.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb007g/look-black-lb007g_6.webp"
       }
     ]
   },
@@ -443,37 +443,37 @@ export const lookblackCollection: Category = {
         "id": "look-black-lb005z-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb005z/look-black-lb005z_1.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb005z/look-black-lb005z_1.webp"
       },
       {
         "id": "look-black-lb005z-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb005z/look-black-lb005z_2.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb005z/look-black-lb005z_2.webp"
       },
       {
         "id": "look-black-lb005z-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb005z/look-black-lb005z_3.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb005z/look-black-lb005z_3.webp"
       },
       {
         "id": "look-black-lb005z-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb005z/look-black-lb005z_4.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb005z/look-black-lb005z_4.webp"
       },
       {
         "id": "look-black-lb005z-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb005z/look-black-lb005z_5.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb005z/look-black-lb005z_5.webp"
       },
       {
         "id": "look-black-lb005z-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-black/look-black-lb005z/look-black-lb005z_6.jpg"
+        "imagePath": "/images/products/look-black/look-black-lb005z/look-black-lb005z_6.webp"
       }
     ]
   }

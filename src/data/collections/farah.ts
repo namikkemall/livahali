@@ -17,31 +17,31 @@ export const farahCollection: Category = {
         "id": "fr001a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr001a/fr001a_1.jpg"
+        "imagePath": "/images/products/farah/fr001a/fr001a_1.webp"
       },
       {
         "id": "fr001a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr001a/fr001a_2.jpg"
+        "imagePath": "/images/products/farah/fr001a/fr001a_2.webp"
       },
       {
         "id": "fr001a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr001a/fr001a_3.jpg"
+        "imagePath": "/images/products/farah/fr001a/fr001a_3.webp"
       },
       {
         "id": "fr001a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr001a/fr001a_4.jpg"
+        "imagePath": "/images/products/farah/fr001a/fr001a_4.webp"
       },
       {
         "id": "fr001a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr001a/fr001a_5.jpg"
+        "imagePath": "/images/products/farah/fr001a/fr001a_5.webp"
       }
     ]
   },
@@ -55,31 +55,31 @@ export const farahCollection: Category = {
         "id": "fr002a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr002a/fr002a_1.jpg"
+        "imagePath": "/images/products/farah/fr002a/fr002a_1.webp"
       },
       {
         "id": "fr002a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr002a/fr002a_2.jpg"
+        "imagePath": "/images/products/farah/fr002a/fr002a_2.webp"
       },
       {
         "id": "fr002a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr002a/fr002a_3.jpg"
+        "imagePath": "/images/products/farah/fr002a/fr002a_3.webp"
       },
       {
         "id": "fr002a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr002a/fr002a_4.jpg"
+        "imagePath": "/images/products/farah/fr002a/fr002a_4.webp"
       },
       {
         "id": "fr002a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr002a/fr002a_5.jpg"
+        "imagePath": "/images/products/farah/fr002a/fr002a_5.webp"
       }
     ]
   },
@@ -93,31 +93,31 @@ export const farahCollection: Category = {
         "id": "fr003a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr003a/fr003a_1.jpg"
+        "imagePath": "/images/products/farah/fr003a/fr003a_1.webp"
       },
       {
         "id": "fr003a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr003a/fr003a_2.jpg"
+        "imagePath": "/images/products/farah/fr003a/fr003a_2.webp"
       },
       {
         "id": "fr003a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr003a/fr003a_3.jpg"
+        "imagePath": "/images/products/farah/fr003a/fr003a_3.webp"
       },
       {
         "id": "fr003a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr003a/fr003a_4.jpg"
+        "imagePath": "/images/products/farah/fr003a/fr003a_4.webp"
       },
       {
         "id": "fr003a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr003a/fr003a_5.jpg"
+        "imagePath": "/images/products/farah/fr003a/fr003a_5.webp"
       }
     ]
   },
@@ -131,31 +131,31 @@ export const farahCollection: Category = {
         "id": "fr004a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr004a/fr004a_1.jpg"
+        "imagePath": "/images/products/farah/fr004a/fr004a_1.webp"
       },
       {
         "id": "fr004a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr004a/fr004a_2.jpg"
+        "imagePath": "/images/products/farah/fr004a/fr004a_2.webp"
       },
       {
         "id": "fr004a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr004a/fr004a_3.jpg"
+        "imagePath": "/images/products/farah/fr004a/fr004a_3.webp"
       },
       {
         "id": "fr004a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr004a/fr004a_4.jpg"
+        "imagePath": "/images/products/farah/fr004a/fr004a_4.webp"
       },
       {
         "id": "fr004a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr004a/fr004a_5.jpg"
+        "imagePath": "/images/products/farah/fr004a/fr004a_5.webp"
       }
     ]
   },
@@ -169,31 +169,31 @@ export const farahCollection: Category = {
         "id": "fr005a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr005a/fr005a_1.jpg"
+        "imagePath": "/images/products/farah/fr005a/fr005a_1.webp"
       },
       {
         "id": "fr005a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr005a/fr005a_2.jpg"
+        "imagePath": "/images/products/farah/fr005a/fr005a_2.webp"
       },
       {
         "id": "fr005a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr005a/fr005a_3.jpg"
+        "imagePath": "/images/products/farah/fr005a/fr005a_3.webp"
       },
       {
         "id": "fr005a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr005a/fr005a_4.jpg"
+        "imagePath": "/images/products/farah/fr005a/fr005a_4.webp"
       },
       {
         "id": "fr005a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr005a/fr005a_5.jpg"
+        "imagePath": "/images/products/farah/fr005a/fr005a_5.webp"
       }
     ]
   },
@@ -207,31 +207,31 @@ export const farahCollection: Category = {
         "id": "fr006a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr006a/fr006a_1.jpg"
+        "imagePath": "/images/products/farah/fr006a/fr006a_1.webp"
       },
       {
         "id": "fr006a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr006a/fr006a_2.jpg"
+        "imagePath": "/images/products/farah/fr006a/fr006a_2.webp"
       },
       {
         "id": "fr006a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr006a/fr006a_3.jpg"
+        "imagePath": "/images/products/farah/fr006a/fr006a_3.webp"
       },
       {
         "id": "fr006a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr006a/fr006a_4.jpg"
+        "imagePath": "/images/products/farah/fr006a/fr006a_4.webp"
       },
       {
         "id": "fr006a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr006a/fr006a_5.jpg"
+        "imagePath": "/images/products/farah/fr006a/fr006a_5.webp"
       }
     ]
   },
@@ -245,31 +245,31 @@ export const farahCollection: Category = {
         "id": "fr007a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr007a/fr007a_1.jpg"
+        "imagePath": "/images/products/farah/fr007a/fr007a_1.webp"
       },
       {
         "id": "fr007a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr007a/fr007a_2.jpg"
+        "imagePath": "/images/products/farah/fr007a/fr007a_2.webp"
       },
       {
         "id": "fr007a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr007a/fr007a_3.jpg"
+        "imagePath": "/images/products/farah/fr007a/fr007a_3.webp"
       },
       {
         "id": "fr007a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr007a/fr007a_4.jpg"
+        "imagePath": "/images/products/farah/fr007a/fr007a_4.webp"
       },
       {
         "id": "fr007a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/farah/fr007a/fr007a_5.jpg"
+        "imagePath": "/images/products/farah/fr007a/fr007a_5.webp"
       }
     ]
   }

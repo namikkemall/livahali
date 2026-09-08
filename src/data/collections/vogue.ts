@@ -20,37 +20,37 @@ export const vogueCollection: Category = {
         "id": "voguevg009a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg009a/voguevg009a_1.jpg"
+        "imagePath": "/images/products/vogue/voguevg009a/voguevg009a_1.webp"
       },
       {
         "id": "voguevg009a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg009a/voguevg009a_2.jpg"
+        "imagePath": "/images/products/vogue/voguevg009a/voguevg009a_2.webp"
       },
       {
         "id": "voguevg009a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg009a/voguevg009a_3.jpg"
+        "imagePath": "/images/products/vogue/voguevg009a/voguevg009a_3.webp"
       },
       {
         "id": "voguevg009a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg009a/voguevg009a_4.jpg"
+        "imagePath": "/images/products/vogue/voguevg009a/voguevg009a_4.webp"
       },
       {
         "id": "voguevg009a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg009a/voguevg009a_5.jpg"
+        "imagePath": "/images/products/vogue/voguevg009a/voguevg009a_5.webp"
       },
       {
         "id": "voguevg009a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg009a/voguevg009a_6.jpg"
+        "imagePath": "/images/products/vogue/voguevg009a/voguevg009a_6.webp"
       }
     ]
   },
@@ -67,37 +67,37 @@ export const vogueCollection: Category = {
         "id": "voguevg001b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg001b/voguevg001b_1.jpg"
+        "imagePath": "/images/products/vogue/voguevg001b/voguevg001b_1.webp"
       },
       {
         "id": "voguevg001b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg001b/voguevg001b_2.jpg"
+        "imagePath": "/images/products/vogue/voguevg001b/voguevg001b_2.webp"
       },
       {
         "id": "voguevg001b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg001b/voguevg001b_3.jpg"
+        "imagePath": "/images/products/vogue/voguevg001b/voguevg001b_3.webp"
       },
       {
         "id": "voguevg001b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg001b/voguevg001b_4.jpg"
+        "imagePath": "/images/products/vogue/voguevg001b/voguevg001b_4.webp"
       },
       {
         "id": "voguevg001b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg001b/voguevg001b_5.jpg"
+        "imagePath": "/images/products/vogue/voguevg001b/voguevg001b_5.webp"
       },
       {
         "id": "voguevg001b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg001b/voguevg001b_6.jpg"
+        "imagePath": "/images/products/vogue/voguevg001b/voguevg001b_6.webp"
       }
     ]
   },
@@ -114,37 +114,37 @@ export const vogueCollection: Category = {
         "id": "voguevg002k-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg002k/voguevg002k_1.jpg"
+        "imagePath": "/images/products/vogue/voguevg002k/voguevg002k_1.webp"
       },
       {
         "id": "voguevg002k-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg002k/voguevg002k_2.jpg"
+        "imagePath": "/images/products/vogue/voguevg002k/voguevg002k_2.webp"
       },
       {
         "id": "voguevg002k-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg002k/voguevg002k_3.jpg"
+        "imagePath": "/images/products/vogue/voguevg002k/voguevg002k_3.webp"
       },
       {
         "id": "voguevg002k-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg002k/voguevg002k_4.jpg"
+        "imagePath": "/images/products/vogue/voguevg002k/voguevg002k_4.webp"
       },
       {
         "id": "voguevg002k-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg002k/voguevg002k_5.jpg"
+        "imagePath": "/images/products/vogue/voguevg002k/voguevg002k_5.webp"
       },
       {
         "id": "voguevg002k-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg002k/voguevg002k_6.jpg"
+        "imagePath": "/images/products/vogue/voguevg002k/voguevg002k_6.webp"
       }
     ]
   },
@@ -161,37 +161,37 @@ export const vogueCollection: Category = {
         "id": "voguevg003a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg003a/voguevg003a_1.jpg"
+        "imagePath": "/images/products/vogue/voguevg003a/voguevg003a_1.webp"
       },
       {
         "id": "voguevg003a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg003a/voguevg003a_2.jpg"
+        "imagePath": "/images/products/vogue/voguevg003a/voguevg003a_2.webp"
       },
       {
         "id": "voguevg003a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg003a/voguevg003a_3.jpg"
+        "imagePath": "/images/products/vogue/voguevg003a/voguevg003a_3.webp"
       },
       {
         "id": "voguevg003a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg003a/voguevg003a_4.jpg"
+        "imagePath": "/images/products/vogue/voguevg003a/voguevg003a_4.webp"
       },
       {
         "id": "voguevg003a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg003a/voguevg003a_5.jpg"
+        "imagePath": "/images/products/vogue/voguevg003a/voguevg003a_5.webp"
       },
       {
         "id": "voguevg003a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg003a/voguevg003a_6.jpg"
+        "imagePath": "/images/products/vogue/voguevg003a/voguevg003a_6.webp"
       }
     ]
   },
@@ -208,37 +208,37 @@ export const vogueCollection: Category = {
         "id": "voguevg004b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg004b/voguevg004b_1.jpg"
+        "imagePath": "/images/products/vogue/voguevg004b/voguevg004b_1.webp"
       },
       {
         "id": "voguevg004b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg004b/voguevg004b_2.jpg"
+        "imagePath": "/images/products/vogue/voguevg004b/voguevg004b_2.webp"
       },
       {
         "id": "voguevg004b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg004b/voguevg004b_3.jpg"
+        "imagePath": "/images/products/vogue/voguevg004b/voguevg004b_3.webp"
       },
       {
         "id": "voguevg004b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg004b/voguevg004b_4.jpg"
+        "imagePath": "/images/products/vogue/voguevg004b/voguevg004b_4.webp"
       },
       {
         "id": "voguevg004b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg004b/voguevg004b_5.jpg"
+        "imagePath": "/images/products/vogue/voguevg004b/voguevg004b_5.webp"
       },
       {
         "id": "voguevg004b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg004b/voguevg004b_6.jpg"
+        "imagePath": "/images/products/vogue/voguevg004b/voguevg004b_6.webp"
       }
     ]
   },
@@ -255,37 +255,37 @@ export const vogueCollection: Category = {
         "id": "voguevg005z-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg005z/voguevg005z_1.jpg"
+        "imagePath": "/images/products/vogue/voguevg005z/voguevg005z_1.webp"
       },
       {
         "id": "voguevg005z-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg005z/voguevg005z_2.jpg"
+        "imagePath": "/images/products/vogue/voguevg005z/voguevg005z_2.webp"
       },
       {
         "id": "voguevg005z-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg005z/voguevg005z_3.jpg"
+        "imagePath": "/images/products/vogue/voguevg005z/voguevg005z_3.webp"
       },
       {
         "id": "voguevg005z-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg005z/voguevg005z_4.jpg"
+        "imagePath": "/images/products/vogue/voguevg005z/voguevg005z_4.webp"
       },
       {
         "id": "voguevg005z-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg005z/voguevg005z_5.jpg"
+        "imagePath": "/images/products/vogue/voguevg005z/voguevg005z_5.webp"
       },
       {
         "id": "voguevg005z-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg005z/voguevg005z_6.jpg"
+        "imagePath": "/images/products/vogue/voguevg005z/voguevg005z_6.webp"
       }
     ]
   },
@@ -302,37 +302,37 @@ export const vogueCollection: Category = {
         "id": "voguevg007z-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg007z/voguevg007z_1.jpg"
+        "imagePath": "/images/products/vogue/voguevg007z/voguevg007z_1.webp"
       },
       {
         "id": "voguevg007z-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg007z/voguevg007z_2.jpg"
+        "imagePath": "/images/products/vogue/voguevg007z/voguevg007z_2.webp"
       },
       {
         "id": "voguevg007z-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg007z/voguevg007z_3.jpg"
+        "imagePath": "/images/products/vogue/voguevg007z/voguevg007z_3.webp"
       },
       {
         "id": "voguevg007z-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg007z/voguevg007z_4.jpg"
+        "imagePath": "/images/products/vogue/voguevg007z/voguevg007z_4.webp"
       },
       {
         "id": "voguevg007z-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg007z/voguevg007z_5.jpg"
+        "imagePath": "/images/products/vogue/voguevg007z/voguevg007z_5.webp"
       },
       {
         "id": "voguevg007z-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg007z/voguevg007z_6.jpg"
+        "imagePath": "/images/products/vogue/voguevg007z/voguevg007z_6.webp"
       }
     ]
   },
@@ -349,37 +349,37 @@ export const vogueCollection: Category = {
         "id": "voguevg008k-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg008k/voguevg008k_1.jpg"
+        "imagePath": "/images/products/vogue/voguevg008k/voguevg008k_1.webp"
       },
       {
         "id": "voguevg008k-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg008k/voguevg008k_2.jpg"
+        "imagePath": "/images/products/vogue/voguevg008k/voguevg008k_2.webp"
       },
       {
         "id": "voguevg008k-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg008k/voguevg008k_3.jpg"
+        "imagePath": "/images/products/vogue/voguevg008k/voguevg008k_3.webp"
       },
       {
         "id": "voguevg008k-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg008k/voguevg008k_4.jpg"
+        "imagePath": "/images/products/vogue/voguevg008k/voguevg008k_4.webp"
       },
       {
         "id": "voguevg008k-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg008k/voguevg008k_5.jpg"
+        "imagePath": "/images/products/vogue/voguevg008k/voguevg008k_5.webp"
       },
       {
         "id": "voguevg008k-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg008k/voguevg008k_6.jpg"
+        "imagePath": "/images/products/vogue/voguevg008k/voguevg008k_6.webp"
       }
     ]
   },
@@ -396,37 +396,37 @@ export const vogueCollection: Category = {
         "id": "voguevg008z-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg008z/voguevg008z_1.jpg"
+        "imagePath": "/images/products/vogue/voguevg008z/voguevg008z_1.webp"
       },
       {
         "id": "voguevg008z-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg008z/voguevg008z_2.jpg"
+        "imagePath": "/images/products/vogue/voguevg008z/voguevg008z_2.webp"
       },
       {
         "id": "voguevg008z-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg008z/voguevg008z_3.jpg"
+        "imagePath": "/images/products/vogue/voguevg008z/voguevg008z_3.webp"
       },
       {
         "id": "voguevg008z-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg008z/voguevg008z_4.jpg"
+        "imagePath": "/images/products/vogue/voguevg008z/voguevg008z_4.webp"
       },
       {
         "id": "voguevg008z-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg008z/voguevg008z_5.jpg"
+        "imagePath": "/images/products/vogue/voguevg008z/voguevg008z_5.webp"
       },
       {
         "id": "voguevg008z-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/vogue/voguevg008z/voguevg008z_6.jpg"
+        "imagePath": "/images/products/vogue/voguevg008z/voguevg008z_6.webp"
       }
     ]
   }

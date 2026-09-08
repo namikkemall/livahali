@@ -19,37 +19,37 @@ export const viskonaCollection: Category = {
         "id": "viskona-vk001b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk001b/viskona-vk001b_1.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk001b/viskona-vk001b_1.webp"
       },
       {
         "id": "viskona-vk001b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk001b/viskona-vk001b_2.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk001b/viskona-vk001b_2.webp"
       },
       {
         "id": "viskona-vk001b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk001b/viskona-vk001b_3.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk001b/viskona-vk001b_3.webp"
       },
       {
         "id": "viskona-vk001b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk001b/viskona-vk001b_4.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk001b/viskona-vk001b_4.webp"
       },
       {
         "id": "viskona-vk001b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk001b/viskona-vk001b_5.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk001b/viskona-vk001b_5.webp"
       },
       {
         "id": "viskona-vk001b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk001b/viskona-vk001b_6.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk001b/viskona-vk001b_6.webp"
       }
     ]
   },
@@ -66,37 +66,37 @@ export const viskonaCollection: Category = {
         "id": "viskona-vk001g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk001g/viskona-vk001g_1.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk001g/viskona-vk001g_1.webp"
       },
       {
         "id": "viskona-vk001g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk001g/viskona-vk001g_2.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk001g/viskona-vk001g_2.webp"
       },
       {
         "id": "viskona-vk001g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk001g/viskona-vk001g_3.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk001g/viskona-vk001g_3.webp"
       },
       {
         "id": "viskona-vk001g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk001g/viskona-vk001g_4.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk001g/viskona-vk001g_4.webp"
       },
       {
         "id": "viskona-vk001g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk001g/viskona-vk001g_5.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk001g/viskona-vk001g_5.webp"
       },
       {
         "id": "viskona-vk001g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk001g/viskona-vk001g_6.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk001g/viskona-vk001g_6.webp"
       }
     ]
   },
@@ -113,37 +113,37 @@ export const viskonaCollection: Category = {
         "id": "viskona-vk002b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002b/viskona-vk002b_1.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002b/viskona-vk002b_1.webp"
       },
       {
         "id": "viskona-vk002b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002b/viskona-vk002b_2.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002b/viskona-vk002b_2.webp"
       },
       {
         "id": "viskona-vk002b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002b/viskona-vk002b_3.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002b/viskona-vk002b_3.webp"
       },
       {
         "id": "viskona-vk002b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002b/viskona-vk002b_4.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002b/viskona-vk002b_4.webp"
       },
       {
         "id": "viskona-vk002b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002b/viskona-vk002b_5.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002b/viskona-vk002b_5.webp"
       },
       {
         "id": "viskona-vk002b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002b/viskona-vk002b_6.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002b/viskona-vk002b_6.webp"
       }
     ]
   },
@@ -160,37 +160,37 @@ export const viskonaCollection: Category = {
         "id": "viskona-vk002g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002g/viskona-vk002g_1.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002g/viskona-vk002g_1.webp"
       },
       {
         "id": "viskona-vk002g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002g/viskona-vk002g_2.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002g/viskona-vk002g_2.webp"
       },
       {
         "id": "viskona-vk002g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002g/viskona-vk002g_3.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002g/viskona-vk002g_3.webp"
       },
       {
         "id": "viskona-vk002g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002g/viskona-vk002g_4.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002g/viskona-vk002g_4.webp"
       },
       {
         "id": "viskona-vk002g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002g/viskona-vk002g_5.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002g/viskona-vk002g_5.webp"
       },
       {
         "id": "viskona-vk002g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002g/viskona-vk002g_6.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002g/viskona-vk002g_6.webp"
       }
     ]
   },
@@ -207,37 +207,37 @@ export const viskonaCollection: Category = {
         "id": "viskona-vk003g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk003g/viskona-vk003g_1.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk003g/viskona-vk003g_1.webp"
       },
       {
         "id": "viskona-vk003g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk003g/viskona-vk003g_2.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk003g/viskona-vk003g_2.webp"
       },
       {
         "id": "viskona-vk003g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk003g/viskona-vk003g_3.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk003g/viskona-vk003g_3.webp"
       },
       {
         "id": "viskona-vk003g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk003g/viskona-vk003g_4.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk003g/viskona-vk003g_4.webp"
       },
       {
         "id": "viskona-vk003g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk003g/viskona-vk003g_5.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk003g/viskona-vk003g_5.webp"
       },
       {
         "id": "viskona-vk003g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk003g/viskona-vk003g_6.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk003g/viskona-vk003g_6.webp"
       }
     ]
   },
@@ -254,37 +254,37 @@ export const viskonaCollection: Category = {
         "id": "viskona-vk002s-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002s/viskona-vk002s_1.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002s/viskona-vk002s_1.webp"
       },
       {
         "id": "viskona-vk002s-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002s/viskona-vk002s_2.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002s/viskona-vk002s_2.webp"
       },
       {
         "id": "viskona-vk002s-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002s/viskona-vk002s_3.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002s/viskona-vk002s_3.webp"
       },
       {
         "id": "viskona-vk002s-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002s/viskona-vk002s_4.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002s/viskona-vk002s_4.webp"
       },
       {
         "id": "viskona-vk002s-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002s/viskona-vk002s_5.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002s/viskona-vk002s_5.webp"
       },
       {
         "id": "viskona-vk002s-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/viskona/viskona-vk002s/viskona-vk002s_6.jpg"
+        "imagePath": "/images/products/viskona/viskona-vk002s/viskona-vk002s_6.webp"
       }
     ]
   }

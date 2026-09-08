@@ -17,31 +17,31 @@ export const ottowaCollection: Category = {
         "id": "ot001b-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot001b/ot001b_1.jpg"
+        "imagePath": "/images/products/ottowa/ot001b/ot001b_1.webp"
       },
       {
         "id": "ot001b-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot001b/ot001b_2.jpg"
+        "imagePath": "/images/products/ottowa/ot001b/ot001b_2.webp"
       },
       {
         "id": "ot001b-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot001b/ot001b_3.jpg"
+        "imagePath": "/images/products/ottowa/ot001b/ot001b_3.webp"
       },
       {
         "id": "ot001b-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot001b/ot001b_4.jpg"
+        "imagePath": "/images/products/ottowa/ot001b/ot001b_4.webp"
       },
       {
         "id": "ot001b-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot001b/ot001b_5.jpg"
+        "imagePath": "/images/products/ottowa/ot001b/ot001b_5.webp"
       }
     ]
   },
@@ -55,31 +55,31 @@ export const ottowaCollection: Category = {
         "id": "ot001g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot001g/ot001g_1.jpg"
+        "imagePath": "/images/products/ottowa/ot001g/ot001g_1.webp"
       },
       {
         "id": "ot001g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot001g/ot001g_2.jpg"
+        "imagePath": "/images/products/ottowa/ot001g/ot001g_2.webp"
       },
       {
         "id": "ot001g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot001g/ot001g_3.jpg"
+        "imagePath": "/images/products/ottowa/ot001g/ot001g_3.webp"
       },
       {
         "id": "ot001g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot001g/ot001g_4.jpg"
+        "imagePath": "/images/products/ottowa/ot001g/ot001g_4.webp"
       },
       {
         "id": "ot001g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot001g/ot001g_5.jpg"
+        "imagePath": "/images/products/ottowa/ot001g/ot001g_5.webp"
       }
     ]
   },
@@ -93,31 +93,31 @@ export const ottowaCollection: Category = {
         "id": "ot002g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot002g/ot002g_1.jpg"
+        "imagePath": "/images/products/ottowa/ot002g/ot002g_1.webp"
       },
       {
         "id": "ot002g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot002g/ot002g_2.jpg"
+        "imagePath": "/images/products/ottowa/ot002g/ot002g_2.webp"
       },
       {
         "id": "ot002g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot002g/ot002g_3.jpg"
+        "imagePath": "/images/products/ottowa/ot002g/ot002g_3.webp"
       },
       {
         "id": "ot002g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot002g/ot002g_4.jpg"
+        "imagePath": "/images/products/ottowa/ot002g/ot002g_4.webp"
       },
       {
         "id": "ot002g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot002g/ot002g_5.jpg"
+        "imagePath": "/images/products/ottowa/ot002g/ot002g_5.webp"
       }
     ]
   },
@@ -131,31 +131,31 @@ export const ottowaCollection: Category = {
         "id": "ot003a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot003a/ot003a_1.jpg"
+        "imagePath": "/images/products/ottowa/ot003a/ot003a_1.webp"
       },
       {
         "id": "ot003a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot003a/ot003a_2.jpg"
+        "imagePath": "/images/products/ottowa/ot003a/ot003a_2.webp"
       },
       {
         "id": "ot003a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot003a/ot003a_3.jpg"
+        "imagePath": "/images/products/ottowa/ot003a/ot003a_3.webp"
       },
       {
         "id": "ot003a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot003a/ot003a_4.jpg"
+        "imagePath": "/images/products/ottowa/ot003a/ot003a_4.webp"
       },
       {
         "id": "ot003a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot003a/ot003a_5.jpg"
+        "imagePath": "/images/products/ottowa/ot003a/ot003a_5.webp"
       }
     ]
   },
@@ -169,31 +169,31 @@ export const ottowaCollection: Category = {
         "id": "ot005a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot005a/ot005a_1.jpg"
+        "imagePath": "/images/products/ottowa/ot005a/ot005a_1.webp"
       },
       {
         "id": "ot005a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot005a/ot005a_2.jpg"
+        "imagePath": "/images/products/ottowa/ot005a/ot005a_2.webp"
       },
       {
         "id": "ot005a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot005a/ot005a_3.jpg"
+        "imagePath": "/images/products/ottowa/ot005a/ot005a_3.webp"
       },
       {
         "id": "ot005a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot005a/ot005a_4.jpg"
+        "imagePath": "/images/products/ottowa/ot005a/ot005a_4.webp"
       },
       {
         "id": "ot005a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot005a/ot005a_5.jpg"
+        "imagePath": "/images/products/ottowa/ot005a/ot005a_5.webp"
       }
     ]
   },
@@ -207,31 +207,31 @@ export const ottowaCollection: Category = {
         "id": "ot006b-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot006b/ot006b_1.jpg"
+        "imagePath": "/images/products/ottowa/ot006b/ot006b_1.webp"
       },
       {
         "id": "ot006b-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot006b/ot006b_2.jpg"
+        "imagePath": "/images/products/ottowa/ot006b/ot006b_2.webp"
       },
       {
         "id": "ot006b-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot006b/ot006b_3.jpg"
+        "imagePath": "/images/products/ottowa/ot006b/ot006b_3.webp"
       },
       {
         "id": "ot006b-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot006b/ot006b_4.jpg"
+        "imagePath": "/images/products/ottowa/ot006b/ot006b_4.webp"
       },
       {
         "id": "ot006b-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot006b/ot006b_5.jpg"
+        "imagePath": "/images/products/ottowa/ot006b/ot006b_5.webp"
       }
     ]
   },
@@ -245,31 +245,31 @@ export const ottowaCollection: Category = {
         "id": "ot006g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot006g/ot006g_1.jpg"
+        "imagePath": "/images/products/ottowa/ot006g/ot006g_1.webp"
       },
       {
         "id": "ot006g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot006g/ot006g_2.jpg"
+        "imagePath": "/images/products/ottowa/ot006g/ot006g_2.webp"
       },
       {
         "id": "ot006g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot006g/ot006g_3.jpg"
+        "imagePath": "/images/products/ottowa/ot006g/ot006g_3.webp"
       },
       {
         "id": "ot006g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot006g/ot006g_4.jpg"
+        "imagePath": "/images/products/ottowa/ot006g/ot006g_4.webp"
       },
       {
         "id": "ot006g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot006g/ot006g_5.jpg"
+        "imagePath": "/images/products/ottowa/ot006g/ot006g_5.webp"
       }
     ]
   },
@@ -283,31 +283,31 @@ export const ottowaCollection: Category = {
         "id": "ot007g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot007g/ot007g_1.jpg"
+        "imagePath": "/images/products/ottowa/ot007g/ot007g_1.webp"
       },
       {
         "id": "ot007g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot007g/ot007g_2.jpg"
+        "imagePath": "/images/products/ottowa/ot007g/ot007g_2.webp"
       },
       {
         "id": "ot007g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot007g/ot007g_3.jpg"
+        "imagePath": "/images/products/ottowa/ot007g/ot007g_3.webp"
       },
       {
         "id": "ot007g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot007g/ot007g_4.jpg"
+        "imagePath": "/images/products/ottowa/ot007g/ot007g_4.webp"
       },
       {
         "id": "ot007g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot007g/ot007g_5.jpg"
+        "imagePath": "/images/products/ottowa/ot007g/ot007g_5.webp"
       }
     ]
   },
@@ -321,31 +321,31 @@ export const ottowaCollection: Category = {
         "id": "ot008b-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot008b/ot008b_1.jpg"
+        "imagePath": "/images/products/ottowa/ot008b/ot008b_1.webp"
       },
       {
         "id": "ot008b-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot008b/ot008b_2.jpg"
+        "imagePath": "/images/products/ottowa/ot008b/ot008b_2.webp"
       },
       {
         "id": "ot008b-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot008b/ot008b_3.jpg"
+        "imagePath": "/images/products/ottowa/ot008b/ot008b_3.webp"
       },
       {
         "id": "ot008b-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot008b/ot008b_4.jpg"
+        "imagePath": "/images/products/ottowa/ot008b/ot008b_4.webp"
       },
       {
         "id": "ot008b-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/ottowa/ot008b/ot008b_5.jpg"
+        "imagePath": "/images/products/ottowa/ot008b/ot008b_5.webp"
       }
     ]
   }

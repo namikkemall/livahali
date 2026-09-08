@@ -20,37 +20,37 @@ export const zeenCollection: Category = {
         "id": "zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.webp"
       },
       {
         "id": "zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.webp"
       },
       {
         "id": "zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.webp"
       },
       {
         "id": "zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.webp"
       },
       {
         "id": "zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.webp"
       },
       {
         "id": "zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001b-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.webp"
       }
     ]
   },
@@ -67,37 +67,37 @@ export const zeenCollection: Category = {
         "id": "zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.webp"
       },
       {
         "id": "zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.webp"
       },
       {
         "id": "zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.webp"
       },
       {
         "id": "zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.webp"
       },
       {
         "id": "zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.webp"
       },
       {
         "id": "zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001g-sisal-gri-siyah-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.webp"
       }
     ]
   },
@@ -114,37 +114,37 @@ export const zeenCollection: Category = {
         "id": "zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.webp"
       },
       {
         "id": "zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.webp"
       },
       {
         "id": "zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.webp"
       },
       {
         "id": "zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.webp"
       },
       {
         "id": "zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.webp"
       },
       {
         "id": "zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze001w-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.webp"
       }
     ]
   },
@@ -161,37 +161,37 @@ export const zeenCollection: Category = {
         "id": "zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.webp"
       },
       {
         "id": "zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.webp"
       },
       {
         "id": "zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.webp"
       },
       {
         "id": "zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.webp"
       },
       {
         "id": "zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.webp"
       },
       {
         "id": "zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002b-sisal-bej-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.webp"
       }
     ]
   },
@@ -208,37 +208,37 @@ export const zeenCollection: Category = {
         "id": "zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.webp"
       },
       {
         "id": "zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.webp"
       },
       {
         "id": "zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.webp"
       },
       {
         "id": "zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.webp"
       },
       {
         "id": "zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.webp"
       },
       {
         "id": "zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002g-sisal-gri-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.webp"
       }
     ]
   },
@@ -255,37 +255,37 @@ export const zeenCollection: Category = {
         "id": "zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.webp"
       },
       {
         "id": "zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.webp"
       },
       {
         "id": "zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.webp"
       },
       {
         "id": "zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.webp"
       },
       {
         "id": "zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.webp"
       },
       {
         "id": "zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze002w-sisal-bej-beyaz-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.webp"
       }
     ]
   },
@@ -302,37 +302,37 @@ export const zeenCollection: Category = {
         "id": "zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_1.webp"
       },
       {
         "id": "zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_2.webp"
       },
       {
         "id": "zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_3.webp"
       },
       {
         "id": "zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_4.webp"
       },
       {
         "id": "zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_5.webp"
       },
       {
         "id": "zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi/zeen-ze003r-sisal-gri-kolay-temizlenebilir-makinede-yikanabilir-mutfak-halisi_6.webp"
       }
     ]
   },
@@ -349,37 +349,37 @@ export const zeenCollection: Category = {
         "id": "zeen-ze001g-ozel-olcu-kesme-hali-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001g-ozel-olcu-kesme-hali/zeen-ze001g-ozel-olcu-kesme-hali_1.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001g-ozel-olcu-kesme-hali/zeen-ze001g-ozel-olcu-kesme-hali_1.webp"
       },
       {
         "id": "zeen-ze001g-ozel-olcu-kesme-hali-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001g-ozel-olcu-kesme-hali/zeen-ze001g-ozel-olcu-kesme-hali_2.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001g-ozel-olcu-kesme-hali/zeen-ze001g-ozel-olcu-kesme-hali_2.webp"
       },
       {
         "id": "zeen-ze001g-ozel-olcu-kesme-hali-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001g-ozel-olcu-kesme-hali/zeen-ze001g-ozel-olcu-kesme-hali_3.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001g-ozel-olcu-kesme-hali/zeen-ze001g-ozel-olcu-kesme-hali_3.webp"
       },
       {
         "id": "zeen-ze001g-ozel-olcu-kesme-hali-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001g-ozel-olcu-kesme-hali/zeen-ze001g-ozel-olcu-kesme-hali_4.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001g-ozel-olcu-kesme-hali/zeen-ze001g-ozel-olcu-kesme-hali_4.webp"
       },
       {
         "id": "zeen-ze001g-ozel-olcu-kesme-hali-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001g-ozel-olcu-kesme-hali/zeen-ze001g-ozel-olcu-kesme-hali_5.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001g-ozel-olcu-kesme-hali/zeen-ze001g-ozel-olcu-kesme-hali_5.webp"
       },
       {
         "id": "zeen-ze001g-ozel-olcu-kesme-hali-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001g-ozel-olcu-kesme-hali/zeen-ze001g-ozel-olcu-kesme-hali_6.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001g-ozel-olcu-kesme-hali/zeen-ze001g-ozel-olcu-kesme-hali_6.webp"
       }
     ]
   },
@@ -396,37 +396,37 @@ export const zeenCollection: Category = {
         "id": "zeen-ze001w-ozel-olcu-kesme-hali-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001w-ozel-olcu-kesme-hali/zeen-ze001w-ozel-olcu-kesme-hali_1.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001w-ozel-olcu-kesme-hali/zeen-ze001w-ozel-olcu-kesme-hali_1.webp"
       },
       {
         "id": "zeen-ze001w-ozel-olcu-kesme-hali-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001w-ozel-olcu-kesme-hali/zeen-ze001w-ozel-olcu-kesme-hali_2.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001w-ozel-olcu-kesme-hali/zeen-ze001w-ozel-olcu-kesme-hali_2.webp"
       },
       {
         "id": "zeen-ze001w-ozel-olcu-kesme-hali-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001w-ozel-olcu-kesme-hali/zeen-ze001w-ozel-olcu-kesme-hali_3.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001w-ozel-olcu-kesme-hali/zeen-ze001w-ozel-olcu-kesme-hali_3.webp"
       },
       {
         "id": "zeen-ze001w-ozel-olcu-kesme-hali-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001w-ozel-olcu-kesme-hali/zeen-ze001w-ozel-olcu-kesme-hali_4.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001w-ozel-olcu-kesme-hali/zeen-ze001w-ozel-olcu-kesme-hali_4.webp"
       },
       {
         "id": "zeen-ze001w-ozel-olcu-kesme-hali-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001w-ozel-olcu-kesme-hali/zeen-ze001w-ozel-olcu-kesme-hali_5.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001w-ozel-olcu-kesme-hali/zeen-ze001w-ozel-olcu-kesme-hali_5.webp"
       },
       {
         "id": "zeen-ze001w-ozel-olcu-kesme-hali-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze001w-ozel-olcu-kesme-hali/zeen-ze001w-ozel-olcu-kesme-hali_6.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze001w-ozel-olcu-kesme-hali/zeen-ze001w-ozel-olcu-kesme-hali_6.webp"
       }
     ]
   },
@@ -443,37 +443,37 @@ export const zeenCollection: Category = {
         "id": "zeen-ze002b-ozel-olcu-kesme-hali-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002b-ozel-olcu-kesme-hali/zeen-ze002b-ozel-olcu-kesme-hali_1.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002b-ozel-olcu-kesme-hali/zeen-ze002b-ozel-olcu-kesme-hali_1.webp"
       },
       {
         "id": "zeen-ze002b-ozel-olcu-kesme-hali-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002b-ozel-olcu-kesme-hali/zeen-ze002b-ozel-olcu-kesme-hali_2.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002b-ozel-olcu-kesme-hali/zeen-ze002b-ozel-olcu-kesme-hali_2.webp"
       },
       {
         "id": "zeen-ze002b-ozel-olcu-kesme-hali-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002b-ozel-olcu-kesme-hali/zeen-ze002b-ozel-olcu-kesme-hali_3.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002b-ozel-olcu-kesme-hali/zeen-ze002b-ozel-olcu-kesme-hali_3.webp"
       },
       {
         "id": "zeen-ze002b-ozel-olcu-kesme-hali-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002b-ozel-olcu-kesme-hali/zeen-ze002b-ozel-olcu-kesme-hali_4.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002b-ozel-olcu-kesme-hali/zeen-ze002b-ozel-olcu-kesme-hali_4.webp"
       },
       {
         "id": "zeen-ze002b-ozel-olcu-kesme-hali-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002b-ozel-olcu-kesme-hali/zeen-ze002b-ozel-olcu-kesme-hali_5.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002b-ozel-olcu-kesme-hali/zeen-ze002b-ozel-olcu-kesme-hali_5.webp"
       },
       {
         "id": "zeen-ze002b-ozel-olcu-kesme-hali-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002b-ozel-olcu-kesme-hali/zeen-ze002b-ozel-olcu-kesme-hali_6.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002b-ozel-olcu-kesme-hali/zeen-ze002b-ozel-olcu-kesme-hali_6.webp"
       }
     ]
   },
@@ -490,37 +490,37 @@ export const zeenCollection: Category = {
         "id": "zeen-ze002g-ozel-olcu-kesme-hali-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002g-ozel-olcu-kesme-hali/zeen-ze002g-ozel-olcu-kesme-hali_1.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002g-ozel-olcu-kesme-hali/zeen-ze002g-ozel-olcu-kesme-hali_1.webp"
       },
       {
         "id": "zeen-ze002g-ozel-olcu-kesme-hali-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002g-ozel-olcu-kesme-hali/zeen-ze002g-ozel-olcu-kesme-hali_2.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002g-ozel-olcu-kesme-hali/zeen-ze002g-ozel-olcu-kesme-hali_2.webp"
       },
       {
         "id": "zeen-ze002g-ozel-olcu-kesme-hali-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002g-ozel-olcu-kesme-hali/zeen-ze002g-ozel-olcu-kesme-hali_3.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002g-ozel-olcu-kesme-hali/zeen-ze002g-ozel-olcu-kesme-hali_3.webp"
       },
       {
         "id": "zeen-ze002g-ozel-olcu-kesme-hali-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002g-ozel-olcu-kesme-hali/zeen-ze002g-ozel-olcu-kesme-hali_4.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002g-ozel-olcu-kesme-hali/zeen-ze002g-ozel-olcu-kesme-hali_4.webp"
       },
       {
         "id": "zeen-ze002g-ozel-olcu-kesme-hali-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002g-ozel-olcu-kesme-hali/zeen-ze002g-ozel-olcu-kesme-hali_5.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002g-ozel-olcu-kesme-hali/zeen-ze002g-ozel-olcu-kesme-hali_5.webp"
       },
       {
         "id": "zeen-ze002g-ozel-olcu-kesme-hali-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze002g-ozel-olcu-kesme-hali/zeen-ze002g-ozel-olcu-kesme-hali_6.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze002g-ozel-olcu-kesme-hali/zeen-ze002g-ozel-olcu-kesme-hali_6.webp"
       }
     ]
   },
@@ -537,37 +537,37 @@ export const zeenCollection: Category = {
         "id": "zeen-ze003r-ozel-olcu-kesme-hali-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze003r-ozel-olcu-kesme-hali/zeen-ze003r-ozel-olcu-kesme-hali_1.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze003r-ozel-olcu-kesme-hali/zeen-ze003r-ozel-olcu-kesme-hali_1.webp"
       },
       {
         "id": "zeen-ze003r-ozel-olcu-kesme-hali-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze003r-ozel-olcu-kesme-hali/zeen-ze003r-ozel-olcu-kesme-hali_2.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze003r-ozel-olcu-kesme-hali/zeen-ze003r-ozel-olcu-kesme-hali_2.webp"
       },
       {
         "id": "zeen-ze003r-ozel-olcu-kesme-hali-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze003r-ozel-olcu-kesme-hali/zeen-ze003r-ozel-olcu-kesme-hali_3.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze003r-ozel-olcu-kesme-hali/zeen-ze003r-ozel-olcu-kesme-hali_3.webp"
       },
       {
         "id": "zeen-ze003r-ozel-olcu-kesme-hali-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze003r-ozel-olcu-kesme-hali/zeen-ze003r-ozel-olcu-kesme-hali_4.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze003r-ozel-olcu-kesme-hali/zeen-ze003r-ozel-olcu-kesme-hali_4.webp"
       },
       {
         "id": "zeen-ze003r-ozel-olcu-kesme-hali-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze003r-ozel-olcu-kesme-hali/zeen-ze003r-ozel-olcu-kesme-hali_5.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze003r-ozel-olcu-kesme-hali/zeen-ze003r-ozel-olcu-kesme-hali_5.webp"
       },
       {
         "id": "zeen-ze003r-ozel-olcu-kesme-hali-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/zeen/zeen-ze003r-ozel-olcu-kesme-hali/zeen-ze003r-ozel-olcu-kesme-hali_6.jpg"
+        "imagePath": "/images/products/zeen/zeen-ze003r-ozel-olcu-kesme-hali/zeen-ze003r-ozel-olcu-kesme-hali_6.webp"
       }
     ]
   }

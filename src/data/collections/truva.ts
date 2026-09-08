@@ -20,43 +20,43 @@ export const truvaCollection: Category = {
         "id": "truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_1.jpg"
+        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_1.webp"
       },
       {
         "id": "truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_2.jpg"
+        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_2.webp"
       },
       {
         "id": "truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_3.jpg"
+        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_3.webp"
       },
       {
         "id": "truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_4.jpg"
+        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_4.webp"
       },
       {
         "id": "truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_5.jpg"
+        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_5.webp"
       },
       {
         "id": "truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_6.jpg"
+        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_6.webp"
       },
       {
         "id": "truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_7.jpg"
+        "imagePath": "/images/products/truva/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval/truva-8342-oval-krem-hali-bej-detayli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-koridor-oval_7.webp"
       }
     ]
   },
@@ -73,43 +73,43 @@ export const truvaCollection: Category = {
         "id": "truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_1.jpg"
+        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_1.webp"
       },
       {
         "id": "truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_2.jpg"
+        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_2.webp"
       },
       {
         "id": "truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_3.jpg"
+        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_3.webp"
       },
       {
         "id": "truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_4.jpg"
+        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_4.webp"
       },
       {
         "id": "truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_5.jpg"
+        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_5.webp"
       },
       {
         "id": "truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_6.jpg"
+        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_6.webp"
       },
       {
         "id": "truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_7.jpg"
+        "imagePath": "/images/products/truva/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi/truva-tv001a-krem-hali-kenar-cerceveli-gobekli-kalin-akrilik-tozuaz-modern-klasik-salon-halisi_7.webp"
       }
     ]
   },
@@ -126,43 +126,43 @@ export const truvaCollection: Category = {
         "id": "truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_1.jpg"
+        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_1.webp"
       },
       {
         "id": "truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_2.jpg"
+        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_2.webp"
       },
       {
         "id": "truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_3.jpg"
+        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_3.webp"
       },
       {
         "id": "truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_4.jpg"
+        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_4.webp"
       },
       {
         "id": "truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_5.jpg"
+        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_5.webp"
       },
       {
         "id": "truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_6.jpg"
+        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_6.webp"
       },
       {
         "id": "truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_7.jpg"
+        "imagePath": "/images/products/truva/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor/truva-tv012a-bej-hali-kenar-cerceveli-kalin-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-koridor_7.webp"
       }
     ]
   },
@@ -179,43 +179,43 @@ export const truvaCollection: Category = {
         "id": "truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_1.jpg"
+        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_1.webp"
       },
       {
         "id": "truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_2.jpg"
+        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_2.webp"
       },
       {
         "id": "truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_3.jpg"
+        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_3.webp"
       },
       {
         "id": "truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_4.jpg"
+        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_4.webp"
       },
       {
         "id": "truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_5.jpg"
+        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_5.webp"
       },
       {
         "id": "truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_6.jpg"
+        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_6.webp"
       },
       {
         "id": "truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_7.jpg"
+        "imagePath": "/images/products/truva/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi/truva-tr036a-krem-rengi-hali-gri-ve-bej-detayli-akrilik-yumusak-salon-halisi_7.webp"
       }
     ]
   },
@@ -232,43 +232,43 @@ export const truvaCollection: Category = {
         "id": "truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_1.jpg"
+        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_1.webp"
       },
       {
         "id": "truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_2.jpg"
+        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_2.webp"
       },
       {
         "id": "truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_3.jpg"
+        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_3.webp"
       },
       {
         "id": "truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_4.jpg"
+        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_4.webp"
       },
       {
         "id": "truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_5.jpg"
+        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_5.webp"
       },
       {
         "id": "truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_6.jpg"
+        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_6.webp"
       },
       {
         "id": "truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_7.jpg"
+        "imagePath": "/images/products/truva/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi/truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi_7.webp"
       }
     ]
   },
@@ -285,49 +285,49 @@ export const truvaCollection: Category = {
         "id": "truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_1.jpg"
+        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_1.webp"
       },
       {
         "id": "truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_2.jpg"
+        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_2.webp"
       },
       {
         "id": "truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_3.jpg"
+        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_3.webp"
       },
       {
         "id": "truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_4.jpg"
+        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_4.webp"
       },
       {
         "id": "truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_5.jpg"
+        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_5.webp"
       },
       {
         "id": "truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_6.jpg"
+        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_6.webp"
       },
       {
         "id": "truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_7.jpg"
+        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_7.webp"
       },
       {
         "id": "truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v8",
         "colorName": "Görsel 8",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_8.jpg"
+        "imagePath": "/images/products/truva/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_8.webp"
       }
     ]
   },
@@ -344,49 +344,49 @@ export const truvaCollection: Category = {
         "id": "truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_1.jpg"
+        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_1.webp"
       },
       {
         "id": "truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_2.jpg"
+        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_2.webp"
       },
       {
         "id": "truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_3.jpg"
+        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_3.webp"
       },
       {
         "id": "truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_4.jpg"
+        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_4.webp"
       },
       {
         "id": "truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_5.jpg"
+        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_5.webp"
       },
       {
         "id": "truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_6.jpg"
+        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_6.webp"
       },
       {
         "id": "truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_7.jpg"
+        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_7.webp"
       },
       {
         "id": "truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi-v8",
         "colorName": "Görsel 8",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_8.jpg"
+        "imagePath": "/images/products/truva/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tv033a-bej-rengi-hali-vizon-bej-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi_8.webp"
       }
     ]
   },
@@ -403,49 +403,49 @@ export const truvaCollection: Category = {
         "id": "truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_1.jpg"
+        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_1.webp"
       },
       {
         "id": "truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_2.jpg"
+        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_2.webp"
       },
       {
         "id": "truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_3.jpg"
+        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_3.webp"
       },
       {
         "id": "truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_4.jpg"
+        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_4.webp"
       },
       {
         "id": "truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_5.jpg"
+        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_5.webp"
       },
       {
         "id": "truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_6.jpg"
+        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_6.webp"
       },
       {
         "id": "truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_7.jpg"
+        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_7.webp"
       },
       {
         "id": "truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi-v8",
         "colorName": "Görsel 8",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_8.jpg"
+        "imagePath": "/images/products/truva/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi/truva-tr034s-krem-hali-vizon-bej-detayli-modern-klasik-akrilik-yumusak-salon-oturma-odasi-halisi_8.webp"
       }
     ]
   },
@@ -462,31 +462,31 @@ export const truvaCollection: Category = {
         "id": "truva-tv035k-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035k/truva-tv035k_1.jpg"
+        "imagePath": "/images/products/truva/truva-tv035k/truva-tv035k_1.webp"
       },
       {
         "id": "truva-tv035k-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035k/truva-tv035k_2.jpg"
+        "imagePath": "/images/products/truva/truva-tv035k/truva-tv035k_2.webp"
       },
       {
         "id": "truva-tv035k-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035k/truva-tv035k_3.jpg"
+        "imagePath": "/images/products/truva/truva-tv035k/truva-tv035k_3.webp"
       },
       {
         "id": "truva-tv035k-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035k/truva-tv035k_4.jpg"
+        "imagePath": "/images/products/truva/truva-tv035k/truva-tv035k_4.webp"
       },
       {
         "id": "truva-tv035k-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035k/truva-tv035k_5.jpg"
+        "imagePath": "/images/products/truva/truva-tv035k/truva-tv035k_5.webp"
       }
     ]
   },
@@ -503,31 +503,31 @@ export const truvaCollection: Category = {
         "id": "truva-tv035m-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035m/truva-tv035m_1.jpg"
+        "imagePath": "/images/products/truva/truva-tv035m/truva-tv035m_1.webp"
       },
       {
         "id": "truva-tv035m-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035m/truva-tv035m_2.jpg"
+        "imagePath": "/images/products/truva/truva-tv035m/truva-tv035m_2.webp"
       },
       {
         "id": "truva-tv035m-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035m/truva-tv035m_3.jpg"
+        "imagePath": "/images/products/truva/truva-tv035m/truva-tv035m_3.webp"
       },
       {
         "id": "truva-tv035m-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035m/truva-tv035m_4.jpg"
+        "imagePath": "/images/products/truva/truva-tv035m/truva-tv035m_4.webp"
       },
       {
         "id": "truva-tv035m-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035m/truva-tv035m_5.jpg"
+        "imagePath": "/images/products/truva/truva-tv035m/truva-tv035m_5.webp"
       }
     ]
   },
@@ -544,31 +544,31 @@ export const truvaCollection: Category = {
         "id": "truva-tv035s-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035s/truva-tv035s_1.jpg"
+        "imagePath": "/images/products/truva/truva-tv035s/truva-tv035s_1.webp"
       },
       {
         "id": "truva-tv035s-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035s/truva-tv035s_2.jpg"
+        "imagePath": "/images/products/truva/truva-tv035s/truva-tv035s_2.webp"
       },
       {
         "id": "truva-tv035s-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035s/truva-tv035s_3.jpg"
+        "imagePath": "/images/products/truva/truva-tv035s/truva-tv035s_3.webp"
       },
       {
         "id": "truva-tv035s-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035s/truva-tv035s_4.jpg"
+        "imagePath": "/images/products/truva/truva-tv035s/truva-tv035s_4.webp"
       },
       {
         "id": "truva-tv035s-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tv035s/truva-tv035s_5.jpg"
+        "imagePath": "/images/products/truva/truva-tv035s/truva-tv035s_5.webp"
       }
     ]
   },
@@ -585,25 +585,25 @@ export const truvaCollection: Category = {
         "id": "truva-08342a-oval-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-08342a-oval/truva-08342a-oval_1.jpg"
+        "imagePath": "/images/products/truva/truva-08342a-oval/truva-08342a-oval_1.webp"
       },
       {
         "id": "truva-08342a-oval-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-08342a-oval/truva-08342a-oval_2.jpg"
+        "imagePath": "/images/products/truva/truva-08342a-oval/truva-08342a-oval_2.webp"
       },
       {
         "id": "truva-08342a-oval-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-08342a-oval/truva-08342a-oval_3.jpg"
+        "imagePath": "/images/products/truva/truva-08342a-oval/truva-08342a-oval_3.webp"
       },
       {
         "id": "truva-08342a-oval-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-08342a-oval/truva-08342a-oval_4.jpg"
+        "imagePath": "/images/products/truva/truva-08342a-oval/truva-08342a-oval_4.webp"
       }
     ]
   },
@@ -620,43 +620,43 @@ export const truvaCollection: Category = {
         "id": "truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_1.jpg"
+        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_1.webp"
       },
       {
         "id": "truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_2.jpg"
+        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_2.webp"
       },
       {
         "id": "truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_3.jpg"
+        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_3.webp"
       },
       {
         "id": "truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_4.jpg"
+        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_4.webp"
       },
       {
         "id": "truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_5.jpg"
+        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_5.webp"
       },
       {
         "id": "truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_6.jpg"
+        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_6.webp"
       },
       {
         "id": "truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_7.jpg"
+        "imagePath": "/images/products/truva/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi/truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi_7.webp"
       }
     ]
   },
@@ -673,25 +673,25 @@ export const truvaCollection: Category = {
         "id": "truva-08342a-yuvarlak-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-08342a-yuvarlak/truva-08342a-yuvarlak_1.jpg"
+        "imagePath": "/images/products/truva/truva-08342a-yuvarlak/truva-08342a-yuvarlak_1.webp"
       },
       {
         "id": "truva-08342a-yuvarlak-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-08342a-yuvarlak/truva-08342a-yuvarlak_2.jpg"
+        "imagePath": "/images/products/truva/truva-08342a-yuvarlak/truva-08342a-yuvarlak_2.webp"
       },
       {
         "id": "truva-08342a-yuvarlak-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-08342a-yuvarlak/truva-08342a-yuvarlak_3.jpg"
+        "imagePath": "/images/products/truva/truva-08342a-yuvarlak/truva-08342a-yuvarlak_3.webp"
       },
       {
         "id": "truva-08342a-yuvarlak-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/truva/truva-08342a-yuvarlak/truva-08342a-yuvarlak_4.jpg"
+        "imagePath": "/images/products/truva/truva-08342a-yuvarlak/truva-08342a-yuvarlak_4.webp"
       }
     ]
   }

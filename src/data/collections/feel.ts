@@ -17,37 +17,37 @@ export const feelCollection: Category = {
         "id": "fl008a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008a/fl008a_1.jpg"
+        "imagePath": "/images/products/feel/fl008a/fl008a_1.webp"
       },
       {
         "id": "fl008a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008a/fl008a_2.jpg"
+        "imagePath": "/images/products/feel/fl008a/fl008a_2.webp"
       },
       {
         "id": "fl008a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008a/fl008a_3.jpg"
+        "imagePath": "/images/products/feel/fl008a/fl008a_3.webp"
       },
       {
         "id": "fl008a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008a/fl008a_4.jpg"
+        "imagePath": "/images/products/feel/fl008a/fl008a_4.webp"
       },
       {
         "id": "fl008a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008a/fl008a_5.jpg"
+        "imagePath": "/images/products/feel/fl008a/fl008a_5.webp"
       },
       {
         "id": "fl008a-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008a/fl008a_6.jpg"
+        "imagePath": "/images/products/feel/fl008a/fl008a_6.webp"
       }
     ]
   },
@@ -61,37 +61,37 @@ export const feelCollection: Category = {
         "id": "fl008s-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008s/fl008s_1.jpg"
+        "imagePath": "/images/products/feel/fl008s/fl008s_1.webp"
       },
       {
         "id": "fl008s-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008s/fl008s_2.jpg"
+        "imagePath": "/images/products/feel/fl008s/fl008s_2.webp"
       },
       {
         "id": "fl008s-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008s/fl008s_3.jpg"
+        "imagePath": "/images/products/feel/fl008s/fl008s_3.webp"
       },
       {
         "id": "fl008s-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008s/fl008s_4.jpg"
+        "imagePath": "/images/products/feel/fl008s/fl008s_4.webp"
       },
       {
         "id": "fl008s-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008s/fl008s_5.jpg"
+        "imagePath": "/images/products/feel/fl008s/fl008s_5.webp"
       },
       {
         "id": "fl008s-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008s/fl008s_6.jpg"
+        "imagePath": "/images/products/feel/fl008s/fl008s_6.webp"
       }
     ]
   },
@@ -105,37 +105,37 @@ export const feelCollection: Category = {
         "id": "fl008m-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008m/fl008m_1.jpg"
+        "imagePath": "/images/products/feel/fl008m/fl008m_1.webp"
       },
       {
         "id": "fl008m-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008m/fl008m_2.jpg"
+        "imagePath": "/images/products/feel/fl008m/fl008m_2.webp"
       },
       {
         "id": "fl008m-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008m/fl008m_3.jpg"
+        "imagePath": "/images/products/feel/fl008m/fl008m_3.webp"
       },
       {
         "id": "fl008m-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008m/fl008m_4.jpg"
+        "imagePath": "/images/products/feel/fl008m/fl008m_4.webp"
       },
       {
         "id": "fl008m-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008m/fl008m_5.jpg"
+        "imagePath": "/images/products/feel/fl008m/fl008m_5.webp"
       },
       {
         "id": "fl008m-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl008m/fl008m_6.jpg"
+        "imagePath": "/images/products/feel/fl008m/fl008m_6.webp"
       }
     ]
   },
@@ -149,37 +149,37 @@ export const feelCollection: Category = {
         "id": "fl009g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl009g/fl009g_1.jpg"
+        "imagePath": "/images/products/feel/fl009g/fl009g_1.webp"
       },
       {
         "id": "fl009g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl009g/fl009g_2.jpg"
+        "imagePath": "/images/products/feel/fl009g/fl009g_2.webp"
       },
       {
         "id": "fl009g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl009g/fl009g_3.jpg"
+        "imagePath": "/images/products/feel/fl009g/fl009g_3.webp"
       },
       {
         "id": "fl009g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl009g/fl009g_4.jpg"
+        "imagePath": "/images/products/feel/fl009g/fl009g_4.webp"
       },
       {
         "id": "fl009g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl009g/fl009g_5.jpg"
+        "imagePath": "/images/products/feel/fl009g/fl009g_5.webp"
       },
       {
         "id": "fl009g-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl009g/fl009g_6.jpg"
+        "imagePath": "/images/products/feel/fl009g/fl009g_6.webp"
       }
     ]
   },
@@ -193,25 +193,25 @@ export const feelCollection: Category = {
         "id": "fl010w-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010w/fl010w_1.jpg"
+        "imagePath": "/images/products/feel/fl010w/fl010w_1.webp"
       },
       {
         "id": "fl010w-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010w/fl010w_2.jpg"
+        "imagePath": "/images/products/feel/fl010w/fl010w_2.webp"
       },
       {
         "id": "fl010w-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010w/fl010w_3.jpg"
+        "imagePath": "/images/products/feel/fl010w/fl010w_3.webp"
       },
       {
         "id": "fl010w-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010w/fl010w_4.jpg"
+        "imagePath": "/images/products/feel/fl010w/fl010w_4.webp"
       }
     ]
   },
@@ -225,37 +225,37 @@ export const feelCollection: Category = {
         "id": "fl010z-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010z/fl010z_1.jpg"
+        "imagePath": "/images/products/feel/fl010z/fl010z_1.webp"
       },
       {
         "id": "fl010z-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010z/fl010z_2.jpg"
+        "imagePath": "/images/products/feel/fl010z/fl010z_2.webp"
       },
       {
         "id": "fl010z-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010z/fl010z_3.jpg"
+        "imagePath": "/images/products/feel/fl010z/fl010z_3.webp"
       },
       {
         "id": "fl010z-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010z/fl010z_4.jpg"
+        "imagePath": "/images/products/feel/fl010z/fl010z_4.webp"
       },
       {
         "id": "fl010z-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010z/fl010z_5.jpg"
+        "imagePath": "/images/products/feel/fl010z/fl010z_5.webp"
       },
       {
         "id": "fl010z-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010z/fl010z_6.jpg"
+        "imagePath": "/images/products/feel/fl010z/fl010z_6.webp"
       }
     ]
   },
@@ -269,37 +269,37 @@ export const feelCollection: Category = {
         "id": "fl010g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010g/fl010g_1.jpg"
+        "imagePath": "/images/products/feel/fl010g/fl010g_1.webp"
       },
       {
         "id": "fl010g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010g/fl010g_2.jpg"
+        "imagePath": "/images/products/feel/fl010g/fl010g_2.webp"
       },
       {
         "id": "fl010g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010g/fl010g_3.jpg"
+        "imagePath": "/images/products/feel/fl010g/fl010g_3.webp"
       },
       {
         "id": "fl010g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010g/fl010g_4.jpg"
+        "imagePath": "/images/products/feel/fl010g/fl010g_4.webp"
       },
       {
         "id": "fl010g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010g/fl010g_5.jpg"
+        "imagePath": "/images/products/feel/fl010g/fl010g_5.webp"
       },
       {
         "id": "fl010g-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl010g/fl010g_6.jpg"
+        "imagePath": "/images/products/feel/fl010g/fl010g_6.webp"
       }
     ]
   },
@@ -313,31 +313,31 @@ export const feelCollection: Category = {
         "id": "fl001a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001a/fl001a_1.jpg"
+        "imagePath": "/images/products/feel/fl001a/fl001a_1.webp"
       },
       {
         "id": "fl001a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001a/fl001a_2.jpg"
+        "imagePath": "/images/products/feel/fl001a/fl001a_2.webp"
       },
       {
         "id": "fl001a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001a/fl001a_3.jpg"
+        "imagePath": "/images/products/feel/fl001a/fl001a_3.webp"
       },
       {
         "id": "fl001a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001a/fl001a_4.jpg"
+        "imagePath": "/images/products/feel/fl001a/fl001a_4.webp"
       },
       {
         "id": "fl001a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001a/fl001a_5.jpg"
+        "imagePath": "/images/products/feel/fl001a/fl001a_5.webp"
       }
     ]
   },
@@ -351,31 +351,31 @@ export const feelCollection: Category = {
         "id": "fl001m-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001m/fl001m_1.jpg"
+        "imagePath": "/images/products/feel/fl001m/fl001m_1.webp"
       },
       {
         "id": "fl001m-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001m/fl001m_2.jpg"
+        "imagePath": "/images/products/feel/fl001m/fl001m_2.webp"
       },
       {
         "id": "fl001m-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001m/fl001m_3.jpg"
+        "imagePath": "/images/products/feel/fl001m/fl001m_3.webp"
       },
       {
         "id": "fl001m-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001m/fl001m_4.jpg"
+        "imagePath": "/images/products/feel/fl001m/fl001m_4.webp"
       },
       {
         "id": "fl001m-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001m/fl001m_5.jpg"
+        "imagePath": "/images/products/feel/fl001m/fl001m_5.webp"
       }
     ]
   },
@@ -389,31 +389,31 @@ export const feelCollection: Category = {
         "id": "fl001s-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001s/fl001s_1.jpg"
+        "imagePath": "/images/products/feel/fl001s/fl001s_1.webp"
       },
       {
         "id": "fl001s-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001s/fl001s_2.jpg"
+        "imagePath": "/images/products/feel/fl001s/fl001s_2.webp"
       },
       {
         "id": "fl001s-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001s/fl001s_3.jpg"
+        "imagePath": "/images/products/feel/fl001s/fl001s_3.webp"
       },
       {
         "id": "fl001s-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001s/fl001s_4.jpg"
+        "imagePath": "/images/products/feel/fl001s/fl001s_4.webp"
       },
       {
         "id": "fl001s-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl001s/fl001s_5.jpg"
+        "imagePath": "/images/products/feel/fl001s/fl001s_5.webp"
       }
     ]
   },
@@ -427,31 +427,31 @@ export const feelCollection: Category = {
         "id": "fl003a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl003a/fl003a_1.jpg"
+        "imagePath": "/images/products/feel/fl003a/fl003a_1.webp"
       },
       {
         "id": "fl003a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl003a/fl003a_2.jpg"
+        "imagePath": "/images/products/feel/fl003a/fl003a_2.webp"
       },
       {
         "id": "fl003a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl003a/fl003a_3.jpg"
+        "imagePath": "/images/products/feel/fl003a/fl003a_3.webp"
       },
       {
         "id": "fl003a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl003a/fl003a_4.jpg"
+        "imagePath": "/images/products/feel/fl003a/fl003a_4.webp"
       },
       {
         "id": "fl003a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl003a/fl003a_5.jpg"
+        "imagePath": "/images/products/feel/fl003a/fl003a_5.webp"
       }
     ]
   },
@@ -465,31 +465,31 @@ export const feelCollection: Category = {
         "id": "fl004g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004g/fl004g_1.jpg"
+        "imagePath": "/images/products/feel/fl004g/fl004g_1.webp"
       },
       {
         "id": "fl004g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004g/fl004g_2.jpg"
+        "imagePath": "/images/products/feel/fl004g/fl004g_2.webp"
       },
       {
         "id": "fl004g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004g/fl004g_3.jpg"
+        "imagePath": "/images/products/feel/fl004g/fl004g_3.webp"
       },
       {
         "id": "fl004g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004g/fl004g_4.jpg"
+        "imagePath": "/images/products/feel/fl004g/fl004g_4.webp"
       },
       {
         "id": "fl004g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004g/fl004g_5.jpg"
+        "imagePath": "/images/products/feel/fl004g/fl004g_5.webp"
       }
     ]
   },
@@ -503,31 +503,31 @@ export const feelCollection: Category = {
         "id": "fl004m-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004m/fl004m_1.jpg"
+        "imagePath": "/images/products/feel/fl004m/fl004m_1.webp"
       },
       {
         "id": "fl004m-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004m/fl004m_2.jpg"
+        "imagePath": "/images/products/feel/fl004m/fl004m_2.webp"
       },
       {
         "id": "fl004m-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004m/fl004m_3.jpg"
+        "imagePath": "/images/products/feel/fl004m/fl004m_3.webp"
       },
       {
         "id": "fl004m-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004m/fl004m_4.jpg"
+        "imagePath": "/images/products/feel/fl004m/fl004m_4.webp"
       },
       {
         "id": "fl004m-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004m/fl004m_5.jpg"
+        "imagePath": "/images/products/feel/fl004m/fl004m_5.webp"
       }
     ]
   },
@@ -541,31 +541,31 @@ export const feelCollection: Category = {
         "id": "fl004s-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004s/fl004s_1.jpg"
+        "imagePath": "/images/products/feel/fl004s/fl004s_1.webp"
       },
       {
         "id": "fl004s-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004s/fl004s_2.jpg"
+        "imagePath": "/images/products/feel/fl004s/fl004s_2.webp"
       },
       {
         "id": "fl004s-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004s/fl004s_3.jpg"
+        "imagePath": "/images/products/feel/fl004s/fl004s_3.webp"
       },
       {
         "id": "fl004s-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004s/fl004s_4.jpg"
+        "imagePath": "/images/products/feel/fl004s/fl004s_4.webp"
       },
       {
         "id": "fl004s-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl004s/fl004s_5.jpg"
+        "imagePath": "/images/products/feel/fl004s/fl004s_5.webp"
       }
     ]
   },
@@ -579,31 +579,31 @@ export const feelCollection: Category = {
         "id": "fl005a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl005a/fl005a_1.jpg"
+        "imagePath": "/images/products/feel/fl005a/fl005a_1.webp"
       },
       {
         "id": "fl005a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl005a/fl005a_2.jpg"
+        "imagePath": "/images/products/feel/fl005a/fl005a_2.webp"
       },
       {
         "id": "fl005a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl005a/fl005a_3.jpg"
+        "imagePath": "/images/products/feel/fl005a/fl005a_3.webp"
       },
       {
         "id": "fl005a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl005a/fl005a_4.jpg"
+        "imagePath": "/images/products/feel/fl005a/fl005a_4.webp"
       },
       {
         "id": "fl005a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl005a/fl005a_5.jpg"
+        "imagePath": "/images/products/feel/fl005a/fl005a_5.webp"
       }
     ]
   },
@@ -617,31 +617,31 @@ export const feelCollection: Category = {
         "id": "fl006g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl006g/fl006g_1.jpg"
+        "imagePath": "/images/products/feel/fl006g/fl006g_1.webp"
       },
       {
         "id": "fl006g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl006g/fl006g_2.jpg"
+        "imagePath": "/images/products/feel/fl006g/fl006g_2.webp"
       },
       {
         "id": "fl006g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl006g/fl006g_3.jpg"
+        "imagePath": "/images/products/feel/fl006g/fl006g_3.webp"
       },
       {
         "id": "fl006g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl006g/fl006g_4.jpg"
+        "imagePath": "/images/products/feel/fl006g/fl006g_4.webp"
       },
       {
         "id": "fl006g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl006g/fl006g_5.jpg"
+        "imagePath": "/images/products/feel/fl006g/fl006g_5.webp"
       }
     ]
   },
@@ -655,31 +655,31 @@ export const feelCollection: Category = {
         "id": "fl007a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl007a/fl007a_1.jpg"
+        "imagePath": "/images/products/feel/fl007a/fl007a_1.webp"
       },
       {
         "id": "fl007a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl007a/fl007a_2.jpg"
+        "imagePath": "/images/products/feel/fl007a/fl007a_2.webp"
       },
       {
         "id": "fl007a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl007a/fl007a_3.jpg"
+        "imagePath": "/images/products/feel/fl007a/fl007a_3.webp"
       },
       {
         "id": "fl007a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl007a/fl007a_4.jpg"
+        "imagePath": "/images/products/feel/fl007a/fl007a_4.webp"
       },
       {
         "id": "fl007a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/feel/fl007a/fl007a_5.jpg"
+        "imagePath": "/images/products/feel/fl007a/fl007a_5.webp"
       }
     ]
   }

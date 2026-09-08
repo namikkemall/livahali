@@ -20,37 +20,37 @@ export const leonCollection: Category = {
         "id": "leon-ln001g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001g/leon-ln001g_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln001g/leon-ln001g_1.webp"
       },
       {
         "id": "leon-ln001g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001g/leon-ln001g_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln001g/leon-ln001g_2.webp"
       },
       {
         "id": "leon-ln001g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001g/leon-ln001g_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln001g/leon-ln001g_3.webp"
       },
       {
         "id": "leon-ln001g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001g/leon-ln001g_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln001g/leon-ln001g_4.webp"
       },
       {
         "id": "leon-ln001g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001g/leon-ln001g_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln001g/leon-ln001g_5.webp"
       },
       {
         "id": "leon-ln001g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001g/leon-ln001g_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln001g/leon-ln001g_6.webp"
       }
     ]
   },
@@ -67,43 +67,43 @@ export const leonCollection: Category = {
         "id": "leon-ln001w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_1.webp"
       },
       {
         "id": "leon-ln001w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_2.webp"
       },
       {
         "id": "leon-ln001w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_3.webp"
       },
       {
         "id": "leon-ln001w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_4.webp"
       },
       {
         "id": "leon-ln001w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_5.webp"
       },
       {
         "id": "leon-ln001w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_6.webp"
       },
       {
         "id": "leon-ln001w-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_7.jpg"
+        "imagePath": "/images/products/leon/leon-ln001w/leon-ln001w_7.webp"
       }
     ]
   },
@@ -120,43 +120,43 @@ export const leonCollection: Category = {
         "id": "leon-ln002w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_1.webp"
       },
       {
         "id": "leon-ln002w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_2.webp"
       },
       {
         "id": "leon-ln002w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_3.webp"
       },
       {
         "id": "leon-ln002w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_4.webp"
       },
       {
         "id": "leon-ln002w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_5.webp"
       },
       {
         "id": "leon-ln002w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_6.webp"
       },
       {
         "id": "leon-ln002w-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_7.jpg"
+        "imagePath": "/images/products/leon/leon-ln002w/leon-ln002w_7.webp"
       }
     ]
   },
@@ -173,43 +173,43 @@ export const leonCollection: Category = {
         "id": "leon-ln001z-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_1.webp"
       },
       {
         "id": "leon-ln001z-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_2.webp"
       },
       {
         "id": "leon-ln001z-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_3.webp"
       },
       {
         "id": "leon-ln001z-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_4.webp"
       },
       {
         "id": "leon-ln001z-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_5.webp"
       },
       {
         "id": "leon-ln001z-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_6.webp"
       },
       {
         "id": "leon-ln001z-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_7.jpg"
+        "imagePath": "/images/products/leon/leon-ln001z/leon-ln001z_7.webp"
       }
     ]
   },
@@ -226,37 +226,37 @@ export const leonCollection: Category = {
         "id": "leon-ln005g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln005g/leon-ln005g_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln005g/leon-ln005g_1.webp"
       },
       {
         "id": "leon-ln005g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln005g/leon-ln005g_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln005g/leon-ln005g_2.webp"
       },
       {
         "id": "leon-ln005g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln005g/leon-ln005g_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln005g/leon-ln005g_3.webp"
       },
       {
         "id": "leon-ln005g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln005g/leon-ln005g_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln005g/leon-ln005g_4.webp"
       },
       {
         "id": "leon-ln005g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln005g/leon-ln005g_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln005g/leon-ln005g_5.webp"
       },
       {
         "id": "leon-ln005g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln005g/leon-ln005g_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln005g/leon-ln005g_6.webp"
       }
     ]
   },
@@ -273,37 +273,37 @@ export const leonCollection: Category = {
         "id": "leon-ln006b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln006b/leon-ln006b_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln006b/leon-ln006b_1.webp"
       },
       {
         "id": "leon-ln006b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln006b/leon-ln006b_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln006b/leon-ln006b_2.webp"
       },
       {
         "id": "leon-ln006b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln006b/leon-ln006b_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln006b/leon-ln006b_3.webp"
       },
       {
         "id": "leon-ln006b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln006b/leon-ln006b_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln006b/leon-ln006b_4.webp"
       },
       {
         "id": "leon-ln006b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln006b/leon-ln006b_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln006b/leon-ln006b_5.webp"
       },
       {
         "id": "leon-ln006b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln006b/leon-ln006b_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln006b/leon-ln006b_6.webp"
       }
     ]
   },
@@ -320,37 +320,37 @@ export const leonCollection: Category = {
         "id": "leon-ln007g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln007g/leon-ln007g_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln007g/leon-ln007g_1.webp"
       },
       {
         "id": "leon-ln007g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln007g/leon-ln007g_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln007g/leon-ln007g_2.webp"
       },
       {
         "id": "leon-ln007g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln007g/leon-ln007g_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln007g/leon-ln007g_3.webp"
       },
       {
         "id": "leon-ln007g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln007g/leon-ln007g_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln007g/leon-ln007g_4.webp"
       },
       {
         "id": "leon-ln007g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln007g/leon-ln007g_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln007g/leon-ln007g_5.webp"
       },
       {
         "id": "leon-ln007g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln007g/leon-ln007g_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln007g/leon-ln007g_6.webp"
       }
     ]
   },
@@ -367,37 +367,37 @@ export const leonCollection: Category = {
         "id": "leon-ln008b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln008b/leon-ln008b_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln008b/leon-ln008b_1.webp"
       },
       {
         "id": "leon-ln008b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln008b/leon-ln008b_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln008b/leon-ln008b_2.webp"
       },
       {
         "id": "leon-ln008b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln008b/leon-ln008b_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln008b/leon-ln008b_3.webp"
       },
       {
         "id": "leon-ln008b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln008b/leon-ln008b_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln008b/leon-ln008b_4.webp"
       },
       {
         "id": "leon-ln008b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln008b/leon-ln008b_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln008b/leon-ln008b_5.webp"
       },
       {
         "id": "leon-ln008b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln008b/leon-ln008b_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln008b/leon-ln008b_6.webp"
       }
     ]
   },
@@ -414,37 +414,37 @@ export const leonCollection: Category = {
         "id": "leon-ln009g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln009g/leon-ln009g_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln009g/leon-ln009g_1.webp"
       },
       {
         "id": "leon-ln009g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln009g/leon-ln009g_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln009g/leon-ln009g_2.webp"
       },
       {
         "id": "leon-ln009g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln009g/leon-ln009g_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln009g/leon-ln009g_3.webp"
       },
       {
         "id": "leon-ln009g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln009g/leon-ln009g_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln009g/leon-ln009g_4.webp"
       },
       {
         "id": "leon-ln009g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln009g/leon-ln009g_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln009g/leon-ln009g_5.webp"
       },
       {
         "id": "leon-ln009g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln009g/leon-ln009g_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln009g/leon-ln009g_6.webp"
       }
     ]
   },
@@ -461,37 +461,37 @@ export const leonCollection: Category = {
         "id": "leon-ln010b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln010b/leon-ln010b_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln010b/leon-ln010b_1.webp"
       },
       {
         "id": "leon-ln010b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln010b/leon-ln010b_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln010b/leon-ln010b_2.webp"
       },
       {
         "id": "leon-ln010b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln010b/leon-ln010b_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln010b/leon-ln010b_3.webp"
       },
       {
         "id": "leon-ln010b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln010b/leon-ln010b_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln010b/leon-ln010b_4.webp"
       },
       {
         "id": "leon-ln010b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln010b/leon-ln010b_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln010b/leon-ln010b_5.webp"
       },
       {
         "id": "leon-ln010b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln010b/leon-ln010b_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln010b/leon-ln010b_6.webp"
       }
     ]
   },
@@ -508,37 +508,37 @@ export const leonCollection: Category = {
         "id": "leon-ln011w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln011w/leon-ln011w_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln011w/leon-ln011w_1.webp"
       },
       {
         "id": "leon-ln011w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln011w/leon-ln011w_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln011w/leon-ln011w_2.webp"
       },
       {
         "id": "leon-ln011w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln011w/leon-ln011w_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln011w/leon-ln011w_3.webp"
       },
       {
         "id": "leon-ln011w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln011w/leon-ln011w_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln011w/leon-ln011w_4.webp"
       },
       {
         "id": "leon-ln011w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln011w/leon-ln011w_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln011w/leon-ln011w_5.webp"
       },
       {
         "id": "leon-ln011w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln011w/leon-ln011w_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln011w/leon-ln011w_6.webp"
       }
     ]
   },
@@ -555,43 +555,43 @@ export const leonCollection: Category = {
         "id": "leon-ln004a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_1.webp"
       },
       {
         "id": "leon-ln004a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_2.webp"
       },
       {
         "id": "leon-ln004a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_3.webp"
       },
       {
         "id": "leon-ln004a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_4.webp"
       },
       {
         "id": "leon-ln004a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_5.webp"
       },
       {
         "id": "leon-ln004a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_6.webp"
       },
       {
         "id": "leon-ln004a-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_7.jpg"
+        "imagePath": "/images/products/leon/leon-ln004a/leon-ln004a_7.webp"
       }
     ]
   },
@@ -608,43 +608,43 @@ export const leonCollection: Category = {
         "id": "leon-ln002z-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_1.webp"
       },
       {
         "id": "leon-ln002z-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_2.webp"
       },
       {
         "id": "leon-ln002z-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_3.webp"
       },
       {
         "id": "leon-ln002z-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_4.webp"
       },
       {
         "id": "leon-ln002z-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_5.webp"
       },
       {
         "id": "leon-ln002z-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_6.webp"
       },
       {
         "id": "leon-ln002z-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_7.jpg"
+        "imagePath": "/images/products/leon/leon-ln002z/leon-ln002z_7.webp"
       }
     ]
   },
@@ -661,37 +661,37 @@ export const leonCollection: Category = {
         "id": "leon-ln012b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln012b/leon-ln012b_1.jpg"
+        "imagePath": "/images/products/leon/leon-ln012b/leon-ln012b_1.webp"
       },
       {
         "id": "leon-ln012b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln012b/leon-ln012b_2.jpg"
+        "imagePath": "/images/products/leon/leon-ln012b/leon-ln012b_2.webp"
       },
       {
         "id": "leon-ln012b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln012b/leon-ln012b_3.jpg"
+        "imagePath": "/images/products/leon/leon-ln012b/leon-ln012b_3.webp"
       },
       {
         "id": "leon-ln012b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln012b/leon-ln012b_4.jpg"
+        "imagePath": "/images/products/leon/leon-ln012b/leon-ln012b_4.webp"
       },
       {
         "id": "leon-ln012b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln012b/leon-ln012b_5.jpg"
+        "imagePath": "/images/products/leon/leon-ln012b/leon-ln012b_5.webp"
       },
       {
         "id": "leon-ln012b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/leon/leon-ln012b/leon-ln012b_6.jpg"
+        "imagePath": "/images/products/leon/leon-ln012b/leon-ln012b_6.webp"
       }
     ]
   }

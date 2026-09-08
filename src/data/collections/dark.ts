@@ -20,43 +20,43 @@ export const darkCollection: Category = {
         "id": "dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_1.jpg"
+        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_1.webp"
       },
       {
         "id": "dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_2.jpg"
+        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_2.webp"
       },
       {
         "id": "dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_3.jpg"
+        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_3.webp"
       },
       {
         "id": "dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_4.jpg"
+        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_4.webp"
       },
       {
         "id": "dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_5.jpg"
+        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_5.webp"
       },
       {
         "id": "dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_6.jpg"
+        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_6.webp"
       },
       {
         "id": "dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_7.jpg"
+        "imagePath": "/images/products/dark/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002a-bej-hali-kahverengi-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_7.webp"
       }
     ]
   },
@@ -73,43 +73,43 @@ export const darkCollection: Category = {
         "id": "dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_1.jpg"
+        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_1.webp"
       },
       {
         "id": "dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_2.jpg"
+        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_2.webp"
       },
       {
         "id": "dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_3.jpg"
+        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_3.webp"
       },
       {
         "id": "dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_4.jpg"
+        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_4.webp"
       },
       {
         "id": "dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_5.jpg"
+        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_5.webp"
       },
       {
         "id": "dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_6.jpg"
+        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_6.webp"
       },
       {
         "id": "dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_7.jpg"
+        "imagePath": "/images/products/dark/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk002g-gri-hali-antrasit-kenar-cerceveli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_7.webp"
       }
     ]
   },
@@ -126,43 +126,43 @@ export const darkCollection: Category = {
         "id": "dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_1.jpg"
+        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_1.webp"
       },
       {
         "id": "dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_2.jpg"
+        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_2.webp"
       },
       {
         "id": "dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_3.jpg"
+        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_3.webp"
       },
       {
         "id": "dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_4.jpg"
+        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_4.webp"
       },
       {
         "id": "dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_5.jpg"
+        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_5.webp"
       },
       {
         "id": "dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_6.jpg"
+        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_6.webp"
       },
       {
         "id": "dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_7.jpg"
+        "imagePath": "/images/products/dark/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi/dark-dk014g-gri-hali-antrasit-geometrik-detayli-akrilik-tozuaz-modern-salon-halisi-yatak-odasi_7.webp"
       }
     ]
   },
@@ -179,43 +179,43 @@ export const darkCollection: Category = {
         "id": "dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_1.jpg"
+        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_1.webp"
       },
       {
         "id": "dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_2.jpg"
+        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_2.webp"
       },
       {
         "id": "dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_3.jpg"
+        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_3.webp"
       },
       {
         "id": "dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_4.jpg"
+        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_4.webp"
       },
       {
         "id": "dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_5.jpg"
+        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_5.webp"
       },
       {
         "id": "dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_6.jpg"
+        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_6.webp"
       },
       {
         "id": "dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_7.jpg"
+        "imagePath": "/images/products/dark/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk015a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_7.webp"
       }
     ]
   },
@@ -232,43 +232,43 @@ export const darkCollection: Category = {
         "id": "dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_1.jpg"
+        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_1.webp"
       },
       {
         "id": "dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_2.jpg"
+        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_2.webp"
       },
       {
         "id": "dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_3.jpg"
+        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_3.webp"
       },
       {
         "id": "dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_4.jpg"
+        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_4.webp"
       },
       {
         "id": "dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_5.jpg"
+        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_5.webp"
       },
       {
         "id": "dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_6.jpg"
+        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_6.webp"
       },
       {
         "id": "dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_7.jpg"
+        "imagePath": "/images/products/dark/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor/dark-dk016a-bej-hali-kahverengi-kenar-cerceveli-gobekli-akrilik-tozuaz-modern-salon-halisi-koridor_7.webp"
       }
     ]
   },
@@ -285,25 +285,25 @@ export const darkCollection: Category = {
         "id": "dark-dk007a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk007a/dark-dk007a_1.jpg"
+        "imagePath": "/images/products/dark/dark-dk007a/dark-dk007a_1.webp"
       },
       {
         "id": "dark-dk007a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk007a/dark-dk007a_2.jpg"
+        "imagePath": "/images/products/dark/dark-dk007a/dark-dk007a_2.webp"
       },
       {
         "id": "dark-dk007a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk007a/dark-dk007a_3.jpg"
+        "imagePath": "/images/products/dark/dark-dk007a/dark-dk007a_3.webp"
       },
       {
         "id": "dark-dk007a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk007a/dark-dk007a_4.jpg"
+        "imagePath": "/images/products/dark/dark-dk007a/dark-dk007a_4.webp"
       }
     ]
   },
@@ -320,37 +320,37 @@ export const darkCollection: Category = {
         "id": "dark-dk012m-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk012m/dark-dk012m_1.jpg"
+        "imagePath": "/images/products/dark/dark-dk012m/dark-dk012m_1.webp"
       },
       {
         "id": "dark-dk012m-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk012m/dark-dk012m_2.jpg"
+        "imagePath": "/images/products/dark/dark-dk012m/dark-dk012m_2.webp"
       },
       {
         "id": "dark-dk012m-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk012m/dark-dk012m_3.jpg"
+        "imagePath": "/images/products/dark/dark-dk012m/dark-dk012m_3.webp"
       },
       {
         "id": "dark-dk012m-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk012m/dark-dk012m_4.jpg"
+        "imagePath": "/images/products/dark/dark-dk012m/dark-dk012m_4.webp"
       },
       {
         "id": "dark-dk012m-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk012m/dark-dk012m_5.jpg"
+        "imagePath": "/images/products/dark/dark-dk012m/dark-dk012m_5.webp"
       },
       {
         "id": "dark-dk012m-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk012m/dark-dk012m_6.jpg"
+        "imagePath": "/images/products/dark/dark-dk012m/dark-dk012m_6.webp"
       }
     ]
   },
@@ -367,37 +367,37 @@ export const darkCollection: Category = {
         "id": "dark-dk014m-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk014m/dark-dk014m_1.jpg"
+        "imagePath": "/images/products/dark/dark-dk014m/dark-dk014m_1.webp"
       },
       {
         "id": "dark-dk014m-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk014m/dark-dk014m_2.jpg"
+        "imagePath": "/images/products/dark/dark-dk014m/dark-dk014m_2.webp"
       },
       {
         "id": "dark-dk014m-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk014m/dark-dk014m_3.jpg"
+        "imagePath": "/images/products/dark/dark-dk014m/dark-dk014m_3.webp"
       },
       {
         "id": "dark-dk014m-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk014m/dark-dk014m_4.jpg"
+        "imagePath": "/images/products/dark/dark-dk014m/dark-dk014m_4.webp"
       },
       {
         "id": "dark-dk014m-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk014m/dark-dk014m_5.jpg"
+        "imagePath": "/images/products/dark/dark-dk014m/dark-dk014m_5.webp"
       },
       {
         "id": "dark-dk014m-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk014m/dark-dk014m_6.jpg"
+        "imagePath": "/images/products/dark/dark-dk014m/dark-dk014m_6.webp"
       }
     ]
   },
@@ -414,31 +414,31 @@ export const darkCollection: Category = {
         "id": "dark-dk011g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk011g/dark-dk011g_1.jpg"
+        "imagePath": "/images/products/dark/dark-dk011g/dark-dk011g_1.webp"
       },
       {
         "id": "dark-dk011g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk011g/dark-dk011g_2.jpg"
+        "imagePath": "/images/products/dark/dark-dk011g/dark-dk011g_2.webp"
       },
       {
         "id": "dark-dk011g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk011g/dark-dk011g_3.jpg"
+        "imagePath": "/images/products/dark/dark-dk011g/dark-dk011g_3.webp"
       },
       {
         "id": "dark-dk011g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk011g/dark-dk011g_4.jpg"
+        "imagePath": "/images/products/dark/dark-dk011g/dark-dk011g_4.webp"
       },
       {
         "id": "dark-dk011g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk011g/dark-dk011g_5.jpg"
+        "imagePath": "/images/products/dark/dark-dk011g/dark-dk011g_5.webp"
       }
     ]
   },
@@ -455,37 +455,37 @@ export const darkCollection: Category = {
         "id": "dark-dk016m-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk016m/dark-dk016m_1.jpg"
+        "imagePath": "/images/products/dark/dark-dk016m/dark-dk016m_1.webp"
       },
       {
         "id": "dark-dk016m-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk016m/dark-dk016m_2.jpg"
+        "imagePath": "/images/products/dark/dark-dk016m/dark-dk016m_2.webp"
       },
       {
         "id": "dark-dk016m-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk016m/dark-dk016m_3.jpg"
+        "imagePath": "/images/products/dark/dark-dk016m/dark-dk016m_3.webp"
       },
       {
         "id": "dark-dk016m-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk016m/dark-dk016m_4.jpg"
+        "imagePath": "/images/products/dark/dark-dk016m/dark-dk016m_4.webp"
       },
       {
         "id": "dark-dk016m-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk016m/dark-dk016m_5.jpg"
+        "imagePath": "/images/products/dark/dark-dk016m/dark-dk016m_5.webp"
       },
       {
         "id": "dark-dk016m-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk016m/dark-dk016m_6.jpg"
+        "imagePath": "/images/products/dark/dark-dk016m/dark-dk016m_6.webp"
       }
     ]
   },
@@ -502,31 +502,31 @@ export const darkCollection: Category = {
         "id": "dark-dk018g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk018g/dark-dk018g_1.jpg"
+        "imagePath": "/images/products/dark/dark-dk018g/dark-dk018g_1.webp"
       },
       {
         "id": "dark-dk018g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk018g/dark-dk018g_2.jpg"
+        "imagePath": "/images/products/dark/dark-dk018g/dark-dk018g_2.webp"
       },
       {
         "id": "dark-dk018g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk018g/dark-dk018g_3.jpg"
+        "imagePath": "/images/products/dark/dark-dk018g/dark-dk018g_3.webp"
       },
       {
         "id": "dark-dk018g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk018g/dark-dk018g_4.jpg"
+        "imagePath": "/images/products/dark/dark-dk018g/dark-dk018g_4.webp"
       },
       {
         "id": "dark-dk018g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/dark/dark-dk018g/dark-dk018g_5.jpg"
+        "imagePath": "/images/products/dark/dark-dk018g/dark-dk018g_5.webp"
       }
     ]
   }

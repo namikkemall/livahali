@@ -5,7 +5,7 @@ export const lookclassicCollection: Category = {
   title: "LOOK CLASSIC Serisi",
   description: "Premium catalog items extracted automatically.",
   brand: 'karmen',
-  coverImage: "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_1.jpg",
+  coverImage: "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_1.webp",
   products: [
     {
       "id": "look-classic-lk001w",
@@ -20,37 +20,37 @@ export const lookclassicCollection: Category = {
           "id": "look-classic-lk001w-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk001w/look-classic-lk001w_1.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk001w/look-classic-lk001w_1.webp"
         },
         {
           "id": "look-classic-lk001w-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk001w/look-classic-lk001w_2.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk001w/look-classic-lk001w_2.webp"
         },
         {
           "id": "look-classic-lk001w-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk001w/look-classic-lk001w_3.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk001w/look-classic-lk001w_3.webp"
         },
         {
           "id": "look-classic-lk001w-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk001w/look-classic-lk001w_4.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk001w/look-classic-lk001w_4.webp"
         },
         {
           "id": "look-classic-lk001w-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk001w/look-classic-lk001w_5.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk001w/look-classic-lk001w_5.webp"
         },
         {
           "id": "look-classic-lk001w-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk001w/look-classic-lk001w_6.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk001w/look-classic-lk001w_6.webp"
         }
       ]
     },
@@ -67,37 +67,37 @@ export const lookclassicCollection: Category = {
           "id": "look-classic-lk002g-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_1.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_1.webp"
         },
         {
           "id": "look-classic-lk002g-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_2.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_2.webp"
         },
         {
           "id": "look-classic-lk002g-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_3.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_3.webp"
         },
         {
           "id": "look-classic-lk002g-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_4.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_4.webp"
         },
         {
           "id": "look-classic-lk002g-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_5.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_5.webp"
         },
         {
           "id": "look-classic-lk002g-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_6.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk002g/look-classic-lk002g_6.webp"
         }
       ]
     },
@@ -114,37 +114,37 @@ export const lookclassicCollection: Category = {
           "id": "look-classic-lk003g-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk003g/look-classic-lk003g_1.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk003g/look-classic-lk003g_1.webp"
         },
         {
           "id": "look-classic-lk003g-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk003g/look-classic-lk003g_2.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk003g/look-classic-lk003g_2.webp"
         },
         {
           "id": "look-classic-lk003g-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk003g/look-classic-lk003g_3.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk003g/look-classic-lk003g_3.webp"
         },
         {
           "id": "look-classic-lk003g-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk003g/look-classic-lk003g_4.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk003g/look-classic-lk003g_4.webp"
         },
         {
           "id": "look-classic-lk003g-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk003g/look-classic-lk003g_5.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk003g/look-classic-lk003g_5.webp"
         },
         {
           "id": "look-classic-lk003g-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk003g/look-classic-lk003g_6.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk003g/look-classic-lk003g_6.webp"
         }
       ]
     },
@@ -161,37 +161,37 @@ export const lookclassicCollection: Category = {
           "id": "look-classic-lk004g-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk004g/look-classic-lk004g_1.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk004g/look-classic-lk004g_1.webp"
         },
         {
           "id": "look-classic-lk004g-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk004g/look-classic-lk004g_2.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk004g/look-classic-lk004g_2.webp"
         },
         {
           "id": "look-classic-lk004g-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk004g/look-classic-lk004g_3.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk004g/look-classic-lk004g_3.webp"
         },
         {
           "id": "look-classic-lk004g-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk004g/look-classic-lk004g_4.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk004g/look-classic-lk004g_4.webp"
         },
         {
           "id": "look-classic-lk004g-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk004g/look-classic-lk004g_5.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk004g/look-classic-lk004g_5.webp"
         },
         {
           "id": "look-classic-lk004g-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk004g/look-classic-lk004g_6.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk004g/look-classic-lk004g_6.webp"
         }
       ]
     },
@@ -208,37 +208,37 @@ export const lookclassicCollection: Category = {
           "id": "look-classic-lk005b-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk005b/look-classic-lk005b_1.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk005b/look-classic-lk005b_1.webp"
         },
         {
           "id": "look-classic-lk005b-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk005b/look-classic-lk005b_2.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk005b/look-classic-lk005b_2.webp"
         },
         {
           "id": "look-classic-lk005b-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk005b/look-classic-lk005b_3.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk005b/look-classic-lk005b_3.webp"
         },
         {
           "id": "look-classic-lk005b-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk005b/look-classic-lk005b_4.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk005b/look-classic-lk005b_4.webp"
         },
         {
           "id": "look-classic-lk005b-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk005b/look-classic-lk005b_5.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk005b/look-classic-lk005b_5.webp"
         },
         {
           "id": "look-classic-lk005b-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk005b/look-classic-lk005b_6.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk005b/look-classic-lk005b_6.webp"
         }
       ]
     },
@@ -255,37 +255,37 @@ export const lookclassicCollection: Category = {
           "id": "look-classic-lk005m-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk005m/look-classic-lk005m_1.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk005m/look-classic-lk005m_1.webp"
         },
         {
           "id": "look-classic-lk005m-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk005m/look-classic-lk005m_2.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk005m/look-classic-lk005m_2.webp"
         },
         {
           "id": "look-classic-lk005m-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk005m/look-classic-lk005m_3.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk005m/look-classic-lk005m_3.webp"
         },
         {
           "id": "look-classic-lk005m-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk005m/look-classic-lk005m_4.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk005m/look-classic-lk005m_4.webp"
         },
         {
           "id": "look-classic-lk005m-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk005m/look-classic-lk005m_5.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk005m/look-classic-lk005m_5.webp"
         },
         {
           "id": "look-classic-lk005m-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk005m/look-classic-lk005m_6.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk005m/look-classic-lk005m_6.webp"
         }
       ]
     },
@@ -302,37 +302,37 @@ export const lookclassicCollection: Category = {
           "id": "look-classic-lk006b-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk006b/look-classic-lk006b_1.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk006b/look-classic-lk006b_1.webp"
         },
         {
           "id": "look-classic-lk006b-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk006b/look-classic-lk006b_2.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk006b/look-classic-lk006b_2.webp"
         },
         {
           "id": "look-classic-lk006b-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk006b/look-classic-lk006b_3.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk006b/look-classic-lk006b_3.webp"
         },
         {
           "id": "look-classic-lk006b-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk006b/look-classic-lk006b_4.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk006b/look-classic-lk006b_4.webp"
         },
         {
           "id": "look-classic-lk006b-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk006b/look-classic-lk006b_5.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk006b/look-classic-lk006b_5.webp"
         },
         {
           "id": "look-classic-lk006b-v6",
           "colorName": "Görsel 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/look-classic/look-classic-lk006b/look-classic-lk006b_6.jpg"
+          "imagePath": "/images/products/look-classic/look-classic-lk006b/look-classic-lk006b_6.webp"
         }
       ]
     }

@@ -20,37 +20,37 @@ export const frescoCollection: Category = {
         "id": "fresco-fc001g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc001g/fresco-fc001g_1.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc001g/fresco-fc001g_1.webp"
       },
       {
         "id": "fresco-fc001g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc001g/fresco-fc001g_2.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc001g/fresco-fc001g_2.webp"
       },
       {
         "id": "fresco-fc001g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc001g/fresco-fc001g_3.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc001g/fresco-fc001g_3.webp"
       },
       {
         "id": "fresco-fc001g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc001g/fresco-fc001g_4.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc001g/fresco-fc001g_4.webp"
       },
       {
         "id": "fresco-fc001g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc001g/fresco-fc001g_5.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc001g/fresco-fc001g_5.webp"
       },
       {
         "id": "fresco-fc001g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc001g/fresco-fc001g_6.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc001g/fresco-fc001g_6.webp"
       }
     ]
   },
@@ -67,37 +67,37 @@ export const frescoCollection: Category = {
         "id": "fresco-fc002g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc002g/fresco-fc002g_1.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc002g/fresco-fc002g_1.webp"
       },
       {
         "id": "fresco-fc002g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc002g/fresco-fc002g_2.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc002g/fresco-fc002g_2.webp"
       },
       {
         "id": "fresco-fc002g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc002g/fresco-fc002g_3.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc002g/fresco-fc002g_3.webp"
       },
       {
         "id": "fresco-fc002g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc002g/fresco-fc002g_4.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc002g/fresco-fc002g_4.webp"
       },
       {
         "id": "fresco-fc002g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc002g/fresco-fc002g_5.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc002g/fresco-fc002g_5.webp"
       },
       {
         "id": "fresco-fc002g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc002g/fresco-fc002g_6.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc002g/fresco-fc002g_6.webp"
       }
     ]
   },
@@ -114,37 +114,37 @@ export const frescoCollection: Category = {
         "id": "fresco-fc002w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc002w/fresco-fc002w_1.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc002w/fresco-fc002w_1.webp"
       },
       {
         "id": "fresco-fc002w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc002w/fresco-fc002w_2.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc002w/fresco-fc002w_2.webp"
       },
       {
         "id": "fresco-fc002w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc002w/fresco-fc002w_3.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc002w/fresco-fc002w_3.webp"
       },
       {
         "id": "fresco-fc002w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc002w/fresco-fc002w_4.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc002w/fresco-fc002w_4.webp"
       },
       {
         "id": "fresco-fc002w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc002w/fresco-fc002w_5.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc002w/fresco-fc002w_5.webp"
       },
       {
         "id": "fresco-fc002w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc002w/fresco-fc002w_6.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc002w/fresco-fc002w_6.webp"
       }
     ]
   },
@@ -161,37 +161,37 @@ export const frescoCollection: Category = {
         "id": "fresco-fc003w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc003w/fresco-fc003w_1.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc003w/fresco-fc003w_1.webp"
       },
       {
         "id": "fresco-fc003w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc003w/fresco-fc003w_2.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc003w/fresco-fc003w_2.webp"
       },
       {
         "id": "fresco-fc003w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc003w/fresco-fc003w_3.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc003w/fresco-fc003w_3.webp"
       },
       {
         "id": "fresco-fc003w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc003w/fresco-fc003w_4.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc003w/fresco-fc003w_4.webp"
       },
       {
         "id": "fresco-fc003w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc003w/fresco-fc003w_5.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc003w/fresco-fc003w_5.webp"
       },
       {
         "id": "fresco-fc003w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc003w/fresco-fc003w_6.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc003w/fresco-fc003w_6.webp"
       }
     ]
   },
@@ -208,37 +208,37 @@ export const frescoCollection: Category = {
         "id": "fresco-fc004w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc004w/fresco-fc004w_1.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc004w/fresco-fc004w_1.webp"
       },
       {
         "id": "fresco-fc004w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc004w/fresco-fc004w_2.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc004w/fresco-fc004w_2.webp"
       },
       {
         "id": "fresco-fc004w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc004w/fresco-fc004w_3.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc004w/fresco-fc004w_3.webp"
       },
       {
         "id": "fresco-fc004w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc004w/fresco-fc004w_4.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc004w/fresco-fc004w_4.webp"
       },
       {
         "id": "fresco-fc004w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc004w/fresco-fc004w_5.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc004w/fresco-fc004w_5.webp"
       },
       {
         "id": "fresco-fc004w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc004w/fresco-fc004w_6.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc004w/fresco-fc004w_6.webp"
       }
     ]
   },
@@ -255,37 +255,37 @@ export const frescoCollection: Category = {
         "id": "fresco-fc005g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc005g/fresco-fc005g_1.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc005g/fresco-fc005g_1.webp"
       },
       {
         "id": "fresco-fc005g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc005g/fresco-fc005g_2.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc005g/fresco-fc005g_2.webp"
       },
       {
         "id": "fresco-fc005g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc005g/fresco-fc005g_3.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc005g/fresco-fc005g_3.webp"
       },
       {
         "id": "fresco-fc005g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc005g/fresco-fc005g_4.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc005g/fresco-fc005g_4.webp"
       },
       {
         "id": "fresco-fc005g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc005g/fresco-fc005g_5.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc005g/fresco-fc005g_5.webp"
       },
       {
         "id": "fresco-fc005g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc005g/fresco-fc005g_6.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc005g/fresco-fc005g_6.webp"
       }
     ]
   },
@@ -302,37 +302,37 @@ export const frescoCollection: Category = {
         "id": "fresco-fc006g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc006g/fresco-fc006g_1.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc006g/fresco-fc006g_1.webp"
       },
       {
         "id": "fresco-fc006g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc006g/fresco-fc006g_2.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc006g/fresco-fc006g_2.webp"
       },
       {
         "id": "fresco-fc006g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc006g/fresco-fc006g_3.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc006g/fresco-fc006g_3.webp"
       },
       {
         "id": "fresco-fc006g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc006g/fresco-fc006g_4.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc006g/fresco-fc006g_4.webp"
       },
       {
         "id": "fresco-fc006g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc006g/fresco-fc006g_5.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc006g/fresco-fc006g_5.webp"
       },
       {
         "id": "fresco-fc006g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc006g/fresco-fc006g_6.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc006g/fresco-fc006g_6.webp"
       }
     ]
   },
@@ -349,37 +349,37 @@ export const frescoCollection: Category = {
         "id": "fresco-fc007g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc007g/fresco-fc007g_1.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc007g/fresco-fc007g_1.webp"
       },
       {
         "id": "fresco-fc007g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc007g/fresco-fc007g_2.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc007g/fresco-fc007g_2.webp"
       },
       {
         "id": "fresco-fc007g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc007g/fresco-fc007g_3.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc007g/fresco-fc007g_3.webp"
       },
       {
         "id": "fresco-fc007g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc007g/fresco-fc007g_4.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc007g/fresco-fc007g_4.webp"
       },
       {
         "id": "fresco-fc007g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc007g/fresco-fc007g_5.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc007g/fresco-fc007g_5.webp"
       },
       {
         "id": "fresco-fc007g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/fresco/fresco-fc007g/fresco-fc007g_6.jpg"
+        "imagePath": "/images/products/fresco/fresco-fc007g/fresco-fc007g_6.webp"
       }
     ]
   }

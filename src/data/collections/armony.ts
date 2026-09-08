@@ -17,31 +17,31 @@ export const armonyCollection: Category = {
         "id": "ar001a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar001a/ar001a_1.jpg"
+        "imagePath": "/images/products/armony/ar001a/ar001a_1.webp"
       },
       {
         "id": "ar001a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar001a/ar001a_2.jpg"
+        "imagePath": "/images/products/armony/ar001a/ar001a_2.webp"
       },
       {
         "id": "ar001a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar001a/ar001a_3.jpg"
+        "imagePath": "/images/products/armony/ar001a/ar001a_3.webp"
       },
       {
         "id": "ar001a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar001a/ar001a_4.jpg"
+        "imagePath": "/images/products/armony/ar001a/ar001a_4.webp"
       },
       {
         "id": "ar001a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar001a/ar001a_5.jpg"
+        "imagePath": "/images/products/armony/ar001a/ar001a_5.webp"
       }
     ]
   },
@@ -55,31 +55,31 @@ export const armonyCollection: Category = {
         "id": "ar002a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar002a/ar002a_1.jpg"
+        "imagePath": "/images/products/armony/ar002a/ar002a_1.webp"
       },
       {
         "id": "ar002a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar002a/ar002a_2.jpg"
+        "imagePath": "/images/products/armony/ar002a/ar002a_2.webp"
       },
       {
         "id": "ar002a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar002a/ar002a_3.jpg"
+        "imagePath": "/images/products/armony/ar002a/ar002a_3.webp"
       },
       {
         "id": "ar002a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar002a/ar002a_4.jpg"
+        "imagePath": "/images/products/armony/ar002a/ar002a_4.webp"
       },
       {
         "id": "ar002a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar002a/ar002a_5.jpg"
+        "imagePath": "/images/products/armony/ar002a/ar002a_5.webp"
       }
     ]
   },
@@ -93,7 +93,7 @@ export const armonyCollection: Category = {
         "id": "ar003a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar003a/ar003a_1.jpg"
+        "imagePath": "/images/products/armony/ar003a/ar003a_1.webp"
       }
     ]
   },
@@ -107,31 +107,31 @@ export const armonyCollection: Category = {
         "id": "ar005a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar005a/ar005a_1.jpg"
+        "imagePath": "/images/products/armony/ar005a/ar005a_1.webp"
       },
       {
         "id": "ar005a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar005a/ar005a_2.jpg"
+        "imagePath": "/images/products/armony/ar005a/ar005a_2.webp"
       },
       {
         "id": "ar005a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar005a/ar005a_3.jpg"
+        "imagePath": "/images/products/armony/ar005a/ar005a_3.webp"
       },
       {
         "id": "ar005a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar005a/ar005a_4.jpg"
+        "imagePath": "/images/products/armony/ar005a/ar005a_4.webp"
       },
       {
         "id": "ar005a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar005a/ar005a_5.jpg"
+        "imagePath": "/images/products/armony/ar005a/ar005a_5.webp"
       }
     ]
   },
@@ -145,7 +145,7 @@ export const armonyCollection: Category = {
         "id": "ar006a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar006a/ar006a_1.jpg"
+        "imagePath": "/images/products/armony/ar006a/ar006a_1.webp"
       }
     ]
   },
@@ -159,31 +159,31 @@ export const armonyCollection: Category = {
         "id": "ar007a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar007a/ar007a_1.jpg"
+        "imagePath": "/images/products/armony/ar007a/ar007a_1.webp"
       },
       {
         "id": "ar007a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar007a/ar007a_2.jpg"
+        "imagePath": "/images/products/armony/ar007a/ar007a_2.webp"
       },
       {
         "id": "ar007a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar007a/ar007a_3.jpg"
+        "imagePath": "/images/products/armony/ar007a/ar007a_3.webp"
       },
       {
         "id": "ar007a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar007a/ar007a_4.jpg"
+        "imagePath": "/images/products/armony/ar007a/ar007a_4.webp"
       },
       {
         "id": "ar007a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar007a/ar007a_5.jpg"
+        "imagePath": "/images/products/armony/ar007a/ar007a_5.webp"
       }
     ]
   },
@@ -197,31 +197,31 @@ export const armonyCollection: Category = {
         "id": "ar008a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar008a/ar008a_1.jpg"
+        "imagePath": "/images/products/armony/ar008a/ar008a_1.webp"
       },
       {
         "id": "ar008a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar008a/ar008a_2.jpg"
+        "imagePath": "/images/products/armony/ar008a/ar008a_2.webp"
       },
       {
         "id": "ar008a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar008a/ar008a_3.jpg"
+        "imagePath": "/images/products/armony/ar008a/ar008a_3.webp"
       },
       {
         "id": "ar008a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar008a/ar008a_4.jpg"
+        "imagePath": "/images/products/armony/ar008a/ar008a_4.webp"
       },
       {
         "id": "ar008a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar008a/ar008a_5.jpg"
+        "imagePath": "/images/products/armony/ar008a/ar008a_5.webp"
       }
     ]
   },
@@ -235,31 +235,31 @@ export const armonyCollection: Category = {
         "id": "ar009a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar009a/ar009a_1.jpg"
+        "imagePath": "/images/products/armony/ar009a/ar009a_1.webp"
       },
       {
         "id": "ar009a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar009a/ar009a_2.jpg"
+        "imagePath": "/images/products/armony/ar009a/ar009a_2.webp"
       },
       {
         "id": "ar009a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar009a/ar009a_3.jpg"
+        "imagePath": "/images/products/armony/ar009a/ar009a_3.webp"
       },
       {
         "id": "ar009a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar009a/ar009a_4.jpg"
+        "imagePath": "/images/products/armony/ar009a/ar009a_4.webp"
       },
       {
         "id": "ar009a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar009a/ar009a_5.jpg"
+        "imagePath": "/images/products/armony/ar009a/ar009a_5.webp"
       }
     ]
   },
@@ -273,31 +273,31 @@ export const armonyCollection: Category = {
         "id": "ar011a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar011a/ar011a_1.jpg"
+        "imagePath": "/images/products/armony/ar011a/ar011a_1.webp"
       },
       {
         "id": "ar011a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar011a/ar011a_2.jpg"
+        "imagePath": "/images/products/armony/ar011a/ar011a_2.webp"
       },
       {
         "id": "ar011a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar011a/ar011a_3.jpg"
+        "imagePath": "/images/products/armony/ar011a/ar011a_3.webp"
       },
       {
         "id": "ar011a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar011a/ar011a_4.jpg"
+        "imagePath": "/images/products/armony/ar011a/ar011a_4.webp"
       },
       {
         "id": "ar011a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar011a/ar011a_5.jpg"
+        "imagePath": "/images/products/armony/ar011a/ar011a_5.webp"
       }
     ]
   },
@@ -311,31 +311,31 @@ export const armonyCollection: Category = {
         "id": "ar012a-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar012a/ar012a_1.jpg"
+        "imagePath": "/images/products/armony/ar012a/ar012a_1.webp"
       },
       {
         "id": "ar012a-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar012a/ar012a_2.jpg"
+        "imagePath": "/images/products/armony/ar012a/ar012a_2.webp"
       },
       {
         "id": "ar012a-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar012a/ar012a_3.jpg"
+        "imagePath": "/images/products/armony/ar012a/ar012a_3.webp"
       },
       {
         "id": "ar012a-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar012a/ar012a_4.jpg"
+        "imagePath": "/images/products/armony/ar012a/ar012a_4.webp"
       },
       {
         "id": "ar012a-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar012a/ar012a_5.jpg"
+        "imagePath": "/images/products/armony/ar012a/ar012a_5.webp"
       }
     ]
   },
@@ -349,37 +349,37 @@ export const armonyCollection: Category = {
         "id": "ar013w-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar013w/ar013w_1.jpg"
+        "imagePath": "/images/products/armony/ar013w/ar013w_1.webp"
       },
       {
         "id": "ar013w-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar013w/ar013w_2.jpg"
+        "imagePath": "/images/products/armony/ar013w/ar013w_2.webp"
       },
       {
         "id": "ar013w-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar013w/ar013w_3.jpg"
+        "imagePath": "/images/products/armony/ar013w/ar013w_3.webp"
       },
       {
         "id": "ar013w-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar013w/ar013w_4.jpg"
+        "imagePath": "/images/products/armony/ar013w/ar013w_4.webp"
       },
       {
         "id": "ar013w-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar013w/ar013w_5.jpg"
+        "imagePath": "/images/products/armony/ar013w/ar013w_5.webp"
       },
       {
         "id": "ar013w-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar013w/ar013w_6.jpg"
+        "imagePath": "/images/products/armony/ar013w/ar013w_6.webp"
       }
     ]
   },
@@ -393,37 +393,37 @@ export const armonyCollection: Category = {
         "id": "ar014g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar014g/ar014g_1.jpg"
+        "imagePath": "/images/products/armony/ar014g/ar014g_1.webp"
       },
       {
         "id": "ar014g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar014g/ar014g_2.jpg"
+        "imagePath": "/images/products/armony/ar014g/ar014g_2.webp"
       },
       {
         "id": "ar014g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar014g/ar014g_3.jpg"
+        "imagePath": "/images/products/armony/ar014g/ar014g_3.webp"
       },
       {
         "id": "ar014g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar014g/ar014g_4.jpg"
+        "imagePath": "/images/products/armony/ar014g/ar014g_4.webp"
       },
       {
         "id": "ar014g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar014g/ar014g_5.jpg"
+        "imagePath": "/images/products/armony/ar014g/ar014g_5.webp"
       },
       {
         "id": "ar014g-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar014g/ar014g_6.jpg"
+        "imagePath": "/images/products/armony/ar014g/ar014g_6.webp"
       }
     ]
   },
@@ -437,37 +437,37 @@ export const armonyCollection: Category = {
         "id": "ar015k-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar015k/ar015k_1.jpg"
+        "imagePath": "/images/products/armony/ar015k/ar015k_1.webp"
       },
       {
         "id": "ar015k-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar015k/ar015k_2.jpg"
+        "imagePath": "/images/products/armony/ar015k/ar015k_2.webp"
       },
       {
         "id": "ar015k-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar015k/ar015k_3.jpg"
+        "imagePath": "/images/products/armony/ar015k/ar015k_3.webp"
       },
       {
         "id": "ar015k-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar015k/ar015k_4.jpg"
+        "imagePath": "/images/products/armony/ar015k/ar015k_4.webp"
       },
       {
         "id": "ar015k-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar015k/ar015k_5.jpg"
+        "imagePath": "/images/products/armony/ar015k/ar015k_5.webp"
       },
       {
         "id": "ar015k-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar015k/ar015k_6.jpg"
+        "imagePath": "/images/products/armony/ar015k/ar015k_6.webp"
       }
     ]
   },
@@ -481,37 +481,37 @@ export const armonyCollection: Category = {
         "id": "ar016g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar016g/ar016g_1.jpg"
+        "imagePath": "/images/products/armony/ar016g/ar016g_1.webp"
       },
       {
         "id": "ar016g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar016g/ar016g_2.jpg"
+        "imagePath": "/images/products/armony/ar016g/ar016g_2.webp"
       },
       {
         "id": "ar016g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar016g/ar016g_3.jpg"
+        "imagePath": "/images/products/armony/ar016g/ar016g_3.webp"
       },
       {
         "id": "ar016g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar016g/ar016g_4.jpg"
+        "imagePath": "/images/products/armony/ar016g/ar016g_4.webp"
       },
       {
         "id": "ar016g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar016g/ar016g_5.jpg"
+        "imagePath": "/images/products/armony/ar016g/ar016g_5.webp"
       },
       {
         "id": "ar016g-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar016g/ar016g_6.jpg"
+        "imagePath": "/images/products/armony/ar016g/ar016g_6.webp"
       }
     ]
   },
@@ -525,37 +525,37 @@ export const armonyCollection: Category = {
         "id": "ar017g-v1",
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar017g/ar017g_1.jpg"
+        "imagePath": "/images/products/armony/ar017g/ar017g_1.webp"
       },
       {
         "id": "ar017g-v2",
         "colorName": "Açı 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar017g/ar017g_2.jpg"
+        "imagePath": "/images/products/armony/ar017g/ar017g_2.webp"
       },
       {
         "id": "ar017g-v3",
         "colorName": "Açı 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar017g/ar017g_3.jpg"
+        "imagePath": "/images/products/armony/ar017g/ar017g_3.webp"
       },
       {
         "id": "ar017g-v4",
         "colorName": "Açı 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar017g/ar017g_4.jpg"
+        "imagePath": "/images/products/armony/ar017g/ar017g_4.webp"
       },
       {
         "id": "ar017g-v5",
         "colorName": "Açı 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar017g/ar017g_5.jpg"
+        "imagePath": "/images/products/armony/ar017g/ar017g_5.webp"
       },
       {
         "id": "ar017g-v6",
         "colorName": "Açı 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar017g/ar017g_6.jpg"
+        "imagePath": "/images/products/armony/ar017g/ar017g_6.webp"
       }
     ]
   }

@@ -20,37 +20,37 @@ export const lookmodernCollection: Category = {
         "id": "look-modern-lm001g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm001g/look-modern-lm001g_1.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm001g/look-modern-lm001g_1.webp"
       },
       {
         "id": "look-modern-lm001g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm001g/look-modern-lm001g_2.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm001g/look-modern-lm001g_2.webp"
       },
       {
         "id": "look-modern-lm001g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm001g/look-modern-lm001g_3.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm001g/look-modern-lm001g_3.webp"
       },
       {
         "id": "look-modern-lm001g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm001g/look-modern-lm001g_4.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm001g/look-modern-lm001g_4.webp"
       },
       {
         "id": "look-modern-lm001g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm001g/look-modern-lm001g_5.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm001g/look-modern-lm001g_5.webp"
       },
       {
         "id": "look-modern-lm001g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm001g/look-modern-lm001g_6.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm001g/look-modern-lm001g_6.webp"
       }
     ]
   },
@@ -67,37 +67,37 @@ export const lookmodernCollection: Category = {
         "id": "look-modern-lm002b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm002b/look-modern-lm002b_1.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm002b/look-modern-lm002b_1.webp"
       },
       {
         "id": "look-modern-lm002b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm002b/look-modern-lm002b_2.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm002b/look-modern-lm002b_2.webp"
       },
       {
         "id": "look-modern-lm002b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm002b/look-modern-lm002b_3.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm002b/look-modern-lm002b_3.webp"
       },
       {
         "id": "look-modern-lm002b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm002b/look-modern-lm002b_4.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm002b/look-modern-lm002b_4.webp"
       },
       {
         "id": "look-modern-lm002b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm002b/look-modern-lm002b_5.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm002b/look-modern-lm002b_5.webp"
       },
       {
         "id": "look-modern-lm002b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm002b/look-modern-lm002b_6.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm002b/look-modern-lm002b_6.webp"
       }
     ]
   },
@@ -114,37 +114,37 @@ export const lookmodernCollection: Category = {
         "id": "look-modern-lm003g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm003g/look-modern-lm003g_1.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm003g/look-modern-lm003g_1.webp"
       },
       {
         "id": "look-modern-lm003g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm003g/look-modern-lm003g_2.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm003g/look-modern-lm003g_2.webp"
       },
       {
         "id": "look-modern-lm003g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm003g/look-modern-lm003g_3.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm003g/look-modern-lm003g_3.webp"
       },
       {
         "id": "look-modern-lm003g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm003g/look-modern-lm003g_4.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm003g/look-modern-lm003g_4.webp"
       },
       {
         "id": "look-modern-lm003g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm003g/look-modern-lm003g_5.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm003g/look-modern-lm003g_5.webp"
       },
       {
         "id": "look-modern-lm003g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm003g/look-modern-lm003g_6.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm003g/look-modern-lm003g_6.webp"
       }
     ]
   },
@@ -161,37 +161,37 @@ export const lookmodernCollection: Category = {
         "id": "look-modern-lm004b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm004b/look-modern-lm004b_1.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm004b/look-modern-lm004b_1.webp"
       },
       {
         "id": "look-modern-lm004b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm004b/look-modern-lm004b_2.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm004b/look-modern-lm004b_2.webp"
       },
       {
         "id": "look-modern-lm004b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm004b/look-modern-lm004b_3.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm004b/look-modern-lm004b_3.webp"
       },
       {
         "id": "look-modern-lm004b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm004b/look-modern-lm004b_4.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm004b/look-modern-lm004b_4.webp"
       },
       {
         "id": "look-modern-lm004b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm004b/look-modern-lm004b_5.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm004b/look-modern-lm004b_5.webp"
       },
       {
         "id": "look-modern-lm004b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm004b/look-modern-lm004b_6.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm004b/look-modern-lm004b_6.webp"
       }
     ]
   },
@@ -208,37 +208,37 @@ export const lookmodernCollection: Category = {
         "id": "look-modern-lm005g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm005g/look-modern-lm005g_1.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm005g/look-modern-lm005g_1.webp"
       },
       {
         "id": "look-modern-lm005g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm005g/look-modern-lm005g_2.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm005g/look-modern-lm005g_2.webp"
       },
       {
         "id": "look-modern-lm005g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm005g/look-modern-lm005g_3.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm005g/look-modern-lm005g_3.webp"
       },
       {
         "id": "look-modern-lm005g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm005g/look-modern-lm005g_4.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm005g/look-modern-lm005g_4.webp"
       },
       {
         "id": "look-modern-lm005g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm005g/look-modern-lm005g_5.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm005g/look-modern-lm005g_5.webp"
       },
       {
         "id": "look-modern-lm005g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm005g/look-modern-lm005g_6.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm005g/look-modern-lm005g_6.webp"
       }
     ]
   },
@@ -255,37 +255,37 @@ export const lookmodernCollection: Category = {
         "id": "look-modern-lm005w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm005w/look-modern-lm005w_1.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm005w/look-modern-lm005w_1.webp"
       },
       {
         "id": "look-modern-lm005w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm005w/look-modern-lm005w_2.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm005w/look-modern-lm005w_2.webp"
       },
       {
         "id": "look-modern-lm005w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm005w/look-modern-lm005w_3.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm005w/look-modern-lm005w_3.webp"
       },
       {
         "id": "look-modern-lm005w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm005w/look-modern-lm005w_4.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm005w/look-modern-lm005w_4.webp"
       },
       {
         "id": "look-modern-lm005w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm005w/look-modern-lm005w_5.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm005w/look-modern-lm005w_5.webp"
       },
       {
         "id": "look-modern-lm005w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/look-modern/look-modern-lm005w/look-modern-lm005w_6.jpg"
+        "imagePath": "/images/products/look-modern/look-modern-lm005w/look-modern-lm005w_6.webp"
       }
     ]
   }

@@ -5,7 +5,7 @@ export const effectCollection: Category = {
   title: "EFFECT Serisi",
   description: "80-100-120-160-200 Ebatlarında Rulo Kesim",
   brand: 'saten',
-  coverImage: "/images/products/effect/ef008a/ef008a_1.jpg",
+  coverImage: "/images/products/effect/ef008a/ef008a_1.webp",
   products: [
     {
       "id": "ef001a",
@@ -17,31 +17,31 @@ export const effectCollection: Category = {
           "id": "ef001a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef001a/ef001a_1.jpg"
+          "imagePath": "/images/products/effect/ef001a/ef001a_1.webp"
         },
         {
           "id": "ef001a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef001a/ef001a_2.jpg"
+          "imagePath": "/images/products/effect/ef001a/ef001a_2.webp"
         },
         {
           "id": "ef001a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef001a/ef001a_3.jpg"
+          "imagePath": "/images/products/effect/ef001a/ef001a_3.webp"
         },
         {
           "id": "ef001a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef001a/ef001a_4.jpg"
+          "imagePath": "/images/products/effect/ef001a/ef001a_4.webp"
         },
         {
           "id": "ef001a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef001a/ef001a_5.jpg"
+          "imagePath": "/images/products/effect/ef001a/ef001a_5.webp"
         }
       ]
     },
@@ -55,31 +55,31 @@ export const effectCollection: Category = {
           "id": "ef002a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef002a/ef002a_1.jpg"
+          "imagePath": "/images/products/effect/ef002a/ef002a_1.webp"
         },
         {
           "id": "ef002a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef002a/ef002a_2.jpg"
+          "imagePath": "/images/products/effect/ef002a/ef002a_2.webp"
         },
         {
           "id": "ef002a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef002a/ef002a_3.jpg"
+          "imagePath": "/images/products/effect/ef002a/ef002a_3.webp"
         },
         {
           "id": "ef002a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef002a/ef002a_4.jpg"
+          "imagePath": "/images/products/effect/ef002a/ef002a_4.webp"
         },
         {
           "id": "ef002a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef002a/ef002a_5.jpg"
+          "imagePath": "/images/products/effect/ef002a/ef002a_5.webp"
         }
       ]
     },
@@ -93,31 +93,31 @@ export const effectCollection: Category = {
           "id": "ef003a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef003a/ef003a_1.jpg"
+          "imagePath": "/images/products/effect/ef003a/ef003a_1.webp"
         },
         {
           "id": "ef003a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef003a/ef003a_2.jpg"
+          "imagePath": "/images/products/effect/ef003a/ef003a_2.webp"
         },
         {
           "id": "ef003a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef003a/ef003a_3.jpg"
+          "imagePath": "/images/products/effect/ef003a/ef003a_3.webp"
         },
         {
           "id": "ef003a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef003a/ef003a_4.jpg"
+          "imagePath": "/images/products/effect/ef003a/ef003a_4.webp"
         },
         {
           "id": "ef003a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef003a/ef003a_5.jpg"
+          "imagePath": "/images/products/effect/ef003a/ef003a_5.webp"
         }
       ]
     },
@@ -131,31 +131,31 @@ export const effectCollection: Category = {
           "id": "ef005a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef005a/ef005a_1.jpg"
+          "imagePath": "/images/products/effect/ef005a/ef005a_1.webp"
         },
         {
           "id": "ef005a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef005a/ef005a_2.jpg"
+          "imagePath": "/images/products/effect/ef005a/ef005a_2.webp"
         },
         {
           "id": "ef005a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef005a/ef005a_3.jpg"
+          "imagePath": "/images/products/effect/ef005a/ef005a_3.webp"
         },
         {
           "id": "ef005a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef005a/ef005a_4.jpg"
+          "imagePath": "/images/products/effect/ef005a/ef005a_4.webp"
         },
         {
           "id": "ef005a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef005a/ef005a_5.jpg"
+          "imagePath": "/images/products/effect/ef005a/ef005a_5.webp"
         }
       ]
     },
@@ -169,37 +169,37 @@ export const effectCollection: Category = {
           "id": "ef007a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef007a/ef007a_1.jpg"
+          "imagePath": "/images/products/effect/ef007a/ef007a_1.webp"
         },
         {
           "id": "ef007a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef007a/ef007a_2.jpg"
+          "imagePath": "/images/products/effect/ef007a/ef007a_2.webp"
         },
         {
           "id": "ef007a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef007a/ef007a_3.jpg"
+          "imagePath": "/images/products/effect/ef007a/ef007a_3.webp"
         },
         {
           "id": "ef007a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef007a/ef007a_4.jpg"
+          "imagePath": "/images/products/effect/ef007a/ef007a_4.webp"
         },
         {
           "id": "ef007a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef007a/ef007a_5.jpg"
+          "imagePath": "/images/products/effect/ef007a/ef007a_5.webp"
         },
         {
           "id": "ef007a-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef007a/ef007a_6.jpg"
+          "imagePath": "/images/products/effect/ef007a/ef007a_6.webp"
         }
       ]
     },
@@ -213,37 +213,37 @@ export const effectCollection: Category = {
           "id": "ef008a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef008a/ef008a_1.jpg"
+          "imagePath": "/images/products/effect/ef008a/ef008a_1.webp"
         },
         {
           "id": "ef008a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef008a/ef008a_2.jpg"
+          "imagePath": "/images/products/effect/ef008a/ef008a_2.webp"
         },
         {
           "id": "ef008a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef008a/ef008a_3.jpg"
+          "imagePath": "/images/products/effect/ef008a/ef008a_3.webp"
         },
         {
           "id": "ef008a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef008a/ef008a_4.jpg"
+          "imagePath": "/images/products/effect/ef008a/ef008a_4.webp"
         },
         {
           "id": "ef008a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef008a/ef008a_5.jpg"
+          "imagePath": "/images/products/effect/ef008a/ef008a_5.webp"
         },
         {
           "id": "ef008a-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef008a/ef008a_6.jpg"
+          "imagePath": "/images/products/effect/ef008a/ef008a_6.webp"
         }
       ]
     },
@@ -257,37 +257,37 @@ export const effectCollection: Category = {
           "id": "ef009a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef009a/ef009a_1.jpg"
+          "imagePath": "/images/products/effect/ef009a/ef009a_1.webp"
         },
         {
           "id": "ef009a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef009a/ef009a_2.jpg"
+          "imagePath": "/images/products/effect/ef009a/ef009a_2.webp"
         },
         {
           "id": "ef009a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef009a/ef009a_3.jpg"
+          "imagePath": "/images/products/effect/ef009a/ef009a_3.webp"
         },
         {
           "id": "ef009a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef009a/ef009a_4.jpg"
+          "imagePath": "/images/products/effect/ef009a/ef009a_4.webp"
         },
         {
           "id": "ef009a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef009a/ef009a_5.jpg"
+          "imagePath": "/images/products/effect/ef009a/ef009a_5.webp"
         },
         {
           "id": "ef009a-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef009a/ef009a_6.jpg"
+          "imagePath": "/images/products/effect/ef009a/ef009a_6.webp"
         }
       ]
     },
@@ -301,37 +301,37 @@ export const effectCollection: Category = {
           "id": "ef010a-v1",
           "colorName": "Açı 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef010a/ef010a_1.jpg"
+          "imagePath": "/images/products/effect/ef010a/ef010a_1.webp"
         },
         {
           "id": "ef010a-v2",
           "colorName": "Açı 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef010a/ef010a_2.jpg"
+          "imagePath": "/images/products/effect/ef010a/ef010a_2.webp"
         },
         {
           "id": "ef010a-v3",
           "colorName": "Açı 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef010a/ef010a_3.jpg"
+          "imagePath": "/images/products/effect/ef010a/ef010a_3.webp"
         },
         {
           "id": "ef010a-v4",
           "colorName": "Açı 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef010a/ef010a_4.jpg"
+          "imagePath": "/images/products/effect/ef010a/ef010a_4.webp"
         },
         {
           "id": "ef010a-v5",
           "colorName": "Açı 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef010a/ef010a_5.jpg"
+          "imagePath": "/images/products/effect/ef010a/ef010a_5.webp"
         },
         {
           "id": "ef010a-v6",
           "colorName": "Açı 6",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/effect/ef010a/ef010a_6.jpg"
+          "imagePath": "/images/products/effect/ef010a/ef010a_6.webp"
         }
       ]
     }

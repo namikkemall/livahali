@@ -20,37 +20,37 @@ export const decorCollection: Category = {
         "id": "decor-dc001b-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc001b/decor-dc001b_1.jpg"
+        "imagePath": "/images/products/decor/decor-dc001b/decor-dc001b_1.webp"
       },
       {
         "id": "decor-dc001b-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc001b/decor-dc001b_2.jpg"
+        "imagePath": "/images/products/decor/decor-dc001b/decor-dc001b_2.webp"
       },
       {
         "id": "decor-dc001b-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc001b/decor-dc001b_3.jpg"
+        "imagePath": "/images/products/decor/decor-dc001b/decor-dc001b_3.webp"
       },
       {
         "id": "decor-dc001b-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc001b/decor-dc001b_4.jpg"
+        "imagePath": "/images/products/decor/decor-dc001b/decor-dc001b_4.webp"
       },
       {
         "id": "decor-dc001b-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc001b/decor-dc001b_5.jpg"
+        "imagePath": "/images/products/decor/decor-dc001b/decor-dc001b_5.webp"
       },
       {
         "id": "decor-dc001b-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc001b/decor-dc001b_6.jpg"
+        "imagePath": "/images/products/decor/decor-dc001b/decor-dc001b_6.webp"
       }
     ]
   },
@@ -67,37 +67,37 @@ export const decorCollection: Category = {
         "id": "decor-dc002w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc002w/decor-dc002w_1.jpg"
+        "imagePath": "/images/products/decor/decor-dc002w/decor-dc002w_1.webp"
       },
       {
         "id": "decor-dc002w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc002w/decor-dc002w_2.jpg"
+        "imagePath": "/images/products/decor/decor-dc002w/decor-dc002w_2.webp"
       },
       {
         "id": "decor-dc002w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc002w/decor-dc002w_3.jpg"
+        "imagePath": "/images/products/decor/decor-dc002w/decor-dc002w_3.webp"
       },
       {
         "id": "decor-dc002w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc002w/decor-dc002w_4.jpg"
+        "imagePath": "/images/products/decor/decor-dc002w/decor-dc002w_4.webp"
       },
       {
         "id": "decor-dc002w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc002w/decor-dc002w_5.jpg"
+        "imagePath": "/images/products/decor/decor-dc002w/decor-dc002w_5.webp"
       },
       {
         "id": "decor-dc002w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc002w/decor-dc002w_6.jpg"
+        "imagePath": "/images/products/decor/decor-dc002w/decor-dc002w_6.webp"
       }
     ]
   },
@@ -114,37 +114,37 @@ export const decorCollection: Category = {
         "id": "decor-dc003g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc003g/decor-dc003g_1.jpg"
+        "imagePath": "/images/products/decor/decor-dc003g/decor-dc003g_1.webp"
       },
       {
         "id": "decor-dc003g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc003g/decor-dc003g_2.jpg"
+        "imagePath": "/images/products/decor/decor-dc003g/decor-dc003g_2.webp"
       },
       {
         "id": "decor-dc003g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc003g/decor-dc003g_3.jpg"
+        "imagePath": "/images/products/decor/decor-dc003g/decor-dc003g_3.webp"
       },
       {
         "id": "decor-dc003g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc003g/decor-dc003g_4.jpg"
+        "imagePath": "/images/products/decor/decor-dc003g/decor-dc003g_4.webp"
       },
       {
         "id": "decor-dc003g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc003g/decor-dc003g_5.jpg"
+        "imagePath": "/images/products/decor/decor-dc003g/decor-dc003g_5.webp"
       },
       {
         "id": "decor-dc003g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc003g/decor-dc003g_6.jpg"
+        "imagePath": "/images/products/decor/decor-dc003g/decor-dc003g_6.webp"
       }
     ]
   },
@@ -161,37 +161,37 @@ export const decorCollection: Category = {
         "id": "decor-dc004r-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc004r/decor-dc004r_1.jpg"
+        "imagePath": "/images/products/decor/decor-dc004r/decor-dc004r_1.webp"
       },
       {
         "id": "decor-dc004r-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc004r/decor-dc004r_2.jpg"
+        "imagePath": "/images/products/decor/decor-dc004r/decor-dc004r_2.webp"
       },
       {
         "id": "decor-dc004r-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc004r/decor-dc004r_3.jpg"
+        "imagePath": "/images/products/decor/decor-dc004r/decor-dc004r_3.webp"
       },
       {
         "id": "decor-dc004r-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc004r/decor-dc004r_4.jpg"
+        "imagePath": "/images/products/decor/decor-dc004r/decor-dc004r_4.webp"
       },
       {
         "id": "decor-dc004r-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc004r/decor-dc004r_5.jpg"
+        "imagePath": "/images/products/decor/decor-dc004r/decor-dc004r_5.webp"
       },
       {
         "id": "decor-dc004r-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc004r/decor-dc004r_6.jpg"
+        "imagePath": "/images/products/decor/decor-dc004r/decor-dc004r_6.webp"
       }
     ]
   },
@@ -208,37 +208,37 @@ export const decorCollection: Category = {
         "id": "decor-dc005z-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc005z/decor-dc005z_1.jpg"
+        "imagePath": "/images/products/decor/decor-dc005z/decor-dc005z_1.webp"
       },
       {
         "id": "decor-dc005z-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc005z/decor-dc005z_2.jpg"
+        "imagePath": "/images/products/decor/decor-dc005z/decor-dc005z_2.webp"
       },
       {
         "id": "decor-dc005z-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc005z/decor-dc005z_3.jpg"
+        "imagePath": "/images/products/decor/decor-dc005z/decor-dc005z_3.webp"
       },
       {
         "id": "decor-dc005z-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc005z/decor-dc005z_4.jpg"
+        "imagePath": "/images/products/decor/decor-dc005z/decor-dc005z_4.webp"
       },
       {
         "id": "decor-dc005z-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc005z/decor-dc005z_5.jpg"
+        "imagePath": "/images/products/decor/decor-dc005z/decor-dc005z_5.webp"
       },
       {
         "id": "decor-dc005z-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/decor/decor-dc005z/decor-dc005z_6.jpg"
+        "imagePath": "/images/products/decor/decor-dc005z/decor-dc005z_6.webp"
       }
     ]
   }

@@ -20,43 +20,43 @@ export const kaftanCollection: Category = {
         "id": "kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_1.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_1.webp"
       },
       {
         "id": "kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_2.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_2.webp"
       },
       {
         "id": "kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_3.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_3.webp"
       },
       {
         "id": "kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_4.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_4.webp"
       },
       {
         "id": "kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_5.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_5.webp"
       },
       {
         "id": "kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_6.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_6.webp"
       },
       {
         "id": "kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_7.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf004g-gri-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_7.webp"
       }
     ]
   },
@@ -73,43 +73,43 @@ export const kaftanCollection: Category = {
         "id": "kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_1.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_1.webp"
       },
       {
         "id": "kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_2.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_2.webp"
       },
       {
         "id": "kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_3.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_3.webp"
       },
       {
         "id": "kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_4.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_4.webp"
       },
       {
         "id": "kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_5.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_5.webp"
       },
       {
         "id": "kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_6.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_6.webp"
       },
       {
         "id": "kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_7.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor/kaftan-kf005g-bej-hali-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-halisi-koridor_7.webp"
       }
     ]
   },
@@ -126,43 +126,43 @@ export const kaftanCollection: Category = {
         "id": "kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_1.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_1.webp"
       },
       {
         "id": "kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_2.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_2.webp"
       },
       {
         "id": "kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_3.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_3.webp"
       },
       {
         "id": "kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_4.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_4.webp"
       },
       {
         "id": "kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_5.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_5.webp"
       },
       {
         "id": "kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_6.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_6.webp"
       },
       {
         "id": "kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_7.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi/kaftan-kf006g-bej-hali-gri-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi_7.webp"
       }
     ]
   },
@@ -179,43 +179,43 @@ export const kaftanCollection: Category = {
         "id": "kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_1.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_1.webp"
       },
       {
         "id": "kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_2.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_2.webp"
       },
       {
         "id": "kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_3.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_3.webp"
       },
       {
         "id": "kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_4.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_4.webp"
       },
       {
         "id": "kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_5.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_5.webp"
       },
       {
         "id": "kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_6.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_6.webp"
       },
       {
         "id": "kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_7.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi/kaftan-kf007b-bej-hali-geometrik-kabartma-desenli-akrilik-hali-tozuaz-salon-halisi-yatak-odasi_7.webp"
       }
     ]
   },
@@ -232,43 +232,43 @@ export const kaftanCollection: Category = {
         "id": "kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_1.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_1.webp"
       },
       {
         "id": "kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_2.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_2.webp"
       },
       {
         "id": "kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_3.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_3.webp"
       },
       {
         "id": "kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_4.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_4.webp"
       },
       {
         "id": "kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_5.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_5.webp"
       },
       {
         "id": "kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_6.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_6.webp"
       },
       {
         "id": "kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_7.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz/kaftan-kf008a-bej-hali-kahverengi-detayli-geometrik-kabartma-desenli-akrilik-hali-tozuaz_7.webp"
       }
     ]
   },
@@ -285,37 +285,37 @@ export const kaftanCollection: Category = {
         "id": "kaftan-kf002a-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf002a/kaftan-kf002a_1.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf002a/kaftan-kf002a_1.webp"
       },
       {
         "id": "kaftan-kf002a-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf002a/kaftan-kf002a_2.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf002a/kaftan-kf002a_2.webp"
       },
       {
         "id": "kaftan-kf002a-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf002a/kaftan-kf002a_3.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf002a/kaftan-kf002a_3.webp"
       },
       {
         "id": "kaftan-kf002a-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf002a/kaftan-kf002a_4.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf002a/kaftan-kf002a_4.webp"
       },
       {
         "id": "kaftan-kf002a-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf002a/kaftan-kf002a_5.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf002a/kaftan-kf002a_5.webp"
       },
       {
         "id": "kaftan-kf002a-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/kaftan/kaftan-kf002a/kaftan-kf002a_6.jpg"
+        "imagePath": "/images/products/kaftan/kaftan-kf002a/kaftan-kf002a_6.webp"
       }
     ]
   }

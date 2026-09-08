@@ -20,43 +20,43 @@ export const loopCollection: Category = {
         "id": "loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_1.jpg"
+        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_1.webp"
       },
       {
         "id": "loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_2.jpg"
+        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_2.webp"
       },
       {
         "id": "loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_3.jpg"
+        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_3.webp"
       },
       {
         "id": "loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_4.jpg"
+        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_4.webp"
       },
       {
         "id": "loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_5.jpg"
+        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_5.webp"
       },
       {
         "id": "loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_6.jpg"
+        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_6.webp"
       },
       {
         "id": "loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_7.jpg"
+        "imagePath": "/images/products/loop/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp001a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_7.webp"
       }
     ]
   },
@@ -73,43 +73,43 @@ export const loopCollection: Category = {
         "id": "loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_1.jpg"
+        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_1.webp"
       },
       {
         "id": "loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_2.jpg"
+        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_2.webp"
       },
       {
         "id": "loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_3.jpg"
+        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_3.webp"
       },
       {
         "id": "loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_4.jpg"
+        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_4.webp"
       },
       {
         "id": "loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_5.jpg"
+        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_5.webp"
       },
       {
         "id": "loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_6.jpg"
+        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_6.webp"
       },
       {
         "id": "loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_7.jpg"
+        "imagePath": "/images/products/loop/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav/loop-lp005a-bej-hali-dekoratif-sisal-bukle-tozsuz-antialerjik-modern-salon-halisi-koridor-iskandinav_7.webp"
       }
     ]
   },
@@ -126,43 +126,43 @@ export const loopCollection: Category = {
         "id": "loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_1.jpg"
+        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_1.webp"
       },
       {
         "id": "loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_2.jpg"
+        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_2.webp"
       },
       {
         "id": "loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_3.jpg"
+        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_3.webp"
       },
       {
         "id": "loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_4.jpg"
+        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_4.webp"
       },
       {
         "id": "loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_5.jpg"
+        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_5.webp"
       },
       {
         "id": "loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_6.jpg"
+        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_6.webp"
       },
       {
         "id": "loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_7.jpg"
+        "imagePath": "/images/products/loop/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi/loop-lp006a-bej-hali-dekoratif-sisal-bukle-tozsuz-modern-salon-halisi-yatak-odasi-halisi_7.webp"
       }
     ]
   },
@@ -179,37 +179,37 @@ export const loopCollection: Category = {
         "id": "loop-lp023g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp023g/loop-lp023g_1.jpg"
+        "imagePath": "/images/products/loop/loop-lp023g/loop-lp023g_1.webp"
       },
       {
         "id": "loop-lp023g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp023g/loop-lp023g_2.jpg"
+        "imagePath": "/images/products/loop/loop-lp023g/loop-lp023g_2.webp"
       },
       {
         "id": "loop-lp023g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp023g/loop-lp023g_3.jpg"
+        "imagePath": "/images/products/loop/loop-lp023g/loop-lp023g_3.webp"
       },
       {
         "id": "loop-lp023g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp023g/loop-lp023g_4.jpg"
+        "imagePath": "/images/products/loop/loop-lp023g/loop-lp023g_4.webp"
       },
       {
         "id": "loop-lp023g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp023g/loop-lp023g_5.jpg"
+        "imagePath": "/images/products/loop/loop-lp023g/loop-lp023g_5.webp"
       },
       {
         "id": "loop-lp023g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp023g/loop-lp023g_6.jpg"
+        "imagePath": "/images/products/loop/loop-lp023g/loop-lp023g_6.webp"
       }
     ]
   },
@@ -226,37 +226,37 @@ export const loopCollection: Category = {
         "id": "loop-lp023w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp023w/loop-lp023w_1.jpg"
+        "imagePath": "/images/products/loop/loop-lp023w/loop-lp023w_1.webp"
       },
       {
         "id": "loop-lp023w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp023w/loop-lp023w_2.jpg"
+        "imagePath": "/images/products/loop/loop-lp023w/loop-lp023w_2.webp"
       },
       {
         "id": "loop-lp023w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp023w/loop-lp023w_3.jpg"
+        "imagePath": "/images/products/loop/loop-lp023w/loop-lp023w_3.webp"
       },
       {
         "id": "loop-lp023w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp023w/loop-lp023w_4.jpg"
+        "imagePath": "/images/products/loop/loop-lp023w/loop-lp023w_4.webp"
       },
       {
         "id": "loop-lp023w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp023w/loop-lp023w_5.jpg"
+        "imagePath": "/images/products/loop/loop-lp023w/loop-lp023w_5.webp"
       },
       {
         "id": "loop-lp023w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp023w/loop-lp023w_6.jpg"
+        "imagePath": "/images/products/loop/loop-lp023w/loop-lp023w_6.webp"
       }
     ]
   },
@@ -273,37 +273,37 @@ export const loopCollection: Category = {
         "id": "loop-lp024g-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp024g/loop-lp024g_1.jpg"
+        "imagePath": "/images/products/loop/loop-lp024g/loop-lp024g_1.webp"
       },
       {
         "id": "loop-lp024g-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp024g/loop-lp024g_2.jpg"
+        "imagePath": "/images/products/loop/loop-lp024g/loop-lp024g_2.webp"
       },
       {
         "id": "loop-lp024g-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp024g/loop-lp024g_3.jpg"
+        "imagePath": "/images/products/loop/loop-lp024g/loop-lp024g_3.webp"
       },
       {
         "id": "loop-lp024g-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp024g/loop-lp024g_4.jpg"
+        "imagePath": "/images/products/loop/loop-lp024g/loop-lp024g_4.webp"
       },
       {
         "id": "loop-lp024g-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp024g/loop-lp024g_5.jpg"
+        "imagePath": "/images/products/loop/loop-lp024g/loop-lp024g_5.webp"
       },
       {
         "id": "loop-lp024g-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp024g/loop-lp024g_6.jpg"
+        "imagePath": "/images/products/loop/loop-lp024g/loop-lp024g_6.webp"
       }
     ]
   },
@@ -320,37 +320,37 @@ export const loopCollection: Category = {
         "id": "loop-lp024w-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp024w/loop-lp024w_1.jpg"
+        "imagePath": "/images/products/loop/loop-lp024w/loop-lp024w_1.webp"
       },
       {
         "id": "loop-lp024w-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp024w/loop-lp024w_2.jpg"
+        "imagePath": "/images/products/loop/loop-lp024w/loop-lp024w_2.webp"
       },
       {
         "id": "loop-lp024w-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp024w/loop-lp024w_3.jpg"
+        "imagePath": "/images/products/loop/loop-lp024w/loop-lp024w_3.webp"
       },
       {
         "id": "loop-lp024w-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp024w/loop-lp024w_4.jpg"
+        "imagePath": "/images/products/loop/loop-lp024w/loop-lp024w_4.webp"
       },
       {
         "id": "loop-lp024w-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp024w/loop-lp024w_5.jpg"
+        "imagePath": "/images/products/loop/loop-lp024w/loop-lp024w_5.webp"
       },
       {
         "id": "loop-lp024w-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp024w/loop-lp024w_6.jpg"
+        "imagePath": "/images/products/loop/loop-lp024w/loop-lp024w_6.webp"
       }
     ]
   },
@@ -367,37 +367,37 @@ export const loopCollection: Category = {
         "id": "loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav_1.jpg"
+        "imagePath": "/images/products/loop/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav_1.webp"
       },
       {
         "id": "loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav_2.jpg"
+        "imagePath": "/images/products/loop/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav_2.webp"
       },
       {
         "id": "loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav_3.jpg"
+        "imagePath": "/images/products/loop/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav_3.webp"
       },
       {
         "id": "loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav_4.jpg"
+        "imagePath": "/images/products/loop/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav_4.webp"
       },
       {
         "id": "loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav_5.jpg"
+        "imagePath": "/images/products/loop/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav_5.webp"
       },
       {
         "id": "loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav_6.jpg"
+        "imagePath": "/images/products/loop/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav/loop-lp002a-gri-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-iskandinav_6.webp"
       }
     ]
   },
@@ -414,43 +414,43 @@ export const loopCollection: Category = {
         "id": "loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v1",
         "colorName": "Görsel 1",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_1.jpg"
+        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_1.webp"
       },
       {
         "id": "loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v2",
         "colorName": "Görsel 2",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_2.jpg"
+        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_2.webp"
       },
       {
         "id": "loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v3",
         "colorName": "Görsel 3",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_3.jpg"
+        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_3.webp"
       },
       {
         "id": "loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v4",
         "colorName": "Görsel 4",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_4.jpg"
+        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_4.webp"
       },
       {
         "id": "loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v5",
         "colorName": "Görsel 5",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_5.jpg"
+        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_5.webp"
       },
       {
         "id": "loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v6",
         "colorName": "Görsel 6",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_6.jpg"
+        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_6.webp"
       },
       {
         "id": "loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor-v7",
         "colorName": "Görsel 7",
         "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_7.jpg"
+        "imagePath": "/images/products/loop/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor/loop-lp004a-beyaz-hali-dekoratif-sisal-bukle-tozsuz-salon-halisi-yatak-odasi-koridor_7.webp"
       }
     ]
   }

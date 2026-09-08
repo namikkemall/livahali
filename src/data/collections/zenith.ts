@@ -5,7 +5,7 @@ export const zenithCollection: Category = {
   title: "ZENITH Serisi",
   description: "Premium catalog items extracted automatically.",
   brand: 'karmen',
-  coverImage: "/images/products/zenith/zenith-zn005a/zenith-zn005a_1.jpg",
+  coverImage: "/images/products/zenith/zenith-zn005a/zenith-zn005a_1.webp",
   products: [
     {
       "id": "zenith-zn001a",
@@ -20,31 +20,31 @@ export const zenithCollection: Category = {
           "id": "zenith-zn001a-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn001a/zenith-zn001a_1.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn001a/zenith-zn001a_1.webp"
         },
         {
           "id": "zenith-zn001a-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn001a/zenith-zn001a_2.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn001a/zenith-zn001a_2.webp"
         },
         {
           "id": "zenith-zn001a-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn001a/zenith-zn001a_3.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn001a/zenith-zn001a_3.webp"
         },
         {
           "id": "zenith-zn001a-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn001a/zenith-zn001a_4.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn001a/zenith-zn001a_4.webp"
         },
         {
           "id": "zenith-zn001a-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn001a/zenith-zn001a_5.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn001a/zenith-zn001a_5.webp"
         }
       ]
     },
@@ -61,31 +61,31 @@ export const zenithCollection: Category = {
           "id": "zenith-zn002a-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn002a/zenith-zn002a_1.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn002a/zenith-zn002a_1.webp"
         },
         {
           "id": "zenith-zn002a-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn002a/zenith-zn002a_2.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn002a/zenith-zn002a_2.webp"
         },
         {
           "id": "zenith-zn002a-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn002a/zenith-zn002a_3.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn002a/zenith-zn002a_3.webp"
         },
         {
           "id": "zenith-zn002a-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn002a/zenith-zn002a_4.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn002a/zenith-zn002a_4.webp"
         },
         {
           "id": "zenith-zn002a-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn002a/zenith-zn002a_5.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn002a/zenith-zn002a_5.webp"
         }
       ]
     },
@@ -102,31 +102,31 @@ export const zenithCollection: Category = {
           "id": "zenith-zn003a-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn003a/zenith-zn003a_1.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn003a/zenith-zn003a_1.webp"
         },
         {
           "id": "zenith-zn003a-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn003a/zenith-zn003a_2.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn003a/zenith-zn003a_2.webp"
         },
         {
           "id": "zenith-zn003a-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn003a/zenith-zn003a_3.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn003a/zenith-zn003a_3.webp"
         },
         {
           "id": "zenith-zn003a-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn003a/zenith-zn003a_4.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn003a/zenith-zn003a_4.webp"
         },
         {
           "id": "zenith-zn003a-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn003a/zenith-zn003a_5.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn003a/zenith-zn003a_5.webp"
         }
       ]
     },
@@ -143,31 +143,31 @@ export const zenithCollection: Category = {
           "id": "zenith-zn004a-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn004a/zenith-zn004a_1.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn004a/zenith-zn004a_1.webp"
         },
         {
           "id": "zenith-zn004a-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn004a/zenith-zn004a_2.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn004a/zenith-zn004a_2.webp"
         },
         {
           "id": "zenith-zn004a-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn004a/zenith-zn004a_3.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn004a/zenith-zn004a_3.webp"
         },
         {
           "id": "zenith-zn004a-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn004a/zenith-zn004a_4.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn004a/zenith-zn004a_4.webp"
         },
         {
           "id": "zenith-zn004a-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn004a/zenith-zn004a_5.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn004a/zenith-zn004a_5.webp"
         }
       ]
     },
@@ -184,31 +184,31 @@ export const zenithCollection: Category = {
           "id": "zenith-zn005a-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn005a/zenith-zn005a_1.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn005a/zenith-zn005a_1.webp"
         },
         {
           "id": "zenith-zn005a-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn005a/zenith-zn005a_2.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn005a/zenith-zn005a_2.webp"
         },
         {
           "id": "zenith-zn005a-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn005a/zenith-zn005a_3.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn005a/zenith-zn005a_3.webp"
         },
         {
           "id": "zenith-zn005a-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn005a/zenith-zn005a_4.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn005a/zenith-zn005a_4.webp"
         },
         {
           "id": "zenith-zn005a-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn005a/zenith-zn005a_5.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn005a/zenith-zn005a_5.webp"
         }
       ]
     },
@@ -225,31 +225,31 @@ export const zenithCollection: Category = {
           "id": "zenith-zn007a-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn007a/zenith-zn007a_1.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn007a/zenith-zn007a_1.webp"
         },
         {
           "id": "zenith-zn007a-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn007a/zenith-zn007a_2.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn007a/zenith-zn007a_2.webp"
         },
         {
           "id": "zenith-zn007a-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn007a/zenith-zn007a_3.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn007a/zenith-zn007a_3.webp"
         },
         {
           "id": "zenith-zn007a-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn007a/zenith-zn007a_4.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn007a/zenith-zn007a_4.webp"
         },
         {
           "id": "zenith-zn007a-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn007a/zenith-zn007a_5.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn007a/zenith-zn007a_5.webp"
         }
       ]
     },
@@ -266,31 +266,31 @@ export const zenithCollection: Category = {
           "id": "zenith-zn008a-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn008a/zenith-zn008a_1.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn008a/zenith-zn008a_1.webp"
         },
         {
           "id": "zenith-zn008a-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn008a/zenith-zn008a_2.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn008a/zenith-zn008a_2.webp"
         },
         {
           "id": "zenith-zn008a-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn008a/zenith-zn008a_3.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn008a/zenith-zn008a_3.webp"
         },
         {
           "id": "zenith-zn008a-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn008a/zenith-zn008a_4.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn008a/zenith-zn008a_4.webp"
         },
         {
           "id": "zenith-zn008a-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn008a/zenith-zn008a_5.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn008a/zenith-zn008a_5.webp"
         }
       ]
     },
@@ -307,31 +307,31 @@ export const zenithCollection: Category = {
           "id": "zenith-zn010a-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn010a/zenith-zn010a_1.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn010a/zenith-zn010a_1.webp"
         },
         {
           "id": "zenith-zn010a-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn010a/zenith-zn010a_2.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn010a/zenith-zn010a_2.webp"
         },
         {
           "id": "zenith-zn010a-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn010a/zenith-zn010a_3.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn010a/zenith-zn010a_3.webp"
         },
         {
           "id": "zenith-zn010a-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn010a/zenith-zn010a_4.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn010a/zenith-zn010a_4.webp"
         },
         {
           "id": "zenith-zn010a-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn010a/zenith-zn010a_5.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn010a/zenith-zn010a_5.webp"
         }
       ]
     },
@@ -348,31 +348,31 @@ export const zenithCollection: Category = {
           "id": "zenith-zn011a-v1",
           "colorName": "Görsel 1",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn011a/zenith-zn011a_1.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn011a/zenith-zn011a_1.webp"
         },
         {
           "id": "zenith-zn011a-v2",
           "colorName": "Görsel 2",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn011a/zenith-zn011a_2.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn011a/zenith-zn011a_2.webp"
         },
         {
           "id": "zenith-zn011a-v3",
           "colorName": "Görsel 3",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn011a/zenith-zn011a_3.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn011a/zenith-zn011a_3.webp"
         },
         {
           "id": "zenith-zn011a-v4",
           "colorName": "Görsel 4",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn011a/zenith-zn011a_4.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn011a/zenith-zn011a_4.webp"
         },
         {
           "id": "zenith-zn011a-v5",
           "colorName": "Görsel 5",
           "colorHex": "#7F8C8D",
-          "imagePath": "/images/products/zenith/zenith-zn011a/zenith-zn011a_5.jpg"
+          "imagePath": "/images/products/zenith/zenith-zn011a/zenith-zn011a_5.webp"
         }
       ]
     }
