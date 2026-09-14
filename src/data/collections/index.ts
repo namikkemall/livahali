@@ -16,6 +16,7 @@ import { diamenteCollection } from "./diamente";
 import { eleganceCollection } from "./elegance";
 import { elitCollection } from "./elit";
 import { etroCollection } from "./etro";
+import { focusCollection } from "./focus";
 import { fontanaCollection } from "./fontana";
 import { iconCollection } from "./icon";
 import { iconkidsCollection } from "./icon-kids";
@@ -31,8 +32,10 @@ import { lookmodernCollection } from "./look-modern";
 import { loopCollection } from "./loop";
 import { lotusCollection } from "./lotus";
 import { lotusplusCollection } from "./lotus-plus";
+import { luxiaCollection } from "./luxia";
 import { matrisCollection } from "./matris";
 import { meritCollection } from "./merit";
+import { mihenkCollection } from "./mihenk";
 import { sumerCollection } from "./sumer";
 import { tokyoCollection } from "./tokyo";
 import { trendCollection } from "./trend";
@@ -58,6 +61,7 @@ import { satensisalCollection } from "./saten-sisal";
 import { scalaCollection } from "./scala";
 import { solosCollection } from "./solos";
 import { stepCollection } from "./step";
+import { stenaCollection } from "./stena";
 import { tabloCollection } from "./tablo";
 import { tioraCollection } from "./tiora";
 import { vistaCollection } from "./vista";
@@ -75,6 +79,7 @@ export const allCollections: Category[] = [
   eleganceCollection,
   elitCollection,
   etroCollection,
+  focusCollection,
   fontanaCollection,
   iconCollection,
   iconkidsCollection,
@@ -90,8 +95,10 @@ export const allCollections: Category[] = [
   loopCollection,
   lotusCollection,
   lotusplusCollection,
+  luxiaCollection,
   matrisCollection,
   meritCollection,
+  mihenkCollection,
   sumerCollection,
   tokyoCollection,
   trendCollection,
@@ -116,6 +123,7 @@ export const allCollections: Category[] = [
   scalaCollection,
   solosCollection,
   stepCollection,
+  stenaCollection,
   tabloCollection,
   tioraCollection,
   vistaCollection,
