@@ -185,6 +185,7 @@ export const loyaCollection: Category = {
   },
   {
     "id": "ly010m",
+    "isLimitedStock": true,
     "name": "LY010M",
     description: "",
     tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -229,6 +230,7 @@ export const loyaCollection: Category = {
   },
   {
     "id": "ly001g",
+    "isLimitedStock": true,
     "name": "LY001G",
     description: "",
     tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -305,6 +307,7 @@ export const loyaCollection: Category = {
   },
   {
     "id": "ly004g",
+    "isLimitedStock": true,
     "name": "LY004G",
     description: "",
     tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -343,6 +346,7 @@ export const loyaCollection: Category = {
   },
   {
     "id": "ly005g",
+    "isLimitedStock": true,
     "name": "LY005G",
     description: "",
     tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],

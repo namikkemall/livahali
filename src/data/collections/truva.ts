@@ -221,6 +221,7 @@ export const truvaCollection: Category = {
   },
   {
     "id": "truva-tr032m-krem-rengi-hali-lacivert-geometrik-detayli-akrilik-yumusak-salon-halisi",
+    "isLimitedStock": true,
     "name": "TRUVA TR032M KREM RENGI HALI LACIVERT GEOMETRIK DETAYLI AKRILIK YUMUSAK SALON HALISI",
     "description": "Zarif ve modern çizgileriyle salonlarınızı güzelleştirecek Karmen Halı Truva TV032M, lacivert geometrik detaylarıyla göz alıcı bir estetik sunar. Yumuşak akrilik ve pamuk karışımı malzemesi sayesinde hem şıklığı hem de konforu bir arada bulacaksınız. Bu halı, modern dekorasyonlar için mükemmel bir tamamlayıcıdır.",
     "tags": [
@@ -274,6 +275,7 @@ export const truvaCollection: Category = {
   },
   {
     "id": "truva-tv032s-krem-rengi-hali-gold-geometrik-detayli-akrilik-yumusak-salon-oturma-odasi-halisi",
+    "isLimitedStock": true,
     "name": "TRUVA TV032S KREM RENGI HALI GOLD GEOMETRIK DETAYLI AKRILIK YUMUSAK SALON OTURMA ODASI HALISI",
     "description": "Evinizin şıklığını tamamlayacak olan Karmen Halı Truva Tv032s, gold geometrik detaylarıyla modern bir görünüm sunuyor. Akrilik ve pamuk karışımı malzemesiyle üretilen bu halı, yumuşak dokusu ve uzun ömürlü kullanımıyla dikkat çekiyor. Hem salon hem de oturma odası dekorasyonlarına mükemmel uyum sağlar.",
     "tags": [
@@ -451,6 +453,7 @@ export const truvaCollection: Category = {
   },
   {
     "id": "truva-tv035k",
+    "isLimitedStock": true,
     "name": "TRUVA TV035K",
     "description": "Karmen Halı Truva TR035K, krem zemin üzerine işlenen zarif bej geometrik desenleri ile modern ve sıcak bir atmosfer sunuyor. Estetik ve konforun buluştuğu bu halı, salonlarınızı sofistike bir dokunuşla tamamlayacak.",
     "tags": [
@@ -492,6 +495,7 @@ export const truvaCollection: Category = {
   },
   {
     "id": "truva-tv035m",
+    "isLimitedStock": true,
     "name": "TRUVA TV035M",
     "description": "Karmen Halı Truva TR035M, krem rengi zemin üzerine lacivert geometrik detaylarıyla dikkat çeken modern ve şık bir halıdır. Yumuşak dokusuyla konfor sunarken, kaliteli akrilik ve pamuk karışımıyla uzun ömürlü kullanım sağlar. Salonunuza modern bir dokunuş katmak isteyenler için mükemmel bir tercih!",
     "tags": [
@@ -533,6 +537,7 @@ export const truvaCollection: Category = {
   },
   {
     "id": "truva-tv035s",
+    "isLimitedStock": true,
     "name": "TRUVA TV035S",
     "description": "Karmen Halı Truva TR035S, zarif krem rengi zemin üzerine gold geometrik desenleriyle modern bir stil sunuyor. Bu halı, hem estetik hem de fonksiyonel açıdan evinizdeki konforu artırır. Yumuşak dokusu ve kaliteli malzemesiyle uzun yıllar kullanım sağlar.",
     "tags": [
@@ -609,6 +614,7 @@ export const truvaCollection: Category = {
   },
   {
     "id": "truva-tr035g-krem-rengi-hali-gri-geometrik-detayli-akrilik-yumusak-modern-salon-halisi",
+    "isLimitedStock": true,
     "name": "TRUVA TR035G KREM RENGI HALI GRI GEOMETRIK DETAYLI AKRILIK YUMUSAK MODERN SALON HALISI",
     "description": "Karmen Halı Truva TR035G, zarif krem rengi zemin üzerine işlenen gri geometrik detaylarıyla modern bir şıklık sunuyor. Hem estetik hem de konfor arayanlar için ideal olan bu halı, salonunuzun havasını anında değiştirecek.",
     "tags": [

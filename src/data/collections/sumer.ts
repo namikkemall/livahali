@@ -168,6 +168,7 @@ export const sumerCollection: Category = {
   },
   {
     "id": "sumer-sm008a-gri-beyaz-cizgi-desen-hali-dekoratif-modern-tozuyok-salon-halisi-koridor",
+    "isLimitedStock": true,
     "name": "SUMER SM008A GRI BEYAZ CIZGI DESEN HALI DEKORATIF MODERN TOZUYOK SALON HALISI KORIDOR",
     "description": "SUMER SM008A GRI BEYAZ CIZGI DESEN HALI DEKORATIF MODERN TOZUYOK SALON HALISI KORIDOR premium carpet model.",
     "tags": [
@@ -433,6 +434,7 @@ export const sumerCollection: Category = {
   },
   {
     "id": "sumer-sm014g",
+    "isLimitedStock": true,
     "name": "SUMER SM014G",
     "description": "SUMER SM014G premium carpet model.",
     "tags": [
@@ -539,6 +541,7 @@ export const sumerCollection: Category = {
   },
   {
     "id": "sumer-sm011a",
+    "isLimitedStock": true,
     "name": "SUMER SM011A",
     "description": "Sümer SM011A halı, krem rengi zemin üzerine işlenmiş renkli geometrik desenleriyle modern dekorasyon tutkunlarının gözdesi olmaya aday. yapısıyla sağlıklı bir yaşam alanı sunan bu halı, yüksek kaliteli malzemelerden üretilmiş olup dayanıklılığı ve kolay bakım özellikleriyle dikkat çeker. Şıklığı ve işlevselliği bir arada arayanlar için tasarlandı.",
     "tags": [

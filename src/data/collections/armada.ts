@@ -437,6 +437,7 @@ export const armadaCollection: Category = {
   },
   {
     "id": "ad009s",
+    "isLimitedStock": true,
     "name": "AD009S",
     description: "",
     tags: ["Tozu Yok", "Triko Akrilik", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],

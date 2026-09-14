@@ -9,6 +9,7 @@ export const quatroCollection: Category = {
   products: [
   {
     "id": "qu013a",
+    "isLimitedStock": true,
     "name": "QU013A",
     description: "",
     tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -141,6 +142,7 @@ export const quatroCollection: Category = {
   },
   {
     "id": "qua016",
+    "isLimitedStock": true,
     "name": "QUA016",
     description: "",
     tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -229,6 +231,7 @@ export const quatroCollection: Category = {
   },
   {
     "id": "qu008a",
+    "isLimitedStock": true,
     "name": "QU008A",
     description: "",
     tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],

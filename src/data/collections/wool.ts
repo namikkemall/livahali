@@ -9,6 +9,7 @@ export const woolCollection: Category = {
   products: [
   {
     "id": "wool-wl002a-bej-hali-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik-salon-halisi-koridor",
+    "isLimitedStock": true,
     "name": "WOOL WL002A BEJ HALI SISAL BUKLE DEKORATIF KABARTMALI HALI TOZSUZ ANTIALERJIK SALON HALISI KORIDOR",
     "description": "WOOL WL002A BEJ HALI SISAL BUKLE DEKORATIF KABARTMALI HALI TOZSUZ ANTIALERJIK SALON HALISI KORIDOR premium carpet model.",
     "tags": [
@@ -62,6 +63,7 @@ export const woolCollection: Category = {
   },
   {
     "id": "wool-wl003a-gri-hali-antrasit-detayli-sisal-bukle-dekoratif-kabartmali-hali-tozsuz-antialerjik",
+    "isLimitedStock": true,
     "name": "WOOL WL003A GRI HALI ANTRASIT DETAYLI SISAL BUKLE DEKORATIF KABARTMALI HALI TOZSUZ ANTIALERJIK",
     "description": "Karmen Halı Wool Wl003a, gri rengi ve antrasit detaylarıyla modern ve sofistike bir görünüm sunar. Sisal bukle dokusu, kabartmalı desenlerle birleşerek evinizin her köşesine estetik bir hava katar. Tozsuz özelliğiyle temizlik konusunda size kolaylık sağlar. Bu dekoratif halı, modern dekorasyon tarzlarına uyum sağlayacak zarif ve işlevsel bir seçenektir.",
     "tags": [
@@ -162,6 +164,7 @@ export const woolCollection: Category = {
   },
   {
     "id": "wool-wl005a-beyaz-hali-sisal-bukle-dekoratif-tozsuz-antialerjik-salon-halisi-yatak-odasi-koridor",
+    "isLimitedStock": true,
     "name": "WOOL WL005A BEYAZ HALI SISAL BUKLE DEKORATIF TOZSUZ ANTIALERJIK SALON HALISI YATAK ODASI KORIDOR",
     "description": "Karmen Halı Wool Wl005a, şık beyaz rengi ve sisal bukle dokusu ile modern ve minimalist dekorasyonun vazgeçilmez parçası olmaya aday. Tozsuz yapısı ve kolay temizlenebilirliği ile evinizde her zaman hijyen sağlar. Salon, yatak odası ve koridor gibi yaşam alanlarınızda rahatlıkla kullanabileceğiniz bu halı, sade ve doğal tasarımıyla yaşam alanlarınıza sofistike bir hava katacak.",
     "tags": [

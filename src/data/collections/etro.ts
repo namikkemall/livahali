@@ -56,6 +56,7 @@ export const etroCollection: Category = {
   },
   {
     "id": "etro-et007g",
+    "isLimitedStock": true,
     "name": "ETRO ET007G",
     "description": "Gri tonlarının zarif uyumuyla tasarlanmış Etro ET007G, modern çerçeveli desen yapısı ve parlak dokusuyla salonlara sofistike bir ambiyans kazandırır. Triko akrilik yüzeyi yumuşaklık ve ekstra parlaklık sunarken, pamuk tabanıyla zeminde güvenli ve sağlam kullanım sağlar. İpek Serisi’nin premium işçiliği ve yüksek yoğunluğu her adımda kalite hissi yaşatır.",
     "tags": [
@@ -97,6 +98,7 @@ export const etroCollection: Category = {
   },
   {
     "id": "etro-et008b",
+    "isLimitedStock": true,
     "name": "ETRO ET008B",
     "description": "Şık gri tonlarındaki modern geometrik desen yapısı ile Etro ET008B, salonlarınıza ferahlık ve enerji katar. Triko akrilik yüzeyi ekstra parlaklık ve yumuşaklık sunarken, pamuk tabanlı yapısıyla zeminde güvenli ve sağlam kullanım sağlar. İpek Serisi kalitesinde yüksek yoğunluk ve ağır dokusu her adımda kalite hissi taşır.",
     "tags": [
@@ -144,6 +146,7 @@ export const etroCollection: Category = {
   },
   {
     "id": "etro-et010a",
+    "isLimitedStock": true,
     "name": "ETRO ET010A",
     "description": "Yumuşak bej zemin üzerine işlenmiş modern desenleriyle Etro ET010A, salonlarınıza hem sıcaklık hem zarafet katıyor. Triko akrilik yüzeyi ekstra parlaklık ve konfor sağlarken, %100 pamuk taban ile zeminde güvenli kullanım sunuyor. İpek Serisi'nin üstün kalite anlayışıyla 1860 gr/m² yüksek yoğunluk ve ağır dokusunu her adımda hissedin!",
     "tags": [
@@ -191,6 +194,7 @@ export const etroCollection: Category = {
   },
   {
     "id": "etro-et011g",
+    "isLimitedStock": true,
     "name": "ETRO ET011G",
     "description": "Sade gri zemin üzerine işlenmiş şık modern desenleriyle Etro ET011G, salon ve oturma alanlarınızda çağdaş bir atmosfer yaratır. Triko akrilik yüzeyi ekstra parlaklık ve yumuşaklık sağlarken, pamuk tabanlı yapısı sayesinde zeminde güvenli ve sağlam tutuş sunar. İpek Serisi’nin premium işçiliği ile yoğun dokusunu her adımda hissedin.",
     "tags": [
@@ -473,6 +477,7 @@ export const etroCollection: Category = {
   },
   {
     "id": "etro-et006b",
+    "isLimitedStock": true,
     "name": "ETRO ET006B",
     "description": "Yumuşak krem tonundaki modern desenleriyle dikkat çeken Etro ET006B, salonunuza ferahlık ve modern bir dokunuş katar. Triko akrilik yüzeyi ekstra parlaklık ve konfor sunarken, pamuk taban sayesinde zeminde sağlam ve güvenli kullanım sağlar. İpek Serisi kalitesiyle yüksek yoğunluğu ve ağır yapısıyla her adımda kalite hissi yaratır",
     "tags": [
@@ -520,6 +525,7 @@ export const etroCollection: Category = {
   },
   {
     "id": "etro-et009b",
+    "isLimitedStock": true,
     "name": "ETRO ET009B",
     "description": "Sıcak krem tonu üzerinde modern desenlerle bezeli Etro ET009B, salonlarınızda ferah ve zarif bir atmosfer sunar. Triko akrilik yüzeyi ekstra parlaklık ve konfor sağlar, %100 pamuk taban ise güvenli ve sağlam bir kullanım deneyimi sunar. İpek Serisi'ne ait bu özel parça, yoğun dokusu ve ağır yapısıyla kalite hissini her adımda hissettirir.",
     "tags": [

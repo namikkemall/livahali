@@ -161,6 +161,7 @@ export const effectCollection: Category = {
     },
     {
       "id": "ef007a",
+    "isLimitedStock": true,
       "name": "EF007A",
       description: "",
       tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -249,6 +250,7 @@ export const effectCollection: Category = {
     },
     {
       "id": "ef009a",
+    "isLimitedStock": true,
       "name": "EF009A",
       description: "",
       tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -293,6 +295,7 @@ export const effectCollection: Category = {
     },
     {
       "id": "ef010a",
+    "isLimitedStock": true,
       "name": "EF010A",
       description: "",
       tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],

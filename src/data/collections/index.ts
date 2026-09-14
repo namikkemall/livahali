@@ -17,7 +17,6 @@ import { eleganceCollection } from "./elegance";
 import { elitCollection } from "./elit";
 import { etroCollection } from "./etro";
 import { fontanaCollection } from "./fontana";
-import { frescoCollection } from "./fresco";
 import { iconCollection } from "./icon";
 import { iconkidsCollection } from "./icon-kids";
 import { idolCollection } from "./idol";
@@ -42,14 +41,12 @@ import { viskonaCollection } from "./viskona";
 import { vogueCollection } from "./vogue";
 import { woolCollection } from "./wool";
 import { zeenCollection } from "./zeen";
-import { zenithCollection } from "./zenith";
 
 // ── Saten Collections ──
 import { armadaCollection } from "./armada";
 import { armonyCollection } from "./armony";
 import { crownCollection } from "./crown";
 import { effectCollection } from "./effect";
-import { farahCollection } from "./farah";
 import { feelCollection } from "./feel";
 import { fesaneCollection } from "./fesane";
 import { loyaCollection } from "./loya";
@@ -79,7 +76,6 @@ export const allCollections: Category[] = [
   elitCollection,
   etroCollection,
   fontanaCollection,
-  frescoCollection,
   iconCollection,
   iconkidsCollection,
   idolCollection,
@@ -104,13 +100,11 @@ export const allCollections: Category[] = [
   vogueCollection,
   woolCollection,
   zeenCollection,
-  zenithCollection,
   // Saten
   armadaCollection,
   armonyCollection,
   crownCollection,
   effectCollection,
-  farahCollection,
   feelCollection,
   fesaneCollection,
   loyaCollection,

@@ -120,6 +120,7 @@ const productTags = category.products[0]?.tags || [];
               name={getCardName(prod.name)}
               description={prod.description}
               variants={prod.variants}
+              isLimitedStock={prod.isLimitedStock}
             />
           ))}
         </div>

@@ -150,6 +150,7 @@ export const vogueCollection: Category = {
   },
   {
     "id": "voguevg003a",
+    "isLimitedStock": true,
     "name": "VOGUEVG003A",
     "description": "Estetik dokunuşlarla dekore edilmiş alanlar için tasarlanan Vogue VG003A, modern ve klasik çizgilerin kusursuz birleşimini sunar. Bej ve gri geçişli tonları ile sade ve zarif bir atmosfer oluşturur. 100 tarak sık dokuması, parlak viskon yapısı ve yüksek gramajı ile hem şık hem dayanıklı bir seçimdir.",
     "tags": [
@@ -244,6 +245,7 @@ export const vogueCollection: Category = {
   },
   {
     "id": "voguevg005z",
+    "isLimitedStock": true,
     "name": "VOGUEVG005Z",
     "description": "Sıcak gri tonlarıyla modern desenlerin zarif birleşimi: Vogue VG005Z, salonlarınıza şıklık ve çağdaşlık katıyor. Işıltılı viskon ipliğiyle ışığı nazikçe yansıtan halı, %100 pamuk tabanı sayesinde zemine sağlam ve kaymaz bir duruş sunar. 7,5 mm hav yüksekliğiyle yumuşak ve konforlu adımlar, 3000 gr/m² gramajıyla ise dayanıklı kullanım sağlar. Estetikten ödün vermeyenler için ideal seçim!",
     "tags": [

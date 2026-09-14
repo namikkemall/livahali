@@ -168,6 +168,7 @@ export const loopCollection: Category = {
   },
   {
     "id": "loop-lp023g",
+    "isLimitedStock": true,
     "name": "LOOP LP023G",
     "description": "Karmen Halı Loop Lp023g, İskandinav tarzı minimal dekorasyon arayanlar için ideal bir seçenek sunuyor. Gri renkteki bu dekoratif halı, sade ve modern görünümüyle her türlü yaşam alanında sofistike bir atmosfer yaratır. Sisal bukle dokusu ve cut-loop hav yapısıyla estetik ve konforu bir arada sunar. Toz tutmayan özellikleriyle sağlık dostu olan bu halı, hem yatak odasında hem de salon gibi geniş alanlarda rahatlıkla kullanılabilir.",
     "tags": [
@@ -262,6 +263,7 @@ export const loopCollection: Category = {
   },
   {
     "id": "loop-lp024g",
+    "isLimitedStock": true,
     "name": "LOOP LP024G",
     "description": "Karmen Halı Loop LP024G İskandinav tarzı minimal dekorasyon arayanlar için ideal bir seçenek sunuyor. Gri renkteki bu dekoratif halı, sade ve modern görünümüyle her türlü yaşam alanında sofistike bir atmosfer yaratır. Sisal bukle dokusu ve cut-loop hav yapısıyla estetik ve konforu bir arada sunar. Toz tutmayan özellikleriyle sağlık dostu olan bu halı, hem yatak odasında hem de salon gibi geniş alanlarda rahatlıkla kullanılabilir.",
     "tags": [
@@ -309,6 +311,7 @@ export const loopCollection: Category = {
   },
   {
     "id": "loop-lp024w",
+    "isLimitedStock": true,
     "name": "LOOP LP024W",
     "description": "Loop LP024W Beyaz Halı, sade ve zarif tasarımıyla modern yaşam alanlarına şıklık kazandırır. Yumuşak bukleli dokusu sayesinde adım attığınız her an konforu hissedersiniz. Sisal görünümlü özel dokuması ile dekoratif bir duruş sunan bu halı, İskandinav tarzı minimalist ev dekorasyonları için mükemmel bir tercihtir.",
     "tags": [

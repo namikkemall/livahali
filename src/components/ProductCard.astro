@@ -18,9 +18,10 @@ interface Props {
   name: string;
   description: string;
   variants: ProductVariant[];
+  isLimitedStock?: boolean;
 }
 
-const { categoryId, id, name, description, variants } = Astro.props;
+const { categoryId, id, name, description, variants, isLimitedStock } = Astro.props;
 const primaryImage = variants[0]?.imagePath ?? "";
 ---
 
@@ -30,6 +31,15 @@ const primaryImage = variants[0]?.imagePath ?? "";
 >
   <!-- Primary image with fixed aspect ratio -->
   <div class="relative aspect-[2/3] overflow-hidden">
+    {isLimitedStock && (
+      <span class="absolute top-2.5 left-2.5 z-10 inline-flex items-center gap-1.5 rounded-full bg-amber-600/95 backdrop-blur-md px-2.5 py-1 text-[11px] font-bold tracking-tight text-white shadow-md">
+        <span class="relative flex h-2 w-2">
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-amber-300 opacity-75"></span>
+          <span class="relative inline-flex rounded-full h-2 w-2 bg-white"></span>
+        </span>
+        Stoklarla Sınırlı
+      </span>
+    )}
     <img
       src={primaryImage}
       alt={name}

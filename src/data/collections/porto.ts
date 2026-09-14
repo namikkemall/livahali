@@ -9,6 +9,7 @@ export const portoCollection: Category = {
   products: [
   {
     "id": "pp005y",
+    "isLimitedStock": true,
     "name": "PP005Y",
     description: "",
     tags: ["Saten Tekstil"],
@@ -449,6 +450,7 @@ export const portoCollection: Category = {
   },
   {
     "id": "pp004g",
+    "isLimitedStock": true,
     "name": "PP004G",
     description: "",
     tags: ["Saten Tekstil"],

@@ -239,6 +239,15 @@ const jsonLdBreadcrumb = {
             class="flex-1 overflow-hidden rounded-(--radius-card) border border-outline bg-surface min-w-0"
           >
             <div class="relative aspect-[2/3]">
+              {product.isLimitedStock && (
+                <span class="absolute top-3.5 left-3.5 z-10 inline-flex items-center gap-1.5 rounded-full bg-amber-600/95 backdrop-blur-md px-3 py-1.5 text-xs font-bold tracking-tight text-white shadow-md">
+                  <span class="relative flex h-2 w-2">
+                    <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-amber-300 opacity-75"></span>
+                    <span class="relative inline-flex rounded-full h-2 w-2 bg-white"></span>
+                  </span>
+                  Stoklarla Sınırlı
+                </span>
+              )}
               <img
                 id="product-main-image"
                 src={defaultVariant.imagePath}
@@ -272,6 +281,14 @@ const jsonLdBreadcrumb = {
 
       <!-- ── RIGHT: Product info + CTA ── -->
       <div class="flex flex-col min-w-0">
+        {product.isLimitedStock && (
+          <div class="mb-3 inline-flex items-center gap-2 rounded-lg border border-amber-500/30 bg-amber-500/10 px-3.5 py-1.5 text-xs font-semibold text-amber-700 dark:text-amber-400 w-fit">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 shrink-0 text-amber-500" viewBox="0 0 20 20" fill="currentColor">
+              <path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd" />
+            </svg>
+            <span>Fabrika Stoklarıyla Sınırlı — Stok durumunu teyit ediniz</span>
+          </div>
+        )}
         <h1 class="text-3xl font-extrabold text-on-surface sm:text-4xl">
           {displayName}
         </h1>
@@ -329,7 +346,7 @@ const jsonLdBreadcrumb = {
           <!-- WhatsApp button -->
           <a
             id="whatsapp-cta"
-            href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(`Merhaba, şu model hakkında bilgi almak istiyorum: ${displayName}${availableSizes.length > 0 ? `, ${availableSizes[0]} ebadında` : ''}.`)}`}
+            href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(`Merhaba, şu model hakkında bilgi almak istiyorum: ${displayName}${availableSizes.length > 0 ? `, ${availableSizes[0]} ebadında` : ''}${product.isLimitedStock ? ' (Stoklarla sınırlı model, güncel stok durumunu teyit etmek istiyorum)' : ''}.`)}`}
             target="_blank"
             rel="noopener noreferrer"
             class="flex w-full items-center justify-center gap-3 rounded-(--radius-btn) bg-whatsapp px-6 py-4 text-base font-bold text-white transition-colors hover:bg-whatsapp-hover"
@@ -387,6 +404,7 @@ const jsonLdBreadcrumb = {
         define:vars={{
           productName: displayName,
           whatsappNumber: WHATSAPP_NUMBER,
+          isLimitedStock: !!product.isLimitedStock,
         }}
       >
         document.addEventListener("DOMContentLoaded", () => {
@@ -408,8 +426,9 @@ const jsonLdBreadcrumb = {
           function buildWhatsAppMsg(modelInfo) {
             const size = getSelectedSize();
             const sizePart = size ? `, ${size} ebadında` : "";
+            const stockPart = isLimitedStock ? " (Stoklarla sınırlı model, güncel stok durumunu teyit etmek istiyorum)" : "";
             return encodeURIComponent(
-              `Merhaba, şu model hakkında bilgi almak istiyorum: ${modelInfo}${sizePart}.`
+              `Merhaba, şu model hakkında bilgi almak istiyorum: ${modelInfo}${sizePart}${stockPart}.`
             );
           }
 
@@ -507,6 +526,7 @@ const jsonLdBreadcrumb = {
         define:vars={{
           displayNameForSize: displayName,
           whatsappNumberForSize: WHATSAPP_NUMBER,
+          isLimitedStockForSize: !!product.isLimitedStock,
         }}
       >
         document.addEventListener("DOMContentLoaded", () => {
@@ -518,8 +538,9 @@ const jsonLdBreadcrumb = {
 
           function updateWhatsAppLinks(selectedSize) {
             const sizePart = selectedSize ? `, ${selectedSize} ebadında` : "";
+            const stockPart = isLimitedStockForSize ? " (Stoklarla sınırlı model, güncel stok durumunu teyit etmek istiyorum)" : "";
             const msg = encodeURIComponent(
-              `Merhaba, şu model hakkında bilgi almak istiyorum: ${displayNameForSize}${sizePart}.`
+              `Merhaba, şu model hakkında bilgi almak istiyorum: ${displayNameForSize}${sizePart}${stockPart}.`
             );
             if (ctaLink) {
               ctaLink.href = `https://wa.me/${whatsappNumberForSize}?text=${msg}`;
@@ -559,7 +580,7 @@ const jsonLdBreadcrumb = {
   <div class="fixed bottom-6 right-6 z-50 lg:hidden">
     <a
       id="whatsapp-fab"
-      href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(`Merhaba, şu model hakkında bilgi almak istiyorum: ${displayName}${availableSizes.length > 0 ? `, ${availableSizes[0]} ebadında` : ''}.`)}`}
+      href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(`Merhaba, şu model hakkında bilgi almak istiyorum: ${displayName}${availableSizes.length > 0 ? `, ${availableSizes[0]} ebadında` : ''}${product.isLimitedStock ? ' (Stoklarla sınırlı model, güncel stok durumunu teyit etmek istiyorum)' : ''}.`)}`}
       target="_blank"
       rel="noopener noreferrer"
       class="flex h-14 w-14 items-center justify-center rounded-full bg-whatsapp shadow-lg shadow-whatsapp/30 transition-transform hover:scale-110"

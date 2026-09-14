@@ -115,6 +115,7 @@ export const tokyoCollection: Category = {
   },
   {
     "id": "tokyo-tk001m-gri-hali-lacivert-detayli-modern-akrilik-hali-kaymaz-taban-tozuaz-salon-halisi-koridor",
+    "isLimitedStock": true,
     "name": "TOKYO TK001M GRI HALI LACIVERT DETAYLI MODERN AKRILIK HALI KAYMAZ TABAN TOZUAZ SALON HALISI KORIDOR",
     "description": "TOKYO TK001M GRI HALI LACIVERT DETAYLI MODERN AKRILIK HALI KAYMAZ TABAN TOZUAZ SALON HALISI KORIDOR premium carpet model.",
     "tags": [
@@ -168,6 +169,7 @@ export const tokyoCollection: Category = {
   },
   {
     "id": "tokyo-tk002m-gri-hali-lacivert-detayli-modern-akrilik-kaymaz-taban-tozuaz-salon-halisi-yatak-odasi",
+    "isLimitedStock": true,
     "name": "TOKYO TK002M GRI HALI LACIVERT DETAYLI MODERN AKRILIK KAYMAZ TABAN TOZUAZ SALON HALISI YATAK ODASI",
     "description": "TOKYO TK002M GRI HALI LACIVERT DETAYLI MODERN AKRILIK KAYMAZ TABAN TOZUAZ SALON HALISI YATAK ODASI premium carpet model.",
     "tags": [
@@ -221,6 +223,7 @@ export const tokyoCollection: Category = {
   },
   {
     "id": "tokyo-tk003m-gri-hali-lacivert-deyatli-modern-akrilik-hali-kaymaz-taban-tozuaz-salon-halisi-koridor",
+    "isLimitedStock": true,
     "name": "TOKYO TK003M GRI HALI LACIVERT DEYATLI MODERN AKRILIK HALI KAYMAZ TABAN TOZUAZ SALON HALISI KORIDOR",
     "description": "TOKYO TK003M GRI HALI LACIVERT DEYATLI MODERN AKRILIK HALI KAYMAZ TABAN TOZUAZ SALON HALISI KORIDOR premium carpet model.",
     "tags": [
@@ -468,6 +471,7 @@ export const tokyoCollection: Category = {
   },
   {
     "id": "tokyo-01771a",
+    "isLimitedStock": true,
     "name": "TOKYO 01771A",
     "description": "TOKYO 01771A premium carpet model.",
     "tags": [

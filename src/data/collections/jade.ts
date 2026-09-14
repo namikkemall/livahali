@@ -56,6 +56,7 @@ export const jadeCollection: Category = {
   },
   {
     "id": "jade-jd002g",
+    "isLimitedStock": true,
     "name": "JADE JD002G",
     "description": "Zamansız gri tonlarının modern desenlerle birleştiği Jade JD002G, dekorasyona sade ve zarif bir dokunuş katıyor. Triko akrilik yapısı ile dayanıklılık ve konforu bir araya getirirken, doğal pamuk tabanı ile kaymaz ve sağlıklı bir kullanım sunar. Özellikle salon ve koridor gibi sık kullanılan alanlar için ideal bir seçimdir",
     "tags": [
@@ -385,6 +386,7 @@ export const jadeCollection: Category = {
   },
   {
     "id": "jade-jd014w",
+    "isLimitedStock": true,
     "name": "JADE JD014W",
     "description": "Zarif beyaz zemin üzerinde modern desenlerle süslenen Jade JD014W, evinizin atmosferine ferahlık ve stil katar. Triko akrilik yüzey, ekstra yumuşaklık sunarken; pamuklu kaymaz tabanı, her zeminde güvenli kullanım sağlar. Hem dekoratif hem de konforlu bir halı arayanlar için harika bir tercih!",
     "tags": [
@@ -526,6 +528,7 @@ export const jadeCollection: Category = {
   },
   {
     "id": "jade-jd011b",
+    "isLimitedStock": true,
     "name": "JADE JD011B",
     "description": "Saf beyaz rengi ve modern geometrik desenleriyle Jade JD011B, evinizin atmosferine ferahlık ve şıklık getirir. Triko akrilik yüzeyi ekstra yumuşaklık sunarken, pamuk tabanı ve kaymaz yapısı ile güvenli kullanım sağlar. Her adımda konfor hissi veren, aynı zamanda estetik bir dekoratif öğedir.",
     "tags": [
@@ -714,6 +717,7 @@ export const jadeCollection: Category = {
   },
   {
     "id": "jade-jd016b",
+    "isLimitedStock": true,
     "name": "JADE JD016B",
     "description": "Modern geometrik desenlerle bezenmiş bej zeminli Jade JD016B, sıcak ve şık bir atmosfer yaratmak isteyenler için ideal tercihtir. Triko akrilik yüzeyi ekstra yumuşaklık sunarken, pamuklu kaymaz tabanıyla hem güven hem de sağlamlık sağlar. Dekorasyonunuza doğal uyum katarken rahatlığı da elden bırakmaz.",
     "tags": [

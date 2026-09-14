@@ -46,44 +46,6 @@ export const armonyCollection: Category = {
     ]
   },
   {
-    "id": "ar002a",
-    "name": "AR002A",
-    description: "",
-    tags: ["Tozu Az", "Triko Akrilik", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
-    "variants": [
-      {
-        "id": "ar002a-v1",
-        "colorName": "Açı 1",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar002a/ar002a_1.webp"
-      },
-      {
-        "id": "ar002a-v2",
-        "colorName": "Açı 2",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar002a/ar002a_2.webp"
-      },
-      {
-        "id": "ar002a-v3",
-        "colorName": "Açı 3",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar002a/ar002a_3.webp"
-      },
-      {
-        "id": "ar002a-v4",
-        "colorName": "Açı 4",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar002a/ar002a_4.webp"
-      },
-      {
-        "id": "ar002a-v5",
-        "colorName": "Açı 5",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar002a/ar002a_5.webp"
-      }
-    ]
-  },
-  {
     "id": "ar003a",
     "name": "AR003A",
     description: "",
@@ -146,82 +108,6 @@ export const armonyCollection: Category = {
         "colorName": "Açı 1",
         "colorHex": "#7F8C8D",
         "imagePath": "/images/products/armony/ar006a/ar006a_1.webp"
-      }
-    ]
-  },
-  {
-    "id": "ar007a",
-    "name": "AR007A",
-    description: "",
-    tags: ["Tozu Az", "Triko Akrilik", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
-    "variants": [
-      {
-        "id": "ar007a-v1",
-        "colorName": "Açı 1",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar007a/ar007a_1.webp"
-      },
-      {
-        "id": "ar007a-v2",
-        "colorName": "Açı 2",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar007a/ar007a_2.webp"
-      },
-      {
-        "id": "ar007a-v3",
-        "colorName": "Açı 3",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar007a/ar007a_3.webp"
-      },
-      {
-        "id": "ar007a-v4",
-        "colorName": "Açı 4",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar007a/ar007a_4.webp"
-      },
-      {
-        "id": "ar007a-v5",
-        "colorName": "Açı 5",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar007a/ar007a_5.webp"
-      }
-    ]
-  },
-  {
-    "id": "ar008a",
-    "name": "AR008A",
-    description: "",
-    tags: ["Tozu Az", "Triko Akrilik", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
-    "variants": [
-      {
-        "id": "ar008a-v1",
-        "colorName": "Açı 1",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar008a/ar008a_1.webp"
-      },
-      {
-        "id": "ar008a-v2",
-        "colorName": "Açı 2",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar008a/ar008a_2.webp"
-      },
-      {
-        "id": "ar008a-v3",
-        "colorName": "Açı 3",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar008a/ar008a_3.webp"
-      },
-      {
-        "id": "ar008a-v4",
-        "colorName": "Açı 4",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar008a/ar008a_4.webp"
-      },
-      {
-        "id": "ar008a-v5",
-        "colorName": "Açı 5",
-        "colorHex": "#7F8C8D",
-        "imagePath": "/images/products/armony/ar008a/ar008a_5.webp"
       }
     ]
   },

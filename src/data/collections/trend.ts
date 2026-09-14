@@ -62,6 +62,7 @@ export const trendCollection: Category = {
   },
   {
     "id": "trend-tr008a-gri-hali-gold-detayli-klasik-geometrik-desenli-akrilik-yumusak-salon-halisi",
+    "isLimitedStock": true,
     "name": "TREND TR008A GRI HALI GOLD DETAYLI KLASIK GEOMETRIK DESENLI AKRILIK YUMUSAK SALON HALISI",
     "description": "TREND TR008A GRI HALI GOLD DETAYLI KLASIK GEOMETRIK DESENLI AKRILIK YUMUSAK SALON HALISI premium carpet model.",
     "tags": [
@@ -121,6 +122,7 @@ export const trendCollection: Category = {
   },
   {
     "id": "trend-tr011a-gri-hali-geometrik-detayli-akrilik-yumusak-salon-halisi-oturma-odasi-halisi",
+    "isLimitedStock": true,
     "name": "TREND TR011A GRI HALI GEOMETRIK DETAYLI AKRILIK YUMUSAK SALON HALISI OTURMA ODASI HALISI",
     "description": "TREND TR011A GRI HALI GEOMETRIK DETAYLI AKRILIK YUMUSAK SALON HALISI OTURMA ODASI HALISI premium carpet model.",
     "tags": [

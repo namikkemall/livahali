@@ -185,6 +185,7 @@ export const crownCollection: Category = {
   },
   {
     "id": "cr005w",
+    "isLimitedStock": true,
     "name": "CR005W",
     description: "",
     tags: ["Spor Saçak", "Tozu Az", "Triko Akrilik", "Pamuk Taban", "Saten Tekstil"],
@@ -229,6 +230,7 @@ export const crownCollection: Category = {
   },
   {
     "id": "cr006w",
+    "isLimitedStock": true,
     "name": "CR006W",
     description: "",
     tags: ["Spor Saçak", "Tozu Az", "Triko Akrilik", "Pamuk Taban", "Saten Tekstil"],

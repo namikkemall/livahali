@@ -9,6 +9,7 @@ export const scalaCollection: Category = {
   products: [
   {
     "id": "sc013s",
+    "isLimitedStock": true,
     "name": "SC013S",
     description: "",
     tags: ["Tozu Az", "Triko Akrilik", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -97,6 +98,7 @@ export const scalaCollection: Category = {
   },
   {
     "id": "sc015g",
+    "isLimitedStock": true,
     "name": "SC015G",
     description: "",
     tags: ["Tozu Az", "Triko Akrilik", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -141,6 +143,7 @@ export const scalaCollection: Category = {
   },
   {
     "id": "sc016g",
+    "isLimitedStock": true,
     "name": "SC016G",
     description: "",
     tags: ["Tozu Az", "Triko Akrilik", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -337,6 +340,7 @@ export const scalaCollection: Category = {
   },
   {
     "id": "sc003a",
+    "isLimitedStock": true,
     "name": "SC003A",
     description: "",
     tags: ["Tozu Az", "Triko Akrilik", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -489,6 +493,7 @@ export const scalaCollection: Category = {
   },
   {
     "id": "sc009a",
+    "isLimitedStock": true,
     "name": "SC009A",
     description: "",
     tags: ["Tozu Az", "Triko Akrilik", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],

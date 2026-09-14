@@ -103,6 +103,7 @@ export const iconCollection: Category = {
   },
   {
     "id": "icon-ic003s",
+    "isLimitedStock": true,
     "name": "ICON IC003S",
     "description": "Icon IC003S, zarif krem tonunu göz alıcı altın (gold) detaylarla birleştirerek yaşam alanlarınıza lüks bir hava katar. Akrilik iplik yapısı ile yumuşaklık ve dayanıklılığı bir araya getirirken, pamuk tabanı ile kaymayı önler. 7 mm hav yüksekliği ve düşük toz tutma özelliğiyle hem konforlu hem de temizliği kolay bir halıdır.",
     "tags": [
@@ -244,6 +245,7 @@ export const iconCollection: Category = {
   },
   {
     "id": "icon-ic006r",
+    "isLimitedStock": true,
     "name": "ICON IC006R",
     "description": "Icon IC006R, yaratıcı dekorasyonu sevenler için tasarlanmış bir halıdır! Krem zemin üzerine canlı renklerde geometrik detaylarla şekillendirilmiş tasarımı, yaşam alanlarınıza dinamik bir hava katar. Akrilik dokusu yumuşaklık sunarken, pamuk tabanı zemin dostudur. Toz tutmayan yapısı ve kolay temizlenmesiyle hem estetik hem de işlevsellik bir arada.",
     "tags": [

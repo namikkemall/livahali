@@ -25,6 +25,7 @@ export interface Product {
   description: string;
   tags: string[];
   variants: ProductVariant[];
+  isLimitedStock?: boolean;
 }
 
 export interface Category {

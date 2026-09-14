@@ -305,6 +305,7 @@ export const vistaCollection: Category = {
   },
   {
     "id": "vs003a",
+    "isLimitedStock": true,
     "name": "VS003A",
     description: "",
     tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -343,6 +344,7 @@ export const vistaCollection: Category = {
   },
   {
     "id": "vs004g",
+    "isLimitedStock": true,
     "name": "VS004G",
     description: "",
     tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -457,6 +459,7 @@ export const vistaCollection: Category = {
   },
   {
     "id": "vs007a",
+    "isLimitedStock": true,
     "name": "VS007A",
     description: "",
     tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -495,6 +498,7 @@ export const vistaCollection: Category = {
   },
   {
     "id": "vs007g",
+    "isLimitedStock": true,
     "name": "VS007G",
     description: "",
     tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -571,6 +575,7 @@ export const vistaCollection: Category = {
   },
   {
     "id": "vs012a",
+    "isLimitedStock": true,
     "name": "VS012A",
     description: "",
     tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],
@@ -609,6 +614,7 @@ export const vistaCollection: Category = {
   },
   {
     "id": "vs013a",
+    "isLimitedStock": true,
     "name": "VS013A",
     description: "",
     tags: ["Anti Alerjik", "Tozu Yok", "Pamuk Taban", "Daire", "Oval", "Spor Saçak", "Overlok", "Katlama", "Rulo Kesim", "Saten Tekstil"],

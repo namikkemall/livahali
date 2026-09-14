@@ -215,6 +215,7 @@ export const bestCollection: Category = {
     },
     {
       "id": "best-110-gri-hali-spor-desen-lacivert-detayli-ince-parlak-makinada-yikanabilir-antialerjik-modern",
+    "isLimitedStock": true,
       "name": "BEST 110 GRI HALI SPOR DESEN LACIVERT DETAYLI INCE PARLAK MAKINADA YIKANABILIR ANTIALERJIK MODERN",
       "description": "Karmen Halı Best 110, spor desenlerinin modern bir yorumunu gri ve lacivert tonlarının şık uyumuyla sunar. Parlak dokusu ve ince yapısıyla her türlü iç mekâna zarif bir dokunuş yaparken, makinada yıkanabilir olması ile kullanım kolaylığı sağlar. Toz tutmayan özellikleriyle sağlıklı bir ortam sunarak evinizin havasını tazeler.",
       "tags": [
@@ -468,6 +469,7 @@ export const bestCollection: Category = {
     },
     {
       "id": "best-115",
+    "isLimitedStock": true,
       "name": "BEST 115",
       "description": "BEST 115 premium carpet model.",
       "tags": [
